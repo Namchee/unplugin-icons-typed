@@ -3,7 +3,9 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 
-import A from '~icons/lucide/activity';
+import A from '~icons/lucide/align-start-horizontal';
+
+import { Circle } from 'lucide-react';
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>

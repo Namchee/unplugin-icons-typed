@@ -14,7 +14,8 @@
     "noEmit": true,
 
     "types": [
-      "./.unplugin/types.d.ts"
+      "./.unplugin/sample.d.ts",
+      "./.unplugin/type.d.ts"
     ],
 
     /* Linting */
