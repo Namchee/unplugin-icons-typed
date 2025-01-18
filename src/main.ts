@@ -3,7 +3,7 @@ import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
 
-import A from '~icons/lucide/align-start-horizontal';
+import A from '~icons/lucide/circle';
 
 import { Circle } from 'lucide-react';
 
