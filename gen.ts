@@ -1,28 +1,70 @@
-import { writeFileSync } from "node:fs";
+import { resolve } from "node:path";
+
+import { readdirSync } from "node:fs";
 import { readFile } from "node:fs/promises";
-import { globSync } from "tinyglobby";
 
-const defPath = globSync("./node_modules/@iconify-json/lucide/icons.json");
-const iconDef = await Promise.all(
+type IconifyJSON = {
+  icons: Record<string, { body: string }>[];
+  aliases: Record<string, { parent: string }>[];
+}
+
+type IconifyInfo = {
+  name: string;
+  author: {
+    name: string;
+    url: string;
+  }
+}
+
+type IconPack = {
+  data: IconifyJSON;
+  info: IconifyInfo;
+}
+
+const baseIconifyDir = resolve(process.cwd(), "node_modules", "@iconify-json");
+const defPath = readdirSync(baseIconifyDir);
+
+const iconDef: IconPack[] = await Promise.all(
   defPath.map(async (path) => {
-    const content = await readFile(path);
+    const [icons, meta] = await Promise.all([
+      readFile(
+        resolve(baseIconifyDir, path, 'icons.json'),
+      ),
+      readFile(
+        resolve(baseIconifyDir, path, 'info.json'),
+      ),
+    ]);
 
-    return JSON.parse(content.toString('utf-8'));
+    return {
+      data: JSON.parse(icons.toString("utf-8")),
+      info: JSON.parse(meta.toString("utf-8")),
+    }
   })
 );
 
-const generateType = (icon: string) => {
-  return `
-declare module '~icons/lucide/${icon}' {
-  const component: string;
-  export default component;
-}
-`
-}
+console.log(iconDef);
 
-const type = Object.entries(iconDef[0].icons).reduce((acc, [key, value]) => {
-  return [acc, generateType(key)].join('');
-}, '');
+// const generateType = (icon: string) => {
+//   return `
+// declare module 'virtual:icons/lucide/${icon}' {
+//   const component: string;
+//   export default component;
+// }
 
-writeFileSync('./.unplugin/type.d.ts', type);
+// declare module '~icons/lucide/${icon}' {
+//   const component: string;
+//   export default component;
+// }
+// `;
+// };
 
+// const type = [
+//   ...new Set([
+//     ...Object.keys(iconDef[0].icons),
+//     ...Object.keys(iconDef[0].aliases),
+//   ]),
+// ].reduce((acc, val) => {
+//   return [acc, generateType(val)].join("");
+// }, "");
+
+// writeFileSync("./.unplugin/type.d.ts", type);

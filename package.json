@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.9.4",
     "@iconify-json/feather": "^1.2.1",
     "@iconify-json/lucide": "^1.2.23",
     "@iconify/json": "^2.2.296",

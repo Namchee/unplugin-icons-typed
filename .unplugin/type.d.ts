@@ -7793,3 +7793,1003 @@ declare module '~icons/lucide/zoom-out' {
   const component: string;
   export default component;
 }
+
+declare module '~icons/lucide/activity-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alarm-check' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alarm-minus' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alarm-plus' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alert-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alert-octagon' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/alert-triangle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/align-horizonal-distribute-center' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/align-horizonal-distribute-end' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/align-horizonal-distribute-start' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-01' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-10' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-az' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-left-from-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-left-from-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-left-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-right-from-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-right-from-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-right-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-down-za' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-left-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-left-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-right-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-right-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-01' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-10' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-az' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-left-from-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-left-from-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-left-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-right-from-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-right-from-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-right-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/arrow-up-za' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/asterisk-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/axis-3-d' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/bar-chart' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/bar-chart-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/between-horizonal-end' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/between-horizonal-start' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/book-template' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/box-select' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/check-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/check-circle-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/check-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/check-square-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-down-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-down-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-left-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-left-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-right-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-right-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-up-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/chevron-up-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/circle-slashed' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/clipboard-edit' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/clipboard-signature' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/code-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/code-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/columns' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/contact-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/curly-braces' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/divide-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/divide-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/dot-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/download-cloud' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/edit' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/edit-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/edit-3' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/equal-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-axis-3-d' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-bar-chart' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-bar-chart-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-cog-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-edit' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-line-chart' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/file-signature' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/folder-cog-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/folder-edit' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/fork-knife' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/fork-knife-crossed' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/form-input' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/function-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/gantt-chart' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/gantt-chart-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/gauge-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/git-commit' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/globe-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid-2-x-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid-2-x-2-check' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid-2-x-2-plus' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid-2-x-2-x' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/grid-3-x-3' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/help-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/helping-hand' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/home' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/ice-cream' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/ice-cream-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/indent' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/inspect' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/jersey-pound' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/kanban-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/kanban-square-dashed' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/laptop-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/layout' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/library-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/loader-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/m-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/menu-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/mic-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/minus-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/minus-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/more-horizontal' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/more-vertical' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/mouse-pointer-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/mouse-pointer-square-dashed' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/move-3-d' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/outdent' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/paintbrush-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/palmtree' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panel-bottom-inactive' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panel-left-inactive' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panel-right-inactive' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panel-top-inactive' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panels-left-right' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/panels-top-bottom' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/parking-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/parking-circle-off' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/parking-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/parking-square-off' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pause-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pause-octagon' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pen-box' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pen-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/percent-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/percent-diamond' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/percent-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pi-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/pilcrow-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/play-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/play-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/plug-zap-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/plus-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/plus-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/power-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/power-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/rotate-3-d' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/rows' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/scale-3-d' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/school-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/scissors-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/scissors-square-dashed-bottom' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/send-horizonal' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/shield-close' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sidebar' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sidebar-close' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sidebar-open' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sigma-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/slash-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sliders' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sort-asc' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/sort-desc' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/split-square-horizontal' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/split-square-vertical' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/square-gantt' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/square-gantt-chart' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/square-kanban-dashed' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/stars' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/stop-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/subtitles' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/terminal-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/test-tube-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/text-selection' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/train' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/tv-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/unlock' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/unlock-keyhole' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/upload-cloud' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-check-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-circle-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-cog-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-minus-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-plus-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-square' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-square-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/user-x-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/users-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/verified' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/wallet-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/wand-2' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/x-circle' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/x-octagon' {
+  const component: string;
+  export default component;
+}
+
+declare module '~icons/lucide/x-square' {
+  const component: string;
+  export default component;
+}
