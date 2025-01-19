@@ -1,3 +1,1 @@
-import A from '~icons/feather/airplay';
-
-import { Circle } from 'lucide-react';
+import Activity from '~icons/feather/activity';
