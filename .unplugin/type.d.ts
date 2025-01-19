@@ -1,4 +1,4 @@
-/* Feather Icons icon pack */
+/* Feather Icons pack */
 
 declare module '~icons/feather' {
   const _error: never;
@@ -7446,7 +7446,7 @@ declare module '~icons/feather/zoom-out' {
   export default component;
 };
 /* End of Feather Icons */
-/* Lucide icon pack */
+/* Lucide pack */
 
 declare module '~icons/lucide' {
   const _error: never;
@@ -47994,6 +47994,8 @@ declare module '~icons/lucide/zoom-out' {
 
 declare module 'virtual:icons/lucide/activity-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTcgMTJoLTJsLTIgNWwtMi0xMGwtMiA1SDciLz48L2c+PC9zdmc+)
+   * 
    * `activity-square` from Lucide pack.
    * Alias of `square-activity`.
    *
@@ -48006,6 +48008,8 @@ declare module 'virtual:icons/lucide/activity-square' {
 
 declare module '~icons/lucide/activity-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTcgMTJoLTJsLTIgNWwtMi0xMGwtMiA1SDciLz48L2c+PC9zdmc+)
+   * 
    * `activity-square` from Lucide pack.
    * Alias of `square-activity`.
    *
@@ -48017,6 +48021,8 @@ declare module '~icons/lucide/activity-square' {
 
 declare module 'virtual:icons/lucide/alarm-check' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMU05IDEzbDIgMmw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `alarm-check` from Lucide pack.
    * Alias of `alarm-clock-check`.
    *
@@ -48029,6 +48035,8 @@ declare module 'virtual:icons/lucide/alarm-check' {
 
 declare module '~icons/lucide/alarm-check' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMU05IDEzbDIgMmw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `alarm-check` from Lucide pack.
    * Alias of `alarm-clock-check`.
    *
@@ -48040,6 +48048,8 @@ declare module '~icons/lucide/alarm-check' {
 
 declare module 'virtual:icons/lucide/alarm-minus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMU05IDEzaDYiLz48L2c+PC9zdmc+)
+   * 
    * `alarm-minus` from Lucide pack.
    * Alias of `alarm-clock-minus`.
    *
@@ -48052,6 +48062,8 @@ declare module 'virtual:icons/lucide/alarm-minus' {
 
 declare module '~icons/lucide/alarm-minus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMU05IDEzaDYiLz48L2c+PC9zdmc+)
+   * 
    * `alarm-minus` from Lucide pack.
    * Alias of `alarm-clock-minus`.
    *
@@ -48063,6 +48075,8 @@ declare module '~icons/lucide/alarm-minus' {
 
 declare module 'virtual:icons/lucide/alarm-plus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMW0tOC0xMXY2bS0zLTNoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `alarm-plus` from Lucide pack.
    * Alias of `alarm-clock-plus`.
    *
@@ -48075,6 +48089,8 @@ declare module 'virtual:icons/lucide/alarm-plus' {
 
 declare module '~icons/lucide/alarm-plus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTMiIHI9IjgiLz48cGF0aCBkPSJNNSAzTDIgNm0yMCAwbC0zLTNNNi4zOCAxOC43TDQgMjFtMTMuNjQtMi4zM0wyMCAyMW0tOC0xMXY2bS0zLTNoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `alarm-plus` from Lucide pack.
    * Alias of `alarm-clock-plus`.
    *
@@ -48086,6 +48102,8 @@ declare module '~icons/lucide/alarm-plus' {
 
 declare module 'virtual:icons/lucide/alert-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDh2NG0wIDRoLjAxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `alert-circle` from Lucide pack.
    * Alias of `circle-alert`.
    *
@@ -48098,6 +48116,8 @@ declare module 'virtual:icons/lucide/alert-circle' {
 
 declare module '~icons/lucide/alert-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDh2NG0wIDRoLjAxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `alert-circle` from Lucide pack.
    * Alias of `circle-alert`.
    *
@@ -48109,6 +48129,8 @@ declare module '~icons/lucide/alert-circle' {
 
 declare module 'virtual:icons/lucide/alert-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAxNmguMDFNMTIgOHY0bTMuMzEyLTEwYTIgMiAwIDAgMSAxLjQxNC41ODZsNC42ODggNC42ODhBMiAyIDAgMCAxIDIyIDguNjg4djYuNjI0YTIgMiAwIDAgMS0uNTg2IDEuNDE0bC00LjY4OCA0LjY4OGEyIDIgMCAwIDEtMS40MTQuNTg2SDguNjg4YTIgMiAwIDAgMS0xLjQxNC0uNTg2bC00LjY4OC00LjY4OEEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJ6Ii8+PC9zdmc+)
+   * 
    * `alert-octagon` from Lucide pack.
    * Alias of `octagon-alert`.
    *
@@ -48121,6 +48143,8 @@ declare module 'virtual:icons/lucide/alert-octagon' {
 
 declare module '~icons/lucide/alert-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAxNmguMDFNMTIgOHY0bTMuMzEyLTEwYTIgMiAwIDAgMSAxLjQxNC41ODZsNC42ODggNC42ODhBMiAyIDAgMCAxIDIyIDguNjg4djYuNjI0YTIgMiAwIDAgMS0uNTg2IDEuNDE0bC00LjY4OCA0LjY4OGEyIDIgMCAwIDEtMS40MTQuNTg2SDguNjg4YTIgMiAwIDAgMS0xLjQxNC0uNTg2bC00LjY4OC00LjY4OEEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJ6Ii8+PC9zdmc+)
+   * 
    * `alert-octagon` from Lucide pack.
    * Alias of `octagon-alert`.
    *
@@ -48132,6 +48156,8 @@ declare module '~icons/lucide/alert-octagon' {
 
 declare module 'virtual:icons/lucide/alert-triangle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0yMS43MyAxOGwtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTNNMTIgOXY0bTAgNGguMDEiLz48L3N2Zz4=)
+   * 
    * `alert-triangle` from Lucide pack.
    * Alias of `triangle-alert`.
    *
@@ -48144,6 +48170,8 @@ declare module 'virtual:icons/lucide/alert-triangle' {
 
 declare module '~icons/lucide/alert-triangle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0yMS43MyAxOGwtOC0xNGEyIDIgMCAwIDAtMy40OCAwbC04IDE0QTIgMiAwIDAgMCA0IDIxaDE2YTIgMiAwIDAgMCAxLjczLTNNMTIgOXY0bTAgNGguMDEiLz48L3N2Zz4=)
+   * 
    * `alert-triangle` from Lucide pack.
    * Alias of `triangle-alert`.
    *
@@ -48155,6 +48183,8 @@ declare module '~icons/lucide/alert-triangle' {
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-center' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNMTcgMjJ2LTVtMC0xMFYyTTcgMjJ2LTNNNyA1VjIiLz48L2c+PC9zdmc+)
+   * 
    * `align-horizonal-distribute-center` from Lucide pack.
    * Alias of `align-horizontal-distribute-center`.
    *
@@ -48167,6 +48197,8 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-center' {
 
 declare module '~icons/lucide/align-horizonal-distribute-center' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNMTcgMjJ2LTVtMC0xMFYyTTcgMjJ2LTNNNyA1VjIiLz48L2c+PC9zdmc+)
+   * 
    * `align-horizonal-distribute-center` from Lucide pack.
    * Alias of `align-horizontal-distribute-center`.
    *
@@ -48178,6 +48210,8 @@ declare module '~icons/lucide/align-horizonal-distribute-center' {
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-end' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNMTAgMnYyME0yMCAydjIwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `align-horizonal-distribute-end` from Lucide pack.
    * Alias of `align-horizontal-distribute-end`.
    *
@@ -48190,6 +48224,8 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-end' {
 
 declare module '~icons/lucide/align-horizonal-distribute-end' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNMTAgMnYyME0yMCAydjIwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `align-horizonal-distribute-end` from Lucide pack.
    * Alias of `align-horizontal-distribute-end`.
    *
@@ -48201,6 +48237,8 @@ declare module '~icons/lucide/align-horizonal-distribute-end' {
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-start' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNNCAydjIwTTE0IDJ2MjAiLz48L2c+PC9zdmc+)
+   * 
    * `align-horizonal-distribute-start` from Lucide pack.
    * Alias of `align-horizontal-distribute-start`.
    *
@@ -48213,6 +48251,8 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-start' {
 
 declare module '~icons/lucide/align-horizonal-distribute-start' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjE0IiB4PSI0IiB5PSI1IiByeD0iMiIvPjxyZWN0IHdpZHRoPSI2IiBoZWlnaHQ9IjEwIiB4PSIxNCIgeT0iNyIgcng9IjIiLz48cGF0aCBkPSJNNCAydjIwTTE0IDJ2MjAiLz48L2c+PC9zdmc+)
+   * 
    * `align-horizonal-distribute-start` from Lucide pack.
    * Alias of `align-horizontal-distribute-start`.
    *
@@ -48224,6 +48264,8 @@ declare module '~icons/lucide/align-horizonal-distribute-start' {
 
 declare module 'virtual:icons/lucide/arrow-down-01' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iNiIgeD0iMTUiIHk9IjQiIHJ5PSIyIi8+PHBhdGggZD0iTTE3IDIwdi02aC0ybTAgNmg0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-down-01` from Lucide pack.
    * Alias of `arrow-down-0-1`.
    *
@@ -48236,6 +48278,8 @@ declare module 'virtual:icons/lucide/arrow-down-01' {
 
 declare module '~icons/lucide/arrow-down-01' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0Ii8+PHJlY3Qgd2lkdGg9IjQiIGhlaWdodD0iNiIgeD0iMTUiIHk9IjQiIHJ5PSIyIi8+PHBhdGggZD0iTTE3IDIwdi02aC0ybTAgNmg0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-down-01` from Lucide pack.
    * Alias of `arrow-down-0-1`.
    *
@@ -48247,6 +48291,8 @@ declare module '~icons/lucide/arrow-down-01' {
 
 declare module 'virtual:icons/lucide/arrow-down-10' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTEwIDZWNGgtMm0wIDZoNCIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHg9IjE1IiB5PSIxNCIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-10` from Lucide pack.
    * Alias of `arrow-down-1-0`.
    *
@@ -48259,6 +48305,8 @@ declare module 'virtual:icons/lucide/arrow-down-10' {
 
 declare module '~icons/lucide/arrow-down-10' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTEwIDZWNGgtMm0wIDZoNCIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHg9IjE1IiB5PSIxNCIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-10` from Lucide pack.
    * Alias of `arrow-down-1-0`.
    *
@@ -48270,6 +48318,8 @@ declare module '~icons/lucide/arrow-down-10' {
 
 declare module 'virtual:icons/lucide/arrow-down-az' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTEzIDRoLTVtMCAyVjYuNWEyLjUgMi41IDAgMCAxIDUgMFYxMG0tNSA0aDVsLTUgNmg1Ii8+PC9zdmc+)
+   * 
    * `arrow-down-az` from Lucide pack.
    * Alias of `arrow-down-a-z`.
    *
@@ -48282,6 +48332,8 @@ declare module 'virtual:icons/lucide/arrow-down-az' {
 
 declare module '~icons/lucide/arrow-down-az' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTEzIDRoLTVtMCAyVjYuNWEyLjUgMi41IDAgMCAxIDUgMFYxMG0tNSA0aDVsLTUgNmg1Ii8+PC9zdmc+)
+   * 
    * `arrow-down-az` from Lucide pack.
    * Alias of `arrow-down-a-z`.
    *
@@ -48293,6 +48345,8 @@ declare module '~icons/lucide/arrow-down-az' {
 
 declare module 'virtual:icons/lucide/arrow-down-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDh2OG0tNC00bDQgNGw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-circle` from Lucide pack.
    * Alias of `circle-arrow-down`.
    *
@@ -48305,6 +48359,8 @@ declare module 'virtual:icons/lucide/arrow-down-circle' {
 
 declare module '~icons/lucide/arrow-down-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEyIDh2OG0tNC00bDQgNGw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-circle` from Lucide pack.
    * Alias of `circle-arrow-down`.
    *
@@ -48316,6 +48372,8 @@ declare module '~icons/lucide/arrow-down-circle' {
 
 declare module 'virtual:icons/lucide/arrow-down-left-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yIDEyYTEwIDEwIDAgMSAxIDEwIDEwTTIgMjJsMTAtMTBNOCAyMkgydi02Ii8+PC9zdmc+)
+   * 
    * `arrow-down-left-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-down-left`.
    *
@@ -48328,6 +48386,8 @@ declare module 'virtual:icons/lucide/arrow-down-left-from-circle' {
 
 declare module '~icons/lucide/arrow-down-left-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yIDEyYTEwIDEwIDAgMSAxIDEwIDEwTTIgMjJsMTAtMTBNOCAyMkgydi02Ii8+PC9zdmc+)
+   * 
    * `arrow-down-left-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-down-left`.
    *
@@ -48339,6 +48399,8 @@ declare module '~icons/lucide/arrow-down-left-from-circle' {
 
 declare module 'virtual:icons/lucide/arrow-down-left-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMyAyMWg2YTIgMiAwIDAgMCAyLTJWNWEyIDIgMCAwIDAtMi0ySDVhMiAyIDAgMCAwLTIgMnY2bTAgMTBsOS05bS0zIDlIM3YtNiIvPjwvc3ZnPg==)
+   * 
    * `arrow-down-left-from-square` from Lucide pack.
    * Alias of `square-arrow-out-down-left`.
    *
@@ -48351,6 +48413,8 @@ declare module 'virtual:icons/lucide/arrow-down-left-from-square' {
 
 declare module '~icons/lucide/arrow-down-left-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMyAyMWg2YTIgMiAwIDAgMCAyLTJWNWEyIDIgMCAwIDAtMi0ySDVhMiAyIDAgMCAwLTIgMnY2bTAgMTBsOS05bS0zIDlIM3YtNiIvPjwvc3ZnPg==)
+   * 
    * `arrow-down-left-from-square` from Lucide pack.
    * Alias of `square-arrow-out-down-left`.
    *
@@ -48362,6 +48426,8 @@ declare module '~icons/lucide/arrow-down-left-from-square' {
 
 declare module 'virtual:icons/lucide/arrow-down-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgOGwtOCA4bTggMEg4VjgiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-left-square` from Lucide pack.
    * Alias of `square-arrow-down-left`.
    *
@@ -48374,6 +48440,8 @@ declare module 'virtual:icons/lucide/arrow-down-left-square' {
 
 declare module '~icons/lucide/arrow-down-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgOGwtOCA4bTggMEg4VjgiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-down-left-square` from Lucide pack.
    * Alias of `square-arrow-down-left`.
    *
@@ -48385,6 +48453,8 @@ declare module '~icons/lucide/arrow-down-left-square' {
 
 declare module 'virtual:icons/lucide/arrow-down-right-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMmExMCAxMCAwIDEgMSAxMC0xMG0wIDEwTDEyIDEybTEwIDR2NmgtNiIvPjwvc3ZnPg==)
+   * 
    * `arrow-down-right-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-down-right`.
    *
@@ -48397,6 +48467,8 @@ declare module 'virtual:icons/lucide/arrow-down-right-from-circle' {
 
 declare module '~icons/lucide/arrow-down-right-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMmExMCAxMCAwIDEgMSAxMC0xMG0wIDEwTDEyIDEybTEwIDR2NmgtNiIvPjwvc3ZnPg==)
+   * 
    * `arrow-down-right-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-down-right`.
    *
@@ -48408,6 +48480,8 @@ declare module '~icons/lucide/arrow-down-right-from-circle' {
 
 declare module 'virtual:icons/lucide/arrow-down-right-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNm0xMCAwbC05LTltOSAzdjZoLTYiLz48L3N2Zz4=)
+   * 
    * `arrow-down-right-from-square` from Lucide pack.
    * Alias of `square-arrow-out-down-right`.
    *
@@ -48420,6 +48494,8 @@ declare module 'virtual:icons/lucide/arrow-down-right-from-square' {
 
 declare module '~icons/lucide/arrow-down-right-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNm0xMCAwbC05LTltOSAzdjZoLTYiLz48L3N2Zz4=)
+   * 
    * `arrow-down-right-from-square` from Lucide pack.
    * Alias of `square-arrow-out-down-right`.
    *
@@ -48431,6 +48507,8 @@ declare module '~icons/lucide/arrow-down-right-from-square' {
 
 declare module 'virtual:icons/lucide/arrow-down-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOCA4bDggOG0wLTh2OEg4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-down-right-square` from Lucide pack.
    * Alias of `square-arrow-down-right`.
    *
@@ -48443,6 +48521,8 @@ declare module 'virtual:icons/lucide/arrow-down-right-square' {
 
 declare module '~icons/lucide/arrow-down-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOCA4bDggOG0wLTh2OEg4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-down-right-square` from Lucide pack.
    * Alias of `square-arrow-down-right`.
    *
@@ -48454,6 +48534,8 @@ declare module '~icons/lucide/arrow-down-right-square' {
 
 declare module 'virtual:icons/lucide/arrow-down-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgOHY4bS00LTRsNCA0bDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-down-square` from Lucide pack.
    * Alias of `square-arrow-down`.
    *
@@ -48466,6 +48548,8 @@ declare module 'virtual:icons/lucide/arrow-down-square' {
 
 declare module '~icons/lucide/arrow-down-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgOHY4bS00LTRsNCA0bDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-down-square` from Lucide pack.
    * Alias of `square-arrow-down`.
    *
@@ -48477,6 +48561,8 @@ declare module '~icons/lucide/arrow-down-square' {
 
 declare module 'virtual:icons/lucide/arrow-down-za' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRNNyA0djE2bTgtMTZoNWwtNSA2aDVtLTUgMTB2LTMuNWEyLjUgMi41IDAgMCAxIDUgMFYyMG0wLTJoLTUiLz48L3N2Zz4=)
+   * 
    * `arrow-down-za` from Lucide pack.
    * Alias of `arrow-down-z-a`.
    *
@@ -48489,6 +48575,8 @@ declare module 'virtual:icons/lucide/arrow-down-za' {
 
 declare module '~icons/lucide/arrow-down-za' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRNNyA0djE2bTgtMTZoNWwtNSA2aDVtLTUgMTB2LTMuNWEyLjUgMi41IDAgMCAxIDUgMFYyMG0wLTJoLTUiLz48L3N2Zz4=)
+   * 
    * `arrow-down-za` from Lucide pack.
    * Alias of `arrow-down-z-a`.
    *
@@ -48500,6 +48588,8 @@ declare module '~icons/lucide/arrow-down-za' {
 
 declare module 'virtual:icons/lucide/arrow-left-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTE2IDEySDhtNC00bC00IDRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-left-circle` from Lucide pack.
    * Alias of `circle-arrow-left`.
    *
@@ -48512,6 +48602,8 @@ declare module 'virtual:icons/lucide/arrow-left-circle' {
 
 declare module '~icons/lucide/arrow-left-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTE2IDEySDhtNC00bC00IDRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-left-circle` from Lucide pack.
    * Alias of `circle-arrow-left`.
    *
@@ -48523,6 +48615,8 @@ declare module '~icons/lucide/arrow-left-circle' {
 
 declare module 'virtual:icons/lucide/arrow-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTIgOGwtNCA0bDQgNG00LTRIOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-left-square` from Lucide pack.
    * Alias of `square-arrow-left`.
    *
@@ -48535,6 +48629,8 @@ declare module 'virtual:icons/lucide/arrow-left-square' {
 
 declare module '~icons/lucide/arrow-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTIgOGwtNCA0bDQgNG00LTRIOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-left-square` from Lucide pack.
    * Alias of `square-arrow-left`.
    *
@@ -48546,6 +48642,8 @@ declare module '~icons/lucide/arrow-left-square' {
 
 declare module 'virtual:icons/lucide/arrow-right-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOG0tNCA0bDQtNGwtNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-right-circle` from Lucide pack.
    * Alias of `circle-arrow-right`.
    *
@@ -48558,6 +48656,8 @@ declare module 'virtual:icons/lucide/arrow-right-circle' {
 
 declare module '~icons/lucide/arrow-right-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOG0tNCA0bDQtNGwtNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-right-circle` from Lucide pack.
    * Alias of `circle-arrow-right`.
    *
@@ -48569,6 +48669,8 @@ declare module '~icons/lucide/arrow-right-circle' {
 
 declare module 'virtual:icons/lucide/arrow-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4bS00IDRsNC00bC00LTQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-right-square` from Lucide pack.
    * Alias of `square-arrow-right`.
    *
@@ -48581,6 +48683,8 @@ declare module 'virtual:icons/lucide/arrow-right-square' {
 
 declare module '~icons/lucide/arrow-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4bS00IDRsNC00bC00LTQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-right-square` from Lucide pack.
    * Alias of `square-arrow-right`.
    *
@@ -48592,6 +48696,8 @@ declare module '~icons/lucide/arrow-right-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-01' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDhsNC00bDQgNE03IDR2MTYiLz48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI2IiB4PSIxNSIgeT0iNCIgcnk9IjIiLz48cGF0aCBkPSJNMTcgMjB2LTZoLTJtMCA2aDQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-up-01` from Lucide pack.
    * Alias of `arrow-up-0-1`.
    *
@@ -48604,6 +48710,8 @@ declare module 'virtual:icons/lucide/arrow-up-01' {
 
 declare module '~icons/lucide/arrow-up-01' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDhsNC00bDQgNE03IDR2MTYiLz48cmVjdCB3aWR0aD0iNCIgaGVpZ2h0PSI2IiB4PSIxNSIgeT0iNCIgcnk9IjIiLz48cGF0aCBkPSJNMTcgMjB2LTZoLTJtMCA2aDQiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-up-01` from Lucide pack.
    * Alias of `arrow-up-0-1`.
    *
@@ -48615,6 +48723,8 @@ declare module '~icons/lucide/arrow-up-01' {
 
 declare module 'virtual:icons/lucide/arrow-up-10' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtMTAtMTBWNGgtMm0wIDZoNCIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHg9IjE1IiB5PSIxNCIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-up-10` from Lucide pack.
    * Alias of `arrow-up-1-0`.
    *
@@ -48627,6 +48737,8 @@ declare module 'virtual:icons/lucide/arrow-up-10' {
 
 declare module '~icons/lucide/arrow-up-10' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtMTAtMTBWNGgtMm0wIDZoNCIvPjxyZWN0IHdpZHRoPSI0IiBoZWlnaHQ9IjYiIHg9IjE1IiB5PSIxNCIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `arrow-up-10` from Lucide pack.
    * Alias of `arrow-up-1-0`.
    *
@@ -48638,6 +48750,8 @@ declare module '~icons/lucide/arrow-up-10' {
 
 declare module 'virtual:icons/lucide/arrow-up-az' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZNMjAgOGgtNW0wIDJWNi41YTIuNSAyLjUgMCAwIDEgNSAwVjEwbS01IDRoNWwtNSA2aDUiLz48L3N2Zz4=)
+   * 
    * `arrow-up-az` from Lucide pack.
    * Alias of `arrow-up-a-z`.
    *
@@ -48650,6 +48764,8 @@ declare module 'virtual:icons/lucide/arrow-up-az' {
 
 declare module '~icons/lucide/arrow-up-az' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZNMjAgOGgtNW0wIDJWNi41YTIuNSAyLjUgMCAwIDEgNSAwVjEwbS01IDRoNWwtNSA2aDUiLz48L3N2Zz4=)
+   * 
    * `arrow-up-az` from Lucide pack.
    * Alias of `arrow-up-a-z`.
    *
@@ -48661,6 +48777,8 @@ declare module '~icons/lucide/arrow-up-az' {
 
 declare module 'virtual:icons/lucide/arrow-up-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE2IDEybC00LTRsLTQgNG00IDRWOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-circle` from Lucide pack.
    * Alias of `circle-arrow-up`.
    *
@@ -48673,6 +48791,8 @@ declare module 'virtual:icons/lucide/arrow-up-circle' {
 
 declare module '~icons/lucide/arrow-up-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE2IDEybC00LTRsLTQgNG00IDRWOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-circle` from Lucide pack.
    * Alias of `circle-arrow-up`.
    *
@@ -48684,6 +48804,8 @@ declare module '~icons/lucide/arrow-up-circle' {
 
 declare module 'virtual:icons/lucide/arrow-up-left-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yIDhWMmg2TTIgMmwxMCAxMG0wLTEwQTEwIDEwIDAgMSAxIDIgMTIiLz48L3N2Zz4=)
+   * 
    * `arrow-up-left-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-up-left`.
    *
@@ -48696,6 +48818,8 @@ declare module 'virtual:icons/lucide/arrow-up-left-from-circle' {
 
 declare module '~icons/lucide/arrow-up-left-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yIDhWMmg2TTIgMmwxMCAxMG0wLTEwQTEwIDEwIDAgMSAxIDIgMTIiLz48L3N2Zz4=)
+   * 
    * `arrow-up-left-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-up-left`.
    *
@@ -48707,6 +48831,8 @@ declare module '~icons/lucide/arrow-up-left-from-circle' {
 
 declare module 'virtual:icons/lucide/arrow-up-left-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMyAzaDZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNk0zIDNsOSA5TTMgOVYzaDYiLz48L3N2Zz4=)
+   * 
    * `arrow-up-left-from-square` from Lucide pack.
    * Alias of `square-arrow-out-up-left`.
    *
@@ -48719,6 +48845,8 @@ declare module 'virtual:icons/lucide/arrow-up-left-from-square' {
 
 declare module '~icons/lucide/arrow-up-left-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMyAzaDZhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnYtNk0zIDNsOSA5TTMgOVYzaDYiLz48L3N2Zz4=)
+   * 
    * `arrow-up-left-from-square` from Lucide pack.
    * Alias of `square-arrow-out-up-left`.
    *
@@ -48730,6 +48858,8 @@ declare module '~icons/lucide/arrow-up-left-from-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxNlY4aDhtMCA4TDggOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-left-square` from Lucide pack.
    * Alias of `square-arrow-up-left`.
    *
@@ -48742,6 +48872,8 @@ declare module 'virtual:icons/lucide/arrow-up-left-square' {
 
 declare module '~icons/lucide/arrow-up-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxNlY4aDhtMCA4TDggOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-left-square` from Lucide pack.
    * Alias of `square-arrow-up-left`.
    *
@@ -48753,6 +48885,8 @@ declare module '~icons/lucide/arrow-up-left-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-right-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMiAxMkExMCAxMCAwIDEgMSAxMiAybTEwIDBMMTIgMTJtNC0xMGg2djYiLz48L3N2Zz4=)
+   * 
    * `arrow-up-right-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-up-right`.
    *
@@ -48765,6 +48899,8 @@ declare module 'virtual:icons/lucide/arrow-up-right-from-circle' {
 
 declare module '~icons/lucide/arrow-up-right-from-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMiAxMkExMCAxMCAwIDEgMSAxMiAybTEwIDBMMTIgMTJtNC0xMGg2djYiLz48L3N2Zz4=)
+   * 
    * `arrow-up-right-from-circle` from Lucide pack.
    * Alias of `circle-arrow-out-up-right`.
    *
@@ -48776,6 +48912,8 @@ declare module '~icons/lucide/arrow-up-right-from-circle' {
 
 declare module 'virtual:icons/lucide/arrow-up-right-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxM3Y2YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmg2bTEwIDBsLTkgOW0zLTloNnY2Ii8+PC9zdmc+)
+   * 
    * `arrow-up-right-from-square` from Lucide pack.
    * Alias of `square-arrow-out-up-right`.
    *
@@ -48788,6 +48926,8 @@ declare module 'virtual:icons/lucide/arrow-up-right-from-square' {
 
 declare module '~icons/lucide/arrow-up-right-from-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxM3Y2YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmg2bTEwIDBsLTkgOW0zLTloNnY2Ii8+PC9zdmc+)
+   * 
    * `arrow-up-right-from-square` from Lucide pack.
    * Alias of `square-arrow-out-up-right`.
    *
@@ -48799,6 +48939,8 @@ declare module '~icons/lucide/arrow-up-right-from-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCA4aDh2OG0tOCAwbDgtOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-right-square` from Lucide pack.
    * Alias of `square-arrow-up-right`.
    *
@@ -48811,6 +48953,8 @@ declare module 'virtual:icons/lucide/arrow-up-right-square' {
 
 declare module '~icons/lucide/arrow-up-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCA4aDh2OG0tOCAwbDgtOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `arrow-up-right-square` from Lucide pack.
    * Alias of `square-arrow-up-right`.
    *
@@ -48822,6 +48966,8 @@ declare module '~icons/lucide/arrow-up-right-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgMTJsLTQtNGwtNCA0bTQgNFY4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-up-square` from Lucide pack.
    * Alias of `square-arrow-up`.
    *
@@ -48834,6 +48980,8 @@ declare module 'virtual:icons/lucide/arrow-up-square' {
 
 declare module '~icons/lucide/arrow-up-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgMTJsLTQtNGwtNCA0bTQgNFY4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `arrow-up-square` from Lucide pack.
    * Alias of `square-arrow-up`.
    *
@@ -48845,6 +48993,8 @@ declare module '~icons/lucide/arrow-up-square' {
 
 declare module 'virtual:icons/lucide/arrow-up-za' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtOC0xNmg1bC01IDZoNW0tNSAxMHYtMy41YTIuNSAyLjUgMCAwIDEgNSAwVjIwbTAtMmgtNSIvPjwvc3ZnPg==)
+   * 
    * `arrow-up-za` from Lucide pack.
    * Alias of `arrow-up-z-a`.
    *
@@ -48857,6 +49007,8 @@ declare module 'virtual:icons/lucide/arrow-up-za' {
 
 declare module '~icons/lucide/arrow-up-za' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtOC0xNmg1bC01IDZoNW0tNSAxMHYtMy41YTIuNSAyLjUgMCAwIDEgNSAwVjIwbTAtMmgtNSIvPjwvc3ZnPg==)
+   * 
    * `arrow-up-za` from Lucide pack.
    * Alias of `arrow-up-z-a`.
    *
@@ -48868,6 +49020,8 @@ declare module '~icons/lucide/arrow-up-za' {
 
 declare module 'virtual:icons/lucide/asterisk-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgOHY4bS0zLjUtMmw3LTRtLTcgMGw3IDQiLz48L2c+PC9zdmc+)
+   * 
    * `asterisk-square` from Lucide pack.
    * Alias of `square-asterisk`.
    *
@@ -48880,6 +49034,8 @@ declare module 'virtual:icons/lucide/asterisk-square' {
 
 declare module '~icons/lucide/asterisk-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgOHY4bS0zLjUtMmw3LTRtLTcgMGw3IDQiLz48L2c+PC9zdmc+)
+   * 
    * `asterisk-square` from Lucide pack.
    * Alias of `square-asterisk`.
    *
@@ -48891,6 +49047,8 @@ declare module '~icons/lucide/asterisk-square' {
 
 declare module 'virtual:icons/lucide/axis-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik00IDR2MTZoMTZNNCAyMGw3LTciLz48L3N2Zz4=)
+   * 
    * `axis-3-d` from Lucide pack.
    * Alias of `axis-3d`.
    *
@@ -48903,6 +49061,8 @@ declare module 'virtual:icons/lucide/axis-3-d' {
 
 declare module '~icons/lucide/axis-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik00IDR2MTZoMTZNNCAyMGw3LTciLz48L3N2Zz4=)
+   * 
    * `axis-3-d` from Lucide pack.
    * Alias of `axis-3d`.
    *
@@ -48914,6 +49074,8 @@ declare module '~icons/lucide/axis-3-d' {
 
 declare module 'virtual:icons/lucide/bar-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMFYxMG02IDEwVjRNNiAyMHYtNCIvPjwvc3ZnPg==)
+   * 
    * `bar-chart` from Lucide pack.
    * Alias of `chart-no-axes-column-increasing`.
    *
@@ -48926,6 +49088,8 @@ declare module 'virtual:icons/lucide/bar-chart' {
 
 declare module '~icons/lucide/bar-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMFYxMG02IDEwVjRNNiAyMHYtNCIvPjwvc3ZnPg==)
+   * 
    * `bar-chart` from Lucide pack.
    * Alias of `chart-no-axes-column-increasing`.
    *
@@ -48937,6 +49101,8 @@ declare module '~icons/lucide/bar-chart' {
 
 declare module 'virtual:icons/lucide/bar-chart-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xOCAyMFYxMG0tNiAxMFY0TTYgMjB2LTYiLz48L3N2Zz4=)
+   * 
    * `bar-chart-2` from Lucide pack.
    * Alias of `chart-no-axes-column`.
    *
@@ -48949,6 +49115,8 @@ declare module 'virtual:icons/lucide/bar-chart-2' {
 
 declare module '~icons/lucide/bar-chart-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xOCAyMFYxMG0tNiAxMFY0TTYgMjB2LTYiLz48L3N2Zz4=)
+   * 
    * `bar-chart-2` from Lucide pack.
    * Alias of `chart-no-axes-column`.
    *
@@ -48960,6 +49128,8 @@ declare module '~icons/lucide/bar-chart-2' {
 
 declare module 'virtual:icons/lucide/between-horizonal-end' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSIzIiB5PSIzIiByeD0iMSIvPjxwYXRoIGQ9Im0yMiAxNWwtMy0zbDMtMyIvPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSIzIiB5PSIxNCIgcng9IjEiLz48L2c+PC9zdmc+)
+   * 
    * `between-horizonal-end` from Lucide pack.
    * Alias of `between-horizontal-end`.
    *
@@ -48972,6 +49142,8 @@ declare module 'virtual:icons/lucide/between-horizonal-end' {
 
 declare module '~icons/lucide/between-horizonal-end' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSIzIiB5PSIzIiByeD0iMSIvPjxwYXRoIGQ9Im0yMiAxNWwtMy0zbDMtMyIvPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSIzIiB5PSIxNCIgcng9IjEiLz48L2c+PC9zdmc+)
+   * 
    * `between-horizonal-end` from Lucide pack.
    * Alias of `between-horizontal-end`.
    *
@@ -48983,6 +49155,8 @@ declare module '~icons/lucide/between-horizonal-end' {
 
 declare module 'virtual:icons/lucide/between-horizonal-start' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSI4IiB5PSIzIiByeD0iMSIvPjxwYXRoIGQ9Im0yIDlsMyAzbC0zIDMiLz48cmVjdCB3aWR0aD0iMTMiIGhlaWdodD0iNyIgeD0iOCIgeT0iMTQiIHJ4PSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `between-horizonal-start` from Lucide pack.
    * Alias of `between-horizontal-start`.
    *
@@ -48995,6 +49169,8 @@ declare module 'virtual:icons/lucide/between-horizonal-start' {
 
 declare module '~icons/lucide/between-horizonal-start' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxMyIgaGVpZ2h0PSI3IiB4PSI4IiB5PSIzIiByeD0iMSIvPjxwYXRoIGQ9Im0yIDlsMyAzbC0zIDMiLz48cmVjdCB3aWR0aD0iMTMiIGhlaWdodD0iNyIgeD0iOCIgeT0iMTQiIHJ4PSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `between-horizonal-start` from Lucide pack.
    * Alias of `between-horizontal-start`.
    *
@@ -49006,6 +49182,8 @@ declare module '~icons/lucide/between-horizonal-start' {
 
 declare module 'virtual:icons/lucide/book-template' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAxN2gxLjVNMTIgMjJoMS41TTEyIDJoMS41bTQgMjBIMTlhMSAxIDAgMCAwIDEtMU0xNy41IDJIMTlhMSAxIDAgMCAxIDEgMXYxLjVtMCA5LjV2M2gtMi41TTIwIDguNVYxME00IDEwVjguNW0wIDExVjE0bTAtOS41QTIuNSAyLjUgMCAwIDEgNi41IDJIOG0wIDIwSDYuNWExIDEgMCAwIDEgMC01SDgiLz48L3N2Zz4=)
+   * 
    * `book-template` from Lucide pack.
    * Alias of `book-dashed`.
    *
@@ -49018,6 +49196,8 @@ declare module 'virtual:icons/lucide/book-template' {
 
 declare module '~icons/lucide/book-template' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAxN2gxLjVNMTIgMjJoMS41TTEyIDJoMS41bTQgMjBIMTlhMSAxIDAgMCAwIDEtMU0xNy41IDJIMTlhMSAxIDAgMCAxIDEgMXYxLjVtMCA5LjV2M2gtMi41TTIwIDguNVYxME00IDEwVjguNW0wIDExVjE0bTAtOS41QTIuNSAyLjUgMCAwIDEgNi41IDJIOG0wIDIwSDYuNWExIDEgMCAwIDEgMC01SDgiLz48L3N2Zz4=)
+   * 
    * `book-template` from Lucide pack.
    * Alias of `book-dashed`.
    *
@@ -49029,6 +49209,8 @@ declare module '~icons/lucide/book-template' {
 
 declare module 'virtual:icons/lucide/box-select' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJtMCAxNGEyIDIgMCAwIDEtMiAyTTUgMjFhMiAyIDAgMCAxLTItMk05IDNoMU05IDIxaDFtNC0xOGgxbS0xIDE4aDFNMyA5djFtMTgtMXYxTTMgMTR2MW0xOC0xdjEiLz48L3N2Zz4=)
+   * 
    * `box-select` from Lucide pack.
    * Alias of `square-dashed`.
    *
@@ -49041,6 +49223,8 @@ declare module 'virtual:icons/lucide/box-select' {
 
 declare module '~icons/lucide/box-select' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJtMCAxNGEyIDIgMCAwIDEtMiAyTTUgMjFhMiAyIDAgMCAxLTItMk05IDNoMU05IDIxaDFtNC0xOGgxbS0xIDE4aDFNMyA5djFtMTgtMXYxTTMgMTR2MW0xOC0xdjEiLz48L3N2Zz4=)
+   * 
    * `box-select` from Lucide pack.
    * Alias of `square-dashed`.
    *
@@ -49052,6 +49236,8 @@ declare module '~icons/lucide/box-select' {
 
 declare module 'virtual:icons/lucide/check-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS44MDEgMTBBMTAgMTAgMCAxIDEgMTcgMy4zMzUiLz48cGF0aCBkPSJtOSAxMWwzIDNMMjIgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `check-circle` from Lucide pack.
    * Alias of `circle-check-big`.
    *
@@ -49064,6 +49250,8 @@ declare module 'virtual:icons/lucide/check-circle' {
 
 declare module '~icons/lucide/check-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS44MDEgMTBBMTAgMTAgMCAxIDEgMTcgMy4zMzUiLz48cGF0aCBkPSJtOSAxMWwzIDNMMjIgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `check-circle` from Lucide pack.
    * Alias of `circle-check-big`.
    *
@@ -49075,6 +49263,8 @@ declare module '~icons/lucide/check-circle' {
 
 declare module 'virtual:icons/lucide/check-circle-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTkgMTJsMiAybDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `check-circle-2` from Lucide pack.
    * Alias of `circle-check`.
    *
@@ -49087,6 +49277,8 @@ declare module 'virtual:icons/lucide/check-circle-2' {
 
 declare module '~icons/lucide/check-circle-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTkgMTJsMiAybDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `check-circle-2` from Lucide pack.
    * Alias of `circle-check`.
    *
@@ -49098,6 +49290,8 @@ declare module '~icons/lucide/check-circle-2' {
 
 declare module 'virtual:icons/lucide/check-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMSAxMC41VjE5YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxMi41Ii8+PHBhdGggZD0ibTkgMTFsMyAzTDIyIDQiLz48L2c+PC9zdmc+)
+   * 
    * `check-square` from Lucide pack.
    * Alias of `square-check-big`.
    *
@@ -49110,6 +49304,8 @@ declare module 'virtual:icons/lucide/check-square' {
 
 declare module '~icons/lucide/check-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMSAxMC41VjE5YTIgMiAwIDAgMS0yIDJINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxMi41Ii8+PHBhdGggZD0ibTkgMTFsMyAzTDIyIDQiLz48L2c+PC9zdmc+)
+   * 
    * `check-square` from Lucide pack.
    * Alias of `square-check-big`.
    *
@@ -49121,6 +49317,8 @@ declare module '~icons/lucide/check-square' {
 
 declare module 'virtual:icons/lucide/check-square-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSAxMmwyIDJsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `check-square-2` from Lucide pack.
    * Alias of `square-check`.
    *
@@ -49133,6 +49331,8 @@ declare module 'virtual:icons/lucide/check-square-2' {
 
 declare module '~icons/lucide/check-square-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSAxMmwyIDJsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `check-square-2` from Lucide pack.
    * Alias of `square-check`.
    *
@@ -49144,6 +49344,8 @@ declare module '~icons/lucide/check-square-2' {
 
 declare module 'virtual:icons/lucide/chevron-down-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE2IDEwbC00IDRsLTQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-down-circle` from Lucide pack.
    * Alias of `circle-chevron-down`.
    *
@@ -49156,6 +49358,8 @@ declare module 'virtual:icons/lucide/chevron-down-circle' {
 
 declare module '~icons/lucide/chevron-down-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE2IDEwbC00IDRsLTQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-down-circle` from Lucide pack.
    * Alias of `circle-chevron-down`.
    *
@@ -49167,6 +49371,8 @@ declare module '~icons/lucide/chevron-down-circle' {
 
 declare module 'virtual:icons/lucide/chevron-down-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgMTBsLTQgNGwtNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-down-square` from Lucide pack.
    * Alias of `square-chevron-down`.
    *
@@ -49179,6 +49385,8 @@ declare module 'virtual:icons/lucide/chevron-down-square' {
 
 declare module '~icons/lucide/chevron-down-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTYgMTBsLTQgNGwtNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-down-square` from Lucide pack.
    * Alias of `square-chevron-down`.
    *
@@ -49190,6 +49398,8 @@ declare module '~icons/lucide/chevron-down-square' {
 
 declare module 'virtual:icons/lucide/chevron-left-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE0IDE2bC00LTRsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-left-circle` from Lucide pack.
    * Alias of `circle-chevron-left`.
    *
@@ -49202,6 +49412,8 @@ declare module 'virtual:icons/lucide/chevron-left-circle' {
 
 declare module '~icons/lucide/chevron-left-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE0IDE2bC00LTRsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-left-circle` from Lucide pack.
    * Alias of `circle-chevron-left`.
    *
@@ -49213,6 +49425,8 @@ declare module '~icons/lucide/chevron-left-circle' {
 
 declare module 'virtual:icons/lucide/chevron-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTQgMTZsLTQtNGw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `chevron-left-square` from Lucide pack.
    * Alias of `square-chevron-left`.
    *
@@ -49225,6 +49439,8 @@ declare module 'virtual:icons/lucide/chevron-left-square' {
 
 declare module '~icons/lucide/chevron-left-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTQgMTZsLTQtNGw0LTQiLz48L2c+PC9zdmc+)
+   * 
    * `chevron-left-square` from Lucide pack.
    * Alias of `square-chevron-left`.
    *
@@ -49236,6 +49452,8 @@ declare module '~icons/lucide/chevron-left-square' {
 
 declare module 'virtual:icons/lucide/chevron-right-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTEwIDhsNCA0bC00IDQiLz48L2c+PC9zdmc+)
+   * 
    * `chevron-right-circle` from Lucide pack.
    * Alias of `circle-chevron-right`.
    *
@@ -49248,6 +49466,8 @@ declare module 'virtual:icons/lucide/chevron-right-circle' {
 
 declare module '~icons/lucide/chevron-right-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTEwIDhsNCA0bC00IDQiLz48L2c+PC9zdmc+)
+   * 
    * `chevron-right-circle` from Lucide pack.
    * Alias of `circle-chevron-right`.
    *
@@ -49259,6 +49479,8 @@ declare module '~icons/lucide/chevron-right-circle' {
 
 declare module 'virtual:icons/lucide/chevron-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTAgOGw0IDRsLTQgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-right-square` from Lucide pack.
    * Alias of `square-chevron-right`.
    *
@@ -49271,6 +49493,8 @@ declare module 'virtual:icons/lucide/chevron-right-square' {
 
 declare module '~icons/lucide/chevron-right-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTAgOGw0IDRsLTQgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-right-square` from Lucide pack.
    * Alias of `square-chevron-right`.
    *
@@ -49282,6 +49506,8 @@ declare module '~icons/lucide/chevron-right-square' {
 
 declare module 'virtual:icons/lucide/chevron-up-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTggMTRsNC00bDQgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-up-circle` from Lucide pack.
    * Alias of `circle-chevron-up`.
    *
@@ -49294,6 +49520,8 @@ declare module 'virtual:icons/lucide/chevron-up-circle' {
 
 declare module '~icons/lucide/chevron-up-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTggMTRsNC00bDQgNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `chevron-up-circle` from Lucide pack.
    * Alias of `circle-chevron-up`.
    *
@@ -49305,6 +49533,8 @@ declare module '~icons/lucide/chevron-up-circle' {
 
 declare module 'virtual:icons/lucide/chevron-up-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOCAxNGw0LTRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-up-square` from Lucide pack.
    * Alias of `square-chevron-up`.
    *
@@ -49317,6 +49547,8 @@ declare module 'virtual:icons/lucide/chevron-up-square' {
 
 declare module '~icons/lucide/chevron-up-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOCAxNGw0LTRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `chevron-up-square` from Lucide pack.
    * Alias of `square-chevron-up`.
    *
@@ -49328,6 +49560,8 @@ declare module '~icons/lucide/chevron-up-square' {
 
 declare module 'virtual:icons/lucide/circle-slashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIyIDJMMiAyMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `circle-slashed` from Lucide pack.
    * Alias of `circle-slash-2`.
    *
@@ -49340,6 +49574,8 @@ declare module 'virtual:icons/lucide/circle-slashed' {
 
 declare module '~icons/lucide/circle-slashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTIyIDJMMiAyMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `circle-slashed` from Lucide pack.
    * Alias of `circle-slash-2`.
    *
@@ -49351,6 +49587,8 @@ declare module '~icons/lucide/circle-slashed' {
 
 declare module 'virtual:icons/lucide/clipboard-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjQiIHg9IjgiIHk9IjIiIHJ4PSIxIi8+PHBhdGggZD0iTTE2IDRoMmEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJoLTUuNU00IDEzLjVWNmEyIDIgMCAwIDEgMi0yaDIiLz48cGF0aCBkPSJNMTMuMzc4IDE1LjYyNmExIDEgMCAxIDAtMy4wMDQtMy4wMDRsLTUuMDEgNS4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `clipboard-edit` from Lucide pack.
    * Alias of `clipboard-pen`.
    *
@@ -49363,6 +49601,8 @@ declare module 'virtual:icons/lucide/clipboard-edit' {
 
 declare module '~icons/lucide/clipboard-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjQiIHg9IjgiIHk9IjIiIHJ4PSIxIi8+PHBhdGggZD0iTTE2IDRoMmEyIDIgMCAwIDEgMiAydjE0YTIgMiAwIDAgMS0yIDJoLTUuNU00IDEzLjVWNmEyIDIgMCAwIDEgMi0yaDIiLz48cGF0aCBkPSJNMTMuMzc4IDE1LjYyNmExIDEgMCAxIDAtMy4wMDQtMy4wMDRsLTUuMDEgNS4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `clipboard-edit` from Lucide pack.
    * Alias of `clipboard-pen`.
    *
@@ -49374,6 +49614,8 @@ declare module '~icons/lucide/clipboard-edit' {
 
 declare module 'virtual:icons/lucide/clipboard-signature' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjQiIHg9IjgiIHk9IjIiIHJ4PSIxIi8+PHBhdGggZD0iTTggNEg2YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0ydi0uNU0xNiA0aDJhMiAyIDAgMCAxIDEuNzMgMU04IDE4aDEiLz48cGF0aCBkPSJNMjEuMzc4IDEyLjYyNmExIDEgMCAwIDAtMy4wMDQtMy4wMDRsLTQuMDEgNC4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `clipboard-signature` from Lucide pack.
    * Alias of `clipboard-pen-line`.
    *
@@ -49386,6 +49628,8 @@ declare module 'virtual:icons/lucide/clipboard-signature' {
 
 declare module '~icons/lucide/clipboard-signature' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSI4IiBoZWlnaHQ9IjQiIHg9IjgiIHk9IjIiIHJ4PSIxIi8+PHBhdGggZD0iTTggNEg2YTIgMiAwIDAgMC0yIDJ2MTRhMiAyIDAgMCAwIDIgMmgxMmEyIDIgMCAwIDAgMi0ydi0uNU0xNiA0aDJhMiAyIDAgMCAxIDEuNzMgMU04IDE4aDEiLz48cGF0aCBkPSJNMjEuMzc4IDEyLjYyNmExIDEgMCAwIDAtMy4wMDQtMy4wMDRsLTQuMDEgNC4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `clipboard-signature` from Lucide pack.
    * Alias of `clipboard-pen-line`.
    *
@@ -49397,6 +49641,8 @@ declare module '~icons/lucide/clipboard-signature' {
 
 declare module 'virtual:icons/lucide/code-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xOCAxNmw0LTRsLTQtNE02IDhsLTQgNGw0IDRtOC41LTEybC01IDE2Ii8+PC9zdmc+)
+   * 
    * `code-2` from Lucide pack.
    * Alias of `code-xml`.
    *
@@ -49409,6 +49655,8 @@ declare module 'virtual:icons/lucide/code-2' {
 
 declare module '~icons/lucide/code-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xOCAxNmw0LTRsLTQtNE02IDhsLTQgNGw0IDRtOC41LTEybC01IDE2Ii8+PC9zdmc+)
+   * 
    * `code-2` from Lucide pack.
    * Alias of `code-xml`.
    *
@@ -49420,6 +49668,8 @@ declare module '~icons/lucide/code-2' {
 
 declare module 'virtual:icons/lucide/code-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCA5LjVMOCAxMmwyIDIuNW00LTVsMiAyLjVsLTIgMi41Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `code-square` from Lucide pack.
    * Alias of `square-code`.
    *
@@ -49432,6 +49682,8 @@ declare module 'virtual:icons/lucide/code-square' {
 
 declare module '~icons/lucide/code-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMCA5LjVMOCAxMmwyIDIuNW00LTVsMiAyLjVsLTIgMi41Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `code-square` from Lucide pack.
    * Alias of `square-code`.
    *
@@ -49443,6 +49695,8 @@ declare module '~icons/lucide/code-square' {
 
 declare module 'virtual:icons/lucide/columns' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgM3YxOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `columns` from Lucide pack.
    * Alias of `columns-2`.
    *
@@ -49455,6 +49709,8 @@ declare module 'virtual:icons/lucide/columns' {
 
 declare module '~icons/lucide/columns' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgM3YxOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `columns` from Lucide pack.
    * Alias of `columns-2`.
    *
@@ -49466,6 +49722,8 @@ declare module '~icons/lucide/columns' {
 
 declare module 'virtual:icons/lucide/contact-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNiAydjJtMS45MTUgMThhNiA2IDAgMCAwLTEyIDBNOCAydjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSI0IiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `contact-2` from Lucide pack.
    * Alias of `contact-round`.
    *
@@ -49478,6 +49736,8 @@ declare module 'virtual:icons/lucide/contact-2' {
 
 declare module '~icons/lucide/contact-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNiAydjJtMS45MTUgMThhNiA2IDAgMCAwLTEyIDBNOCAydjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSI0Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSI0IiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `contact-2` from Lucide pack.
    * Alias of `contact-round`.
    *
@@ -49489,6 +49749,8 @@ declare module '~icons/lucide/contact-2' {
 
 declare module 'virtual:icons/lucide/curly-braces' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDNIN2EyIDIgMCAwIDAtMiAydjVhMiAyIDAgMCAxLTIgMmEyIDIgMCAwIDEgMiAydjVjMCAxLjEuOSAyIDIgMmgxbTggMGgxYTIgMiAwIDAgMCAyLTJ2LTVjMC0xLjEuOS0yIDItMmEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAwLTItMmgtMSIvPjwvc3ZnPg==)
+   * 
    * `curly-braces` from Lucide pack.
    * Alias of `braces`.
    *
@@ -49501,6 +49763,8 @@ declare module 'virtual:icons/lucide/curly-braces' {
 
 declare module '~icons/lucide/curly-braces' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDNIN2EyIDIgMCAwIDAtMiAydjVhMiAyIDAgMCAxLTIgMmEyIDIgMCAwIDEgMiAydjVjMCAxLjEuOSAyIDIgMmgxbTggMGgxYTIgMiAwIDAgMCAyLTJ2LTVjMC0xLjEuOS0yIDItMmEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAwLTItMmgtMSIvPjwvc3ZnPg==)
+   * 
    * `curly-braces` from Lucide pack.
    * Alias of `braces`.
    *
@@ -49512,6 +49776,8 @@ declare module '~icons/lucide/curly-braces' {
 
 declare module 'virtual:icons/lucide/divide-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik04IDEyaDhtLTQtNCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `divide-circle` from Lucide pack.
    * Alias of `circle-divide`.
    *
@@ -49524,6 +49790,8 @@ declare module 'virtual:icons/lucide/divide-circle' {
 
 declare module '~icons/lucide/divide-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik04IDEyaDhtLTQtNCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `divide-circle` from Lucide pack.
    * Alias of `circle-divide`.
    *
@@ -49535,6 +49803,8 @@ declare module '~icons/lucide/divide-circle' {
 
 declare module 'virtual:icons/lucide/divide-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTggMTJoOG0tNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `divide-square` from Lucide pack.
    * Alias of `square-divide`.
    *
@@ -49547,6 +49817,8 @@ declare module 'virtual:icons/lucide/divide-square' {
 
 declare module '~icons/lucide/divide-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTggMTJoOG0tNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `divide-square` from Lucide pack.
    * Alias of `square-divide`.
    *
@@ -49558,6 +49830,8 @@ declare module '~icons/lucide/divide-square' {
 
 declare module 'virtual:icons/lucide/dot-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `dot-square` from Lucide pack.
    * Alias of `square-dot`.
    *
@@ -49570,6 +49844,8 @@ declare module 'virtual:icons/lucide/dot-square' {
 
 declare module '~icons/lucide/dot-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `dot-square` from Lucide pack.
    * Alias of `square-dot`.
    *
@@ -49581,6 +49857,8 @@ declare module '~icons/lucide/dot-square' {
 
 declare module 'virtual:icons/lucide/download-cloud' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxM3Y4bC00LTRtNCA0bDQtNCIvPjxwYXRoIGQ9Ik00LjM5MyAxNS4yNjlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIDIuNDM2IDguMjg0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `download-cloud` from Lucide pack.
    * Alias of `cloud-download`.
    *
@@ -49593,6 +49871,8 @@ declare module 'virtual:icons/lucide/download-cloud' {
 
 declare module '~icons/lucide/download-cloud' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxM3Y4bC00LTRtNCA0bDQtNCIvPjxwYXRoIGQ9Ik00LjM5MyAxNS4yNjlBNyA3IDAgMSAxIDE1LjcxIDhoMS43OWE0LjUgNC41IDAgMCAxIDIuNDM2IDguMjg0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `download-cloud` from Lucide pack.
    * Alias of `cloud-download`.
    *
@@ -49604,6 +49884,8 @@ declare module '~icons/lucide/download-cloud' {
 
 declare module 'virtual:icons/lucide/edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `edit` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -49616,6 +49898,8 @@ declare module 'virtual:icons/lucide/edit' {
 
 declare module '~icons/lucide/edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `edit` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -49627,6 +49911,8 @@ declare module '~icons/lucide/edit' {
 
 declare module 'virtual:icons/lucide/edit-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMS4xNzQgNi44MTJhMSAxIDAgMCAwLTMuOTg2LTMuOTg3TDMuODQyIDE2LjE3NGEyIDIgMCAwIDAtLjUuODNsLTEuMzIxIDQuMzUyYS41LjUgMCAwIDAgLjYyMy42MjJsNC4zNTMtMS4zMmEyIDIgMCAwIDAgLjgzLS40OTd6Ii8+PC9zdmc+)
+   * 
    * `edit-2` from Lucide pack.
    * Alias of `pen`.
    *
@@ -49639,6 +49925,8 @@ declare module 'virtual:icons/lucide/edit-2' {
 
 declare module '~icons/lucide/edit-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMS4xNzQgNi44MTJhMSAxIDAgMCAwLTMuOTg2LTMuOTg3TDMuODQyIDE2LjE3NGEyIDIgMCAwIDAtLjUuODNsLTEuMzIxIDQuMzUyYS41LjUgMCAwIDAgLjYyMy42MjJsNC4zNTMtMS4zMmEyIDIgMCAwIDAgLjgzLS40OTd6Ii8+PC9zdmc+)
+   * 
    * `edit-2` from Lucide pack.
    * Alias of `pen`.
    *
@@ -49650,6 +49938,8 @@ declare module '~icons/lucide/edit-2' {
 
 declare module 'virtual:icons/lucide/edit-3' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMGg5TTE2LjM3NiAzLjYyMmExIDEgMCAwIDEgMy4wMDIgMy4wMDJMNy4zNjggMTguNjM1YTIgMiAwIDAgMS0uODU1LjUwNmwtMi44NzIuODM4YS41LjUgMCAwIDEtLjYyLS42MmwuODM4LTIuODcyYTIgMiAwIDAgMSAuNTA2LS44NTR6Ii8+PC9zdmc+)
+   * 
    * `edit-3` from Lucide pack.
    * Alias of `pen-line`.
    *
@@ -49662,6 +49952,8 @@ declare module 'virtual:icons/lucide/edit-3' {
 
 declare module '~icons/lucide/edit-3' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAyMGg5TTE2LjM3NiAzLjYyMmExIDEgMCAwIDEgMy4wMDIgMy4wMDJMNy4zNjggMTguNjM1YTIgMiAwIDAgMS0uODU1LjUwNmwtMi44NzIuODM4YS41LjUgMCAwIDEtLjYyLS42MmwuODM4LTIuODcyYTIgMiAwIDAgMSAuNTA2LS44NTR6Ii8+PC9zdmc+)
+   * 
    * `edit-3` from Lucide pack.
    * Alias of `pen-line`.
    *
@@ -49673,6 +49965,8 @@ declare module '~icons/lucide/edit-3' {
 
 declare module 'virtual:icons/lucide/equal-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyAxMGgxME03IDE0aDEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `equal-square` from Lucide pack.
    * Alias of `square-equal`.
    *
@@ -49685,6 +49979,8 @@ declare module 'virtual:icons/lucide/equal-square' {
 
 declare module '~icons/lucide/equal-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyAxMGgxME03IDE0aDEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `equal-square` from Lucide pack.
    * Alias of `square-equal`.
    *
@@ -49696,6 +49992,8 @@ declare module '~icons/lucide/equal-square' {
 
 declare module 'virtual:icons/lucide/file-axis-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4bDQtNG0tNC00djhoOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-axis-3-d` from Lucide pack.
    * Alias of `file-axis-3d`.
    *
@@ -49708,6 +50006,8 @@ declare module 'virtual:icons/lucide/file-axis-3-d' {
 
 declare module '~icons/lucide/file-axis-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4bDQtNG0tNC00djhoOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-axis-3-d` from Lucide pack.
    * Alias of `file-axis-3d`.
    *
@@ -49719,6 +50019,8 @@ declare module '~icons/lucide/file-axis-3-d' {
 
 declare module 'virtual:icons/lucide/file-bar-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4di0ybTQgMnYtNG00IDR2LTYiLz48L2c+PC9zdmc+)
+   * 
    * `file-bar-chart` from Lucide pack.
    * Alias of `file-chart-column-increasing`.
    *
@@ -49731,6 +50033,8 @@ declare module 'virtual:icons/lucide/file-bar-chart' {
 
 declare module '~icons/lucide/file-bar-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4di0ybTQgMnYtNG00IDR2LTYiLz48L2c+PC9zdmc+)
+   * 
    * `file-bar-chart` from Lucide pack.
    * Alias of `file-chart-column-increasing`.
    *
@@ -49742,6 +50046,8 @@ declare module '~icons/lucide/file-bar-chart' {
 
 declare module 'virtual:icons/lucide/file-bar-chart-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4di0xbTQgMXYtNm00IDZ2LTMiLz48L2c+PC9zdmc+)
+   * 
    * `file-bar-chart-2` from Lucide pack.
    * Alias of `file-chart-column`.
    *
@@ -49754,6 +50060,8 @@ declare module 'virtual:icons/lucide/file-bar-chart-2' {
 
 declare module '~icons/lucide/file-bar-chart-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNE04IDE4di0xbTQgMXYtNm00IDZ2LTMiLz48L2c+PC9zdmc+)
+   * 
    * `file-bar-chart-2` from Lucide pack.
    * Alias of `file-chart-column`.
    *
@@ -49765,6 +50073,8 @@ declare module '~icons/lucide/file-bar-chart-2' {
 
 declare module 'virtual:icons/lucide/file-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNCAydjRhMiAyIDAgMCAwIDIgMmg0TTMuMiAxMi45bC0uOS0uNG0uOSAyLjZsLS45LjQiLz48cGF0aCBkPSJNNC42NzcgMjEuNWEyIDIgMCAwIDAgMS4zMTMuNUgxOGEyIDIgMCAwIDAgMi0yVjdsLTUtNUg2YTIgMiAwIDAgMC0yIDJ2Mi41bS45IDQuN2wtLjQtLjltLjQgNi41bC0uNC45bTMtNy40bC0uNC45bS40IDYuNWwtLjQtLjltMi42LTQuM2wtLjkuNG0uOSAyLjZsLS45LS40Ii8+PGNpcmNsZSBjeD0iNiIgY3k9IjE0IiByPSIzIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `file-cog-2` from Lucide pack.
    * Alias of `file-cog`.
    *
@@ -49777,6 +50087,8 @@ declare module 'virtual:icons/lucide/file-cog-2' {
 
 declare module '~icons/lucide/file-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNCAydjRhMiAyIDAgMCAwIDIgMmg0TTMuMiAxMi45bC0uOS0uNG0uOSAyLjZsLS45LjQiLz48cGF0aCBkPSJNNC42NzcgMjEuNWEyIDIgMCAwIDAgMS4zMTMuNUgxOGEyIDIgMCAwIDAgMi0yVjdsLTUtNUg2YTIgMiAwIDAgMC0yIDJ2Mi41bS45IDQuN2wtLjQtLjltLjQgNi41bC0uNC45bTMtNy40bC0uNC45bS40IDYuNWwtLjQtLjltMi42LTQuM2wtLjkuNG0uOSAyLjZsLS45LS40Ii8+PGNpcmNsZSBjeD0iNiIgY3k9IjE0IiByPSIzIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `file-cog-2` from Lucide pack.
    * Alias of `file-cog`.
    *
@@ -49788,6 +50100,8 @@ declare module '~icons/lucide/file-cog-2' {
 
 declare module 'virtual:icons/lucide/file-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi41IDIySDE4YTIgMiAwIDAgMCAyLTJWN2wtNS01SDZhMiAyIDAgMCAwLTIgMnY5LjUiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNG0tNi42MjIgNy42MjZhMSAxIDAgMSAwLTMuMDA0LTMuMDA0bC01LjAxIDUuMDEyYTIgMiAwIDAgMC0uNTA2Ljg1NGwtLjgzNyAyLjg3YS41LjUgMCAwIDAgLjYyLjYybDIuODctLjgzN2EyIDIgMCAwIDAgLjg1NC0uNTA2eiIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-edit` from Lucide pack.
    * Alias of `file-pen`.
    *
@@ -49800,6 +50114,8 @@ declare module 'virtual:icons/lucide/file-edit' {
 
 declare module '~icons/lucide/file-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi41IDIySDE4YTIgMiAwIDAgMCAyLTJWN2wtNS01SDZhMiAyIDAgMCAwLTIgMnY5LjUiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNG0tNi42MjIgNy42MjZhMSAxIDAgMSAwLTMuMDA0LTMuMDA0bC01LjAxIDUuMDEyYTIgMiAwIDAgMC0uNTA2Ljg1NGwtLjgzNyAyLjg3YS41LjUgMCAwIDAgLjYyLjYybDIuODctLjgzN2EyIDIgMCAwIDAgLjg1NC0uNTA2eiIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-edit` from Lucide pack.
    * Alias of `file-pen`.
    *
@@ -49811,6 +50127,8 @@ declare module '~icons/lucide/file-edit' {
 
 declare module 'virtual:icons/lucide/file-line-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNG0tNCA1bC0zLjUgMy41bC0yLTJMOCAxNyIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-line-chart` from Lucide pack.
    * Alias of `file-chart-line`.
    *
@@ -49823,6 +50141,8 @@ declare module 'virtual:icons/lucide/file-line-chart' {
 
 declare module '~icons/lucide/file-line-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAySDZhMiAyIDAgMCAwLTIgMnYxNmEyIDIgMCAwIDAgMiAyaDEyYTIgMiAwIDAgMCAyLTJWN1oiLz48cGF0aCBkPSJNMTQgMnY0YTIgMiAwIDAgMCAyIDJoNG0tNCA1bC0zLjUgMy41bC0yLTJMOCAxNyIvPjwvZz48L3N2Zz4=)
+   * 
    * `file-line-chart` from Lucide pack.
    * Alias of `file-chart-line`.
    *
@@ -49834,6 +50154,8 @@ declare module '~icons/lucide/file-line-chart' {
 
 declare module 'virtual:icons/lucide/file-signature' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xOCA1bC0yLjQxNC0yLjQxNEEyIDIgMCAwIDAgMTQuMTcyIDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMiIvPjxwYXRoIGQ9Ik0yMS4zNzggMTIuNjI2YTEgMSAwIDAgMC0zLjAwNC0zLjAwNGwtNC4wMSA0LjAxMmEyIDIgMCAwIDAtLjUwNi44NTRsLS44MzcgMi44N2EuNS41IDAgMCAwIC42Mi42MmwyLjg3LS44MzdhMiAyIDAgMCAwIC44NTQtLjUwNnpNOCAxOGgxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `file-signature` from Lucide pack.
    * Alias of `file-pen-line`.
    *
@@ -49846,6 +50168,8 @@ declare module 'virtual:icons/lucide/file-signature' {
 
 declare module '~icons/lucide/file-signature' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xOCA1bC0yLjQxNC0yLjQxNEEyIDIgMCAwIDAgMTQuMTcyIDJINmEyIDIgMCAwIDAtMiAydjE2YTIgMiAwIDAgMCAyIDJoMTJhMiAyIDAgMCAwIDItMiIvPjxwYXRoIGQ9Ik0yMS4zNzggMTIuNjI2YTEgMSAwIDAgMC0zLjAwNC0zLjAwNGwtNC4wMSA0LjAxMmEyIDIgMCAwIDAtLjUwNi44NTRsLS44MzcgMi44N2EuNS41IDAgMCAwIC42Mi42MmwyLjg3LS44MzdhMiAyIDAgMCAwIC44NTQtLjUwNnpNOCAxOGgxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `file-signature` from Lucide pack.
    * Alias of `file-pen-line`.
    *
@@ -49857,6 +50181,8 @@ declare module '~icons/lucide/file-signature' {
 
 declare module 'virtual:icons/lucide/folder-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiLz48cGF0aCBkPSJNMTAuMyAyMEg0YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDMuOWEyIDIgMCAwIDEgMS42OS45bC44MSAxLjJhMiAyIDAgMCAwIDEuNjcuOUgyMGEyIDIgMCAwIDEgMiAydjMuM20tLjMgOC4xbC0uOS0uM20tNS42LTIuMmwtLjktLjNtMi4zIDUuMWwuMy0uOW0yLjItNS42bC4zLS45bS4yIDcuNGwtLjQtMW0tMi40LTUuNGwtLjQtMW0tMi4xIDUuM2wxLS40bTUuNC0yLjRsMS0uNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `folder-cog-2` from Lucide pack.
    * Alias of `folder-cog`.
    *
@@ -49869,6 +50195,8 @@ declare module 'virtual:icons/lucide/folder-cog-2' {
 
 declare module '~icons/lucide/folder-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiLz48cGF0aCBkPSJNMTAuMyAyMEg0YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDMuOWEyIDIgMCAwIDEgMS42OS45bC44MSAxLjJhMiAyIDAgMCAwIDEuNjcuOUgyMGEyIDIgMCAwIDEgMiAydjMuM20tLjMgOC4xbC0uOS0uM20tNS42LTIuMmwtLjktLjNtMi4zIDUuMWwuMy0uOW0yLjItNS42bC4zLS45bS4yIDcuNGwtLjQtMW0tMi40LTUuNGwtLjQtMW0tMi4xIDUuM2wxLS40bTUuNC0yLjRsMS0uNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `folder-cog-2` from Lucide pack.
    * Alias of `folder-cog`.
    *
@@ -49880,6 +50208,8 @@ declare module '~icons/lucide/folder-cog-2' {
 
 declare module 'virtual:icons/lucide/folder-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDExLjVWNWEyIDIgMCAwIDEgMi0yaDMuOWMuNyAwIDEuMy4zIDEuNy45bC44IDEuMmMuNC42IDEgLjkgMS43LjlIMjBhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAyaC05LjUiLz48cGF0aCBkPSJNMTEuMzc4IDEzLjYyNmExIDEgMCAxIDAtMy4wMDQtMy4wMDRsLTUuMDEgNS4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `folder-edit` from Lucide pack.
    * Alias of `folder-pen`.
    *
@@ -49892,6 +50222,8 @@ declare module 'virtual:icons/lucide/folder-edit' {
 
 declare module '~icons/lucide/folder-edit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDExLjVWNWEyIDIgMCAwIDEgMi0yaDMuOWMuNyAwIDEuMy4zIDEuNy45bC44IDEuMmMuNC42IDEgLjkgMS43LjlIMjBhMiAyIDAgMCAxIDIgMnYxMGEyIDIgMCAwIDEtMiAyaC05LjUiLz48cGF0aCBkPSJNMTEuMzc4IDEzLjYyNmExIDEgMCAxIDAtMy4wMDQtMy4wMDRsLTUuMDEgNS4wMTJhMiAyIDAgMCAwLS41MDYuODU0bC0uODM3IDIuODdhLjUuNSAwIDAgMCAuNjIuNjJsMi44Ny0uODM3YTIgMiAwIDAgMCAuODU0LS41MDZ6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `folder-edit` from Lucide pack.
    * Alias of `folder-pen`.
    *
@@ -49903,6 +50235,8 @@ declare module '~icons/lucide/folder-edit' {
 
 declare module 'virtual:icons/lucide/fork-knife' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0zIDJ2N2MwIDEuMS45IDIgMiAyaDRhMiAyIDAgMCAwIDItMlYyTTcgMnYyMG0xNC03VjJhNSA1IDAgMCAwLTUgNXY2YzAgMS4xLjkgMiAyIDJ6bTAgMHY3Ii8+PC9zdmc+)
+   * 
    * `fork-knife` from Lucide pack.
    * Alias of `utensils`.
    *
@@ -49915,6 +50249,8 @@ declare module 'virtual:icons/lucide/fork-knife' {
 
 declare module '~icons/lucide/fork-knife' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0zIDJ2N2MwIDEuMS45IDIgMiAyaDRhMiAyIDAgMCAwIDItMlYyTTcgMnYyMG0xNC03VjJhNSA1IDAgMCAwLTUgNXY2YzAgMS4xLjkgMiAyIDJ6bTAgMHY3Ii8+PC9zdmc+)
+   * 
    * `fork-knife` from Lucide pack.
    * Alias of `utensils`.
    *
@@ -49926,6 +50262,8 @@ declare module '~icons/lucide/fork-knife' {
 
 declare module 'virtual:icons/lucide/fork-knife-crossed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xNiAybC0yLjMgMi4zYTMgMyAwIDAgMCAwIDQuMmwxLjggMS44YTMgMyAwIDAgMCA0LjIgMEwyMiA4bS03IDdMMy4zIDMuM2E0LjIgNC4yIDAgMCAwIDAgNmw3LjMgNy4zYy43LjcgMiAuNyAyLjggMHptMCAwbDcgN20tMTkuOS0uMmw2LjQtNi4zTTE5IDVsLTcgNyIvPjwvc3ZnPg==)
+   * 
    * `fork-knife-crossed` from Lucide pack.
    * Alias of `utensils-crossed`.
    *
@@ -49938,6 +50276,8 @@ declare module 'virtual:icons/lucide/fork-knife-crossed' {
 
 declare module '~icons/lucide/fork-knife-crossed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xNiAybC0yLjMgMi4zYTMgMyAwIDAgMCAwIDQuMmwxLjggMS44YTMgMyAwIDAgMCA0LjIgMEwyMiA4bS03IDdMMy4zIDMuM2E0LjIgNC4yIDAgMCAwIDAgNmw3LjMgNy4zYy43LjcgMiAuNyAyLjggMHptMCAwbDcgN20tMTkuOS0uMmw2LjQtNi4zTTE5IDVsLTcgNyIvPjwvc3ZnPg==)
+   * 
    * `fork-knife-crossed` from Lucide pack.
    * Alias of `utensils-crossed`.
    *
@@ -49949,6 +50289,8 @@ declare module '~icons/lucide/fork-knife-crossed' {
 
 declare module 'virtual:icons/lucide/form-input' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxMiIgeD0iMiIgeT0iNiIgcng9IjIiLz48cGF0aCBkPSJNMTIgMTJoLjAxTTE3IDEyaC4wMU03IDEyaC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `form-input` from Lucide pack.
    * Alias of `rectangle-ellipsis`.
    *
@@ -49961,6 +50303,8 @@ declare module 'virtual:icons/lucide/form-input' {
 
 declare module '~icons/lucide/form-input' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIxMiIgeD0iMiIgeT0iNiIgcng9IjIiLz48cGF0aCBkPSJNMTIgMTJoLjAxTTE3IDEyaC4wMU03IDEyaC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `form-input` from Lucide pack.
    * Alias of `rectangle-ellipsis`.
    *
@@ -49972,6 +50316,8 @@ declare module '~icons/lucide/form-input' {
 
 declare module 'virtual:icons/lucide/function-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTkgMTdjMiAwIDIuOC0xIDIuOC0yLjhWMTBjMC0yIDEtMy4zIDMuMi0zbS02IDQuMmg1LjciLz48L2c+PC9zdmc+)
+   * 
    * `function-square` from Lucide pack.
    * Alias of `square-function`.
    *
@@ -49984,6 +50330,8 @@ declare module 'virtual:icons/lucide/function-square' {
 
 declare module '~icons/lucide/function-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTkgMTdjMiAwIDIuOC0xIDIuOC0yLjhWMTBjMC0yIDEtMy4zIDMuMi0zbS02IDQuMmg1LjciLz48L2c+PC9zdmc+)
+   * 
    * `function-square` from Lucide pack.
    * Alias of `square-function`.
    *
@@ -49995,6 +50343,8 @@ declare module '~icons/lucide/function-square' {
 
 declare module 'virtual:icons/lucide/gantt-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDZoMTBNNiAxMmg5bS00IDZoNyIvPjwvc3ZnPg==)
+   * 
    * `gantt-chart` from Lucide pack.
    * Alias of `chart-no-axes-gantt`.
    *
@@ -50007,6 +50357,8 @@ declare module 'virtual:icons/lucide/gantt-chart' {
 
 declare module '~icons/lucide/gantt-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDZoMTBNNiAxMmg5bS00IDZoNyIvPjwvc3ZnPg==)
+   * 
    * `gantt-chart` from Lucide pack.
    * Alias of `chart-no-axes-gantt`.
    *
@@ -50018,6 +50370,8 @@ declare module '~icons/lucide/gantt-chart' {
 
 declare module 'virtual:icons/lucide/gantt-chart-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `gantt-chart-square` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -50030,6 +50384,8 @@ declare module 'virtual:icons/lucide/gantt-chart-square' {
 
 declare module '~icons/lucide/gantt-chart-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `gantt-chart-square` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -50041,6 +50397,8 @@ declare module '~icons/lucide/gantt-chart-square' {
 
 declare module 'virtual:icons/lucide/gauge-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNS42IDIuN2ExMCAxMCAwIDEgMCA1LjcgNS43Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xMy40IDEwLjZMMTkgNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `gauge-circle` from Lucide pack.
    * Alias of `circle-gauge`.
    *
@@ -50053,6 +50411,8 @@ declare module 'virtual:icons/lucide/gauge-circle' {
 
 declare module '~icons/lucide/gauge-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNS42IDIuN2ExMCAxMCAwIDEgMCA1LjcgNS43Ii8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMiIvPjxwYXRoIGQ9Ik0xMy40IDEwLjZMMTkgNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `gauge-circle` from Lucide pack.
    * Alias of `circle-gauge`.
    *
@@ -50064,6 +50424,8 @@ declare module '~icons/lucide/gauge-circle' {
 
 declare module 'virtual:icons/lucide/git-commit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48cGF0aCBkPSJNMyAxMmg2bTYgMGg2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `git-commit` from Lucide pack.
    * Alias of `git-commit-horizontal`.
    *
@@ -50076,6 +50438,8 @@ declare module 'virtual:icons/lucide/git-commit' {
 
 declare module '~icons/lucide/git-commit' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjMiLz48cGF0aCBkPSJNMyAxMmg2bTYgMGg2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `git-commit` from Lucide pack.
    * Alias of `git-commit-horizontal`.
    *
@@ -50087,6 +50451,8 @@ declare module '~icons/lucide/git-commit' {
 
 declare module 'virtual:icons/lucide/globe-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS41NCAxNUgxN2EyIDIgMCAwIDAtMiAydjQuNTRNNyAzLjM0VjVhMyAzIDAgMCAwIDMgM2EyIDIgMCAwIDEgMiAyYzAgMS4xLjkgMiAyIDJhMiAyIDAgMCAwIDItMmMwLTEuMS45LTIgMi0yaDMuMTdNMTEgMjEuOTVWMThhMiAyIDAgMCAwLTItMmEyIDIgMCAwIDEtMi0ydi0xYTIgMiAwIDAgMC0yLTJIMi4wNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `globe-2` from Lucide pack.
    * Alias of `earth`.
    *
@@ -50099,6 +50465,8 @@ declare module 'virtual:icons/lucide/globe-2' {
 
 declare module '~icons/lucide/globe-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yMS41NCAxNUgxN2EyIDIgMCAwIDAtMiAydjQuNTRNNyAzLjM0VjVhMyAzIDAgMCAwIDMgM2EyIDIgMCAwIDEgMiAyYzAgMS4xLjkgMiAyIDJhMiAyIDAgMCAwIDItMmMwLTEuMS45LTIgMi0yaDMuMTdNMTEgMjEuOTVWMThhMiAyIDAgMCAwLTItMmEyIDIgMCAwIDEtMi0ydi0xYTIgMiAwIDAgMC0yLTJIMi4wNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `globe-2` from Lucide pack.
    * Alias of `earth`.
    *
@@ -50110,6 +50478,8 @@ declare module '~icons/lucide/globe-2' {
 
 declare module 'virtual:icons/lucide/grid' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTMgMTVoMThNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `grid` from Lucide pack.
    * Alias of `grid-3x3`.
    *
@@ -50122,6 +50492,8 @@ declare module 'virtual:icons/lucide/grid' {
 
 declare module '~icons/lucide/grid' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTMgMTVoMThNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `grid` from Lucide pack.
    * Alias of `grid-3x3`.
    *
@@ -50133,6 +50505,8 @@ declare module '~icons/lucide/grid' {
 
 declare module 'virtual:icons/lucide/grid-2-x-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzdjE4bS05LTloMTgiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `grid-2-x-2` from Lucide pack.
    * Alias of `grid-2x2`.
    *
@@ -50145,6 +50519,8 @@ declare module 'virtual:icons/lucide/grid-2-x-2' {
 
 declare module '~icons/lucide/grid-2-x-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzdjE4bS05LTloMTgiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `grid-2-x-2` from Lucide pack.
    * Alias of `grid-2x2`.
    *
@@ -50156,6 +50532,8 @@ declare module '~icons/lucide/grid-2-x-2' {
 
 declare module 'virtual:icons/lucide/grid-2-x-2-check' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDdsMiAybDQtNCIvPjwvc3ZnPg==)
+   * 
    * `grid-2-x-2-check` from Lucide pack.
    * Alias of `grid-2x2-check`.
    *
@@ -50168,6 +50546,8 @@ declare module 'virtual:icons/lucide/grid-2-x-2-check' {
 
 declare module '~icons/lucide/grid-2-x-2-check' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDdsMiAybDQtNCIvPjwvc3ZnPg==)
+   * 
    * `grid-2-x-2-check` from Lucide pack.
    * Alias of `grid-2x2-check`.
    *
@@ -50179,6 +50559,8 @@ declare module '~icons/lucide/grid-2-x-2-check' {
 
 declare module 'virtual:icons/lucide/grid-2-x-2-plus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDdoNm0tMyAzdi02Ii8+PC9zdmc+)
+   * 
    * `grid-2-x-2-plus` from Lucide pack.
    * Alias of `grid-2x2-plus`.
    *
@@ -50191,6 +50573,8 @@ declare module 'virtual:icons/lucide/grid-2-x-2-plus' {
 
 declare module '~icons/lucide/grid-2-x-2-plus' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDdoNm0tMyAzdi02Ii8+PC9zdmc+)
+   * 
    * `grid-2-x-2-plus` from Lucide pack.
    * Alias of `grid-2x2-plus`.
    *
@@ -50202,6 +50586,8 @@ declare module '~icons/lucide/grid-2-x-2-plus' {
 
 declare module 'virtual:icons/lucide/grid-2-x-2-x' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDRsNSA1bS01IDBsNS01Ii8+PC9zdmc+)
+   * 
    * `grid-2-x-2-x` from Lucide pack.
    * Alias of `grid-2x2-x`.
    *
@@ -50214,6 +50600,8 @@ declare module 'virtual:icons/lucide/grid-2-x-2-x' {
 
 declare module '~icons/lucide/grid-2-x-2-x' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiAzdjE3YTEgMSAwIDAgMS0xIDFINWEyIDIgMCAwIDEtMi0yVjVhMiAyIDAgMCAxIDItMmgxNGEyIDIgMCAwIDEgMiAydjZhMSAxIDAgMCAxLTEgMUgzbTEzIDRsNSA1bS01IDBsNS01Ii8+PC9zdmc+)
+   * 
    * `grid-2-x-2-x` from Lucide pack.
    * Alias of `grid-2x2-x`.
    *
@@ -50225,6 +50613,8 @@ declare module '~icons/lucide/grid-2-x-2-x' {
 
 declare module 'virtual:icons/lucide/grid-3-x-3' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTMgMTVoMThNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `grid-3-x-3` from Lucide pack.
    * Alias of `grid-3x3`.
    *
@@ -50237,6 +50627,8 @@ declare module 'virtual:icons/lucide/grid-3-x-3' {
 
 declare module '~icons/lucide/grid-3-x-3' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTMgMTVoMThNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `grid-3-x-3` from Lucide pack.
    * Alias of `grid-3x3`.
    *
@@ -50248,6 +50640,8 @@ declare module '~icons/lucide/grid-3-x-3' {
 
 declare module 'virtual:icons/lucide/help-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzbS4wOCA0aC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `help-circle` from Lucide pack.
    * Alias of `circle-help`.
    *
@@ -50260,6 +50654,8 @@ declare module 'virtual:icons/lucide/help-circle' {
 
 declare module '~icons/lucide/help-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTkuMDkgOWEzIDMgMCAwIDEgNS44MyAxYzAgMi0zIDMtMyAzbS4wOCA0aC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `help-circle` from Lucide pack.
    * Alias of `circle-help`.
    *
@@ -50271,6 +50667,8 @@ declare module '~icons/lucide/help-circle' {
 
 declare module 'virtual:icons/lucide/helping-hand' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMSAxMmgyYTIgMiAwIDEgMCAwLTRoLTNjLS42IDAtMS4xLjItMS40LjZMMyAxNCIvPjxwYXRoIGQ9Im03IDE4bDEuNi0xLjRjLjMtLjQuOC0uNiAxLjQtLjZoNGMxLjEgMCAyLjEtLjQgMi44LTEuMmw0LjYtNC40YTIgMiAwIDAgMC0yLjc1LTIuOTFsLTQuMiAzLjlNMiAxM2w2IDYiLz48L2c+PC9zdmc+)
+   * 
    * `helping-hand` from Lucide pack.
    * Alias of `hand-helping`.
    *
@@ -50283,6 +50681,8 @@ declare module 'virtual:icons/lucide/helping-hand' {
 
 declare module '~icons/lucide/helping-hand' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMSAxMmgyYTIgMiAwIDEgMCAwLTRoLTNjLS42IDAtMS4xLjItMS40LjZMMyAxNCIvPjxwYXRoIGQ9Im03IDE4bDEuNi0xLjRjLjMtLjQuOC0uNiAxLjQtLjZoNGMxLjEgMCAyLjEtLjQgMi44LTEuMmw0LjYtNC40YTIgMiAwIDAgMC0yLjc1LTIuOTFsLTQuMiAzLjlNMiAxM2w2IDYiLz48L2c+PC9zdmc+)
+   * 
    * `helping-hand` from Lucide pack.
    * Alias of `hand-helping`.
    *
@@ -50294,6 +50694,8 @@ declare module '~icons/lucide/helping-hand' {
 
 declare module 'virtual:icons/lucide/home' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAyMXYtOGExIDEgMCAwIDAtMS0xaC00YTEgMSAwIDAgMC0xIDF2OCIvPjxwYXRoIGQ9Ik0zIDEwYTIgMiAwIDAgMSAuNzA5LTEuNTI4bDctNS45OTlhMiAyIDAgMCAxIDIuNTgyIDBsNyA1Ljk5OUEyIDIgMCAwIDEgMjEgMTB2OWEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiLz48L2c+PC9zdmc+)
+   * 
    * `home` from Lucide pack.
    * Alias of `house`.
    *
@@ -50306,6 +50708,8 @@ declare module 'virtual:icons/lucide/home' {
 
 declare module '~icons/lucide/home' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNSAyMXYtOGExIDEgMCAwIDAtMS0xaC00YTEgMSAwIDAgMC0xIDF2OCIvPjxwYXRoIGQ9Ik0zIDEwYTIgMiAwIDAgMSAuNzA5LTEuNTI4bDctNS45OTlhMiAyIDAgMCAxIDIuNTgyIDBsNyA1Ljk5OUEyIDIgMCAwIDEgMjEgMTB2OWEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMnoiLz48L2c+PC9zdmc+)
+   * 
    * `home` from Lucide pack.
    * Alias of `house`.
    *
@@ -50317,6 +50721,8 @@ declare module '~icons/lucide/home' {
 
 declare module 'virtual:icons/lucide/ice-cream' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im03IDExbDQuMDggMTAuMzVhMSAxIDAgMCAwIDEuODQgMEwxNyAxMW0wLTRBNSA1IDAgMCAwIDcgN20xMCAwYTIgMiAwIDAgMSAwIDRIN2EyIDIgMCAwIDEgMC00Ii8+PC9zdmc+)
+   * 
    * `ice-cream` from Lucide pack.
    * Alias of `ice-cream-cone`.
    *
@@ -50329,6 +50735,8 @@ declare module 'virtual:icons/lucide/ice-cream' {
 
 declare module '~icons/lucide/ice-cream' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im03IDExbDQuMDggMTAuMzVhMSAxIDAgMCAwIDEuODQgMEwxNyAxMW0wLTRBNSA1IDAgMCAwIDcgN20xMCAwYTIgMiAwIDAgMSAwIDRIN2EyIDIgMCAwIDEgMC00Ii8+PC9zdmc+)
+   * 
    * `ice-cream` from Lucide pack.
    * Alias of `ice-cream-cone`.
    *
@@ -50340,6 +50748,8 @@ declare module '~icons/lucide/ice-cream' {
 
 declare module 'virtual:icons/lucide/ice-cream-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxN2M1IDAgOC0yLjY5IDgtNkg0YzAgMy4zMSAzIDYgOCA2bS00IDRoOG0tNC0zdjNNNS4xNCAxMWEzLjUgMy41IDAgMSAxIDYuNzEgMCIvPjxwYXRoIGQ9Ik0xMi4xNCAxMWEzLjUgMy41IDAgMSAxIDYuNzEgMCIvPjxwYXRoIGQ9Ik0xNS41IDYuNWEzLjUgMy41IDAgMSAwLTcgMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `ice-cream-2` from Lucide pack.
    * Alias of `ice-cream-bowl`.
    *
@@ -50352,6 +50762,8 @@ declare module 'virtual:icons/lucide/ice-cream-2' {
 
 declare module '~icons/lucide/ice-cream-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxN2M1IDAgOC0yLjY5IDgtNkg0YzAgMy4zMSAzIDYgOCA2bS00IDRoOG0tNC0zdjNNNS4xNCAxMWEzLjUgMy41IDAgMSAxIDYuNzEgMCIvPjxwYXRoIGQ9Ik0xMi4xNCAxMWEzLjUgMy41IDAgMSAxIDYuNzEgMCIvPjxwYXRoIGQ9Ik0xNS41IDYuNWEzLjUgMy41IDAgMSAwLTcgMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `ice-cream-2` from Lucide pack.
    * Alias of `ice-cream-bowl`.
    *
@@ -50363,6 +50775,8 @@ declare module '~icons/lucide/ice-cream-2' {
 
 declare module 'virtual:icons/lucide/indent' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMkgxMW0xMCA2SDExTTIxIDZIMTFNMyA4bDQgNGwtNCA0Ii8+PC9zdmc+)
+   * 
    * `indent` from Lucide pack.
    * Alias of `indent-increase`.
    *
@@ -50375,6 +50789,8 @@ declare module 'virtual:icons/lucide/indent' {
 
 declare module '~icons/lucide/indent' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMkgxMW0xMCA2SDExTTIxIDZIMTFNMyA4bDQgNGwtNCA0Ii8+PC9zdmc+)
+   * 
    * `indent` from Lucide pack.
    * Alias of `indent-increase`.
    *
@@ -50386,6 +50802,8 @@ declare module '~icons/lucide/indent' {
 
 declare module 'virtual:icons/lucide/inspect' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzeiIvPjxwYXRoIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `inspect` from Lucide pack.
    * Alias of `square-mouse-pointer`.
    *
@@ -50398,6 +50816,8 @@ declare module 'virtual:icons/lucide/inspect' {
 
 declare module '~icons/lucide/inspect' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzeiIvPjxwYXRoIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `inspect` from Lucide pack.
    * Alias of `square-mouse-pointer`.
    *
@@ -50409,6 +50829,8 @@ declare module '~icons/lucide/inspect' {
 
 declare module 'virtual:icons/lucide/jersey-pound' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiA5LjVWMjFtMC0xMS41TDYgM202IDYuNUwxOCAzTTYgMTVoMTJNNiAxMWgxMiIvPjwvc3ZnPg==)
+   * 
    * `jersey-pound` from Lucide pack.
    * Alias of `japanese-yen`.
    *
@@ -50421,6 +50843,8 @@ declare module 'virtual:icons/lucide/jersey-pound' {
 
 declare module '~icons/lucide/jersey-pound' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMiA5LjVWMjFtMC0xMS41TDYgM202IDYuNUwxOCAzTTYgMTVoMTJNNiAxMWgxMiIvPjwvc3ZnPg==)
+   * 
    * `jersey-pound` from Lucide pack.
    * Alias of `japanese-yen`.
    *
@@ -50432,6 +50856,8 @@ declare module '~icons/lucide/jersey-pound' {
 
 declare module 'virtual:icons/lucide/kanban-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCA3djdtNC03djRtNC00djkiLz48L2c+PC9zdmc+)
+   * 
    * `kanban-square` from Lucide pack.
    * Alias of `square-kanban`.
    *
@@ -50444,6 +50870,8 @@ declare module 'virtual:icons/lucide/kanban-square' {
 
 declare module '~icons/lucide/kanban-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCA3djdtNC03djRtNC00djkiLz48L2c+PC9zdmc+)
+   * 
    * `kanban-square` from Lucide pack.
    * Alias of `square-kanban`.
    *
@@ -50455,6 +50883,8 @@ declare module '~icons/lucide/kanban-square' {
 
 declare module 'virtual:icons/lucide/kanban-square-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDd2N200LTd2NG00LTR2OU01IDNhMiAyIDAgMCAwLTIgMm02LTJoMW00IDBoMW00IDBhMiAyIDAgMCAxIDIgMm0wIDR2MW0wIDR2MW0wIDRhMiAyIDAgMCAxLTIgMm0tNSAwaDFtLTYgMGgxbS01IDBhMiAyIDAgMCAxLTItMm0wLTV2MW0wLTZ2MSIvPjwvc3ZnPg==)
+   * 
    * `kanban-square-dashed` from Lucide pack.
    * Alias of `square-dashed-kanban`.
    *
@@ -50467,6 +50897,8 @@ declare module 'virtual:icons/lucide/kanban-square-dashed' {
 
 declare module '~icons/lucide/kanban-square-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDd2N200LTd2NG00LTR2OU01IDNhMiAyIDAgMCAwLTIgMm02LTJoMW00IDBoMW00IDBhMiAyIDAgMCAxIDIgMm0wIDR2MW0wIDR2MW0wIDRhMiAyIDAgMCAxLTIgMm0tNSAwaDFtLTYgMGgxbS01IDBhMiAyIDAgMCAxLTItMm0wLTV2MW0wLTZ2MSIvPjwvc3ZnPg==)
+   * 
    * `kanban-square-dashed` from Lucide pack.
    * Alias of `square-dashed-kanban`.
    *
@@ -50478,6 +50910,8 @@ declare module '~icons/lucide/kanban-square-dashed' {
 
 declare module 'virtual:icons/lucide/laptop-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgeD0iMyIgeT0iNCIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTIgMjBoMjAiLz48L2c+PC9zdmc+)
+   * 
    * `laptop-2` from Lucide pack.
    * Alias of `laptop-minimal`.
    *
@@ -50490,6 +50924,8 @@ declare module 'virtual:icons/lucide/laptop-2' {
 
 declare module '~icons/lucide/laptop-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMiIgeD0iMyIgeT0iNCIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTIgMjBoMjAiLz48L2c+PC9zdmc+)
+   * 
    * `laptop-2` from Lucide pack.
    * Alias of `laptop-minimal`.
    *
@@ -50501,6 +50937,8 @@ declare module '~icons/lucide/laptop-2' {
 
 declare module 'virtual:icons/lucide/layout' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTkgMjFWOSIvPjwvZz48L3N2Zz4=)
+   * 
    * `layout` from Lucide pack.
    * Alias of `panels-top-left`.
    *
@@ -50513,6 +50951,8 @@ declare module 'virtual:icons/lucide/layout' {
 
 declare module '~icons/lucide/layout' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyA5aDE4TTkgMjFWOSIvPjwvZz48L3N2Zz4=)
+   * 
    * `layout` from Lucide pack.
    * Alias of `panels-top-left`.
    *
@@ -50524,6 +50964,8 @@ declare module '~icons/lucide/layout' {
 
 declare module 'virtual:icons/lucide/library-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA3djEwbTQtMTB2MTBtNC0xMGwyIDEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `library-square` from Lucide pack.
    * Alias of `square-library`.
    *
@@ -50536,6 +50978,8 @@ declare module 'virtual:icons/lucide/library-square' {
 
 declare module '~icons/lucide/library-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA3djEwbTQtMTB2MTBtNC0xMGwyIDEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `library-square` from Lucide pack.
    * Alias of `square-library`.
    *
@@ -50547,6 +50991,8 @@ declare module '~icons/lucide/library-square' {
 
 declare module 'virtual:icons/lucide/loader-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMmE5IDkgMCAxIDEtNi4yMTktOC41NiIvPjwvc3ZnPg==)
+   * 
    * `loader-2` from Lucide pack.
    * Alias of `loader-circle`.
    *
@@ -50559,6 +51005,8 @@ declare module 'virtual:icons/lucide/loader-2' {
 
 declare module '~icons/lucide/loader-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMmE5IDkgMCAxIDEtNi4yMTktOC41NiIvPjwvc3ZnPg==)
+   * 
    * `loader-2` from Lucide pack.
    * Alias of `loader-circle`.
    *
@@ -50570,6 +51018,8 @@ declare module '~icons/lucide/loader-2' {
 
 declare module 'virtual:icons/lucide/m-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxNlY4bDQgNGw0LTR2OCIvPjwvZz48L3N2Zz4=)
+   * 
    * `m-square` from Lucide pack.
    * Alias of `square-m`.
    *
@@ -50582,6 +51032,8 @@ declare module 'virtual:icons/lucide/m-square' {
 
 declare module '~icons/lucide/m-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxNlY4bDQgNGw0LTR2OCIvPjwvZz48L3N2Zz4=)
+   * 
    * `m-square` from Lucide pack.
    * Alias of `square-m`.
    *
@@ -50593,6 +51045,8 @@ declare module '~icons/lucide/m-square' {
 
 declare module 'virtual:icons/lucide/menu-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA4aDEwTTcgMTJoMTBNNyAxNmgxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `menu-square` from Lucide pack.
    * Alias of `square-menu`.
    *
@@ -50605,6 +51059,8 @@ declare module 'virtual:icons/lucide/menu-square' {
 
 declare module '~icons/lucide/menu-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA4aDEwTTcgMTJoMTBNNyAxNmgxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `menu-square` from Lucide pack.
    * Alias of `square-menu`.
    *
@@ -50616,6 +51072,8 @@ declare module '~icons/lucide/menu-square' {
 
 declare module 'virtual:icons/lucide/mic-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xMSA3LjYwMWwtNS45OTQgOC4xOWExIDEgMCAwIDAgLjEgMS4yOThsLjgxNy44MThhMSAxIDAgMCAwIDEuMzE0LjA4N0wxNS4wOSAxMiIvPjxwYXRoIGQ9Ik0xNi41IDIxLjE3NEMxNS41IDIwLjUgMTQuMzcyIDIwIDEzIDIwYy0yLjA1OCAwLTMuOTI4IDIuMzU2LTYgMnMtMi43NzUtMy4zNjktMS41LTQuNSIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iNyIgcj0iNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `mic-2` from Lucide pack.
    * Alias of `mic-vocal`.
    *
@@ -50628,6 +51086,8 @@ declare module 'virtual:icons/lucide/mic-2' {
 
 declare module '~icons/lucide/mic-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im0xMSA3LjYwMWwtNS45OTQgOC4xOWExIDEgMCAwIDAgLjEgMS4yOThsLjgxNy44MThhMSAxIDAgMCAwIDEuMzE0LjA4N0wxNS4wOSAxMiIvPjxwYXRoIGQ9Ik0xNi41IDIxLjE3NEMxNS41IDIwLjUgMTQuMzcyIDIwIDEzIDIwYy0yLjA1OCAwLTMuOTI4IDIuMzU2LTYgMnMtMi43NzUtMy4zNjktMS41LTQuNSIvPjxjaXJjbGUgY3g9IjE2IiBjeT0iNyIgcj0iNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `mic-2` from Lucide pack.
    * Alias of `mic-vocal`.
    *
@@ -50639,6 +51099,8 @@ declare module '~icons/lucide/mic-2' {
 
 declare module 'virtual:icons/lucide/minus-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `minus-circle` from Lucide pack.
    * Alias of `circle-minus`.
    *
@@ -50651,6 +51113,8 @@ declare module 'virtual:icons/lucide/minus-circle' {
 
 declare module '~icons/lucide/minus-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `minus-circle` from Lucide pack.
    * Alias of `circle-minus`.
    *
@@ -50662,6 +51126,8 @@ declare module '~icons/lucide/minus-circle' {
 
 declare module 'virtual:icons/lucide/minus-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `minus-square` from Lucide pack.
    * Alias of `square-minus`.
    *
@@ -50674,6 +51140,8 @@ declare module 'virtual:icons/lucide/minus-square' {
 
 declare module '~icons/lucide/minus-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `minus-square` from Lucide pack.
    * Alias of `square-minus`.
    *
@@ -50685,6 +51153,8 @@ declare module '~icons/lucide/minus-square' {
 
 declare module 'virtual:icons/lucide/more-horizontal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjEyIiByPSIxIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `more-horizontal` from Lucide pack.
    * Alias of `ellipsis`.
    *
@@ -50697,6 +51167,8 @@ declare module 'virtual:icons/lucide/more-horizontal' {
 
 declare module '~icons/lucide/more-horizontal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjEyIiByPSIxIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjEyIiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `more-horizontal` from Lucide pack.
    * Alias of `ellipsis`.
    *
@@ -50708,6 +51180,8 @@ declare module '~icons/lucide/more-horizontal' {
 
 declare module 'virtual:icons/lucide/more-vertical' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjE5IiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `more-vertical` from Lucide pack.
    * Alias of `ellipsis-vertical`.
    *
@@ -50720,6 +51194,8 @@ declare module 'virtual:icons/lucide/more-vertical' {
 
 declare module '~icons/lucide/more-vertical' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjUiIHI9IjEiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjE5IiByPSIxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `more-vertical` from Lucide pack.
    * Alias of `ellipsis-vertical`.
    *
@@ -50731,6 +51207,8 @@ declare module '~icons/lucide/more-vertical' {
 
 declare module 'virtual:icons/lucide/mouse-pointer-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzeiIvPjxwYXRoIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `mouse-pointer-square` from Lucide pack.
    * Alias of `square-mouse-pointer`.
    *
@@ -50743,6 +51221,8 @@ declare module 'virtual:icons/lucide/mouse-pointer-square' {
 
 declare module '~icons/lucide/mouse-pointer-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzeiIvPjxwYXRoIGQ9Ik0yMSAxMVY1YTIgMiAwIDAgMC0yLTJINWEyIDIgMCAwIDAtMiAydjE0YTIgMiAwIDAgMCAyIDJoNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `mouse-pointer-square` from Lucide pack.
    * Alias of `square-mouse-pointer`.
    *
@@ -50754,6 +51234,8 @@ declare module '~icons/lucide/mouse-pointer-square' {
 
 declare module 'virtual:icons/lucide/mouse-pointer-square-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzek01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJNNSAyMWEyIDIgMCAwIDEtMi0yTTkgM2gxTTkgMjFoMm0zLTE4aDFNMyA5djFtMTgtMXYyTTMgMTR2MSIvPjwvc3ZnPg==)
+   * 
    * `mouse-pointer-square-dashed` from Lucide pack.
    * Alias of `square-dashed-mouse-pointer`.
    *
@@ -50766,6 +51248,8 @@ declare module 'virtual:icons/lucide/mouse-pointer-square-dashed' {
 
 declare module '~icons/lucide/mouse-pointer-square-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMi4wMzQgMTIuNjgxYS40OTguNDk4IDAgMCAxIC42NDctLjY0N2w5IDMuNWEuNS41IDAgMCAxLS4wMzMuOTQzbC0zLjQ0NCAxLjA2OGExIDEgMCAwIDAtLjY2LjY2bC0xLjA2NyAzLjQ0M2EuNS41IDAgMCAxLS45NDMuMDMzek01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJNNSAyMWEyIDIgMCAwIDEtMi0yTTkgM2gxTTkgMjFoMm0zLTE4aDFNMyA5djFtMTgtMXYyTTMgMTR2MSIvPjwvc3ZnPg==)
+   * 
    * `mouse-pointer-square-dashed` from Lucide pack.
    * Alias of `square-dashed-mouse-pointer`.
    *
@@ -50777,6 +51261,8 @@ declare module '~icons/lucide/mouse-pointer-square-dashed' {
 
 declare module 'virtual:icons/lucide/move-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik01IDN2MTZoMTZNNSAxOWw2LTYiLz48cGF0aCBkPSJtMiA2bDMtM2wzIDNtMTAgMTBsMyAzbC0zIDMiLz48L2c+PC9zdmc+)
+   * 
    * `move-3-d` from Lucide pack.
    * Alias of `move-3d`.
    *
@@ -50789,6 +51275,8 @@ declare module 'virtual:icons/lucide/move-3-d' {
 
 declare module '~icons/lucide/move-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik01IDN2MTZoMTZNNSAxOWw2LTYiLz48cGF0aCBkPSJtMiA2bDMtM2wzIDNtMTAgMTBsMyAzbC0zIDMiLz48L2c+PC9zdmc+)
+   * 
    * `move-3-d` from Lucide pack.
    * Alias of `move-3d`.
    *
@@ -50800,6 +51288,8 @@ declare module '~icons/lucide/move-3-d' {
 
 declare module 'virtual:icons/lucide/outdent' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMkgxMW0xMCA2SDExTTIxIDZIMTFNNyA4bC00IDRsNCA0Ii8+PC9zdmc+)
+   * 
    * `outdent` from Lucide pack.
    * Alias of `indent-decrease`.
    *
@@ -50812,6 +51302,8 @@ declare module 'virtual:icons/lucide/outdent' {
 
 declare module '~icons/lucide/outdent' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSAxMkgxMW0xMCA2SDExTTIxIDZIMTFNNyA4bC00IDRsNCA0Ii8+PC9zdmc+)
+   * 
    * `outdent` from Lucide pack.
    * Alias of `indent-decrease`.
    *
@@ -50823,6 +51315,8 @@ declare module '~icons/lucide/outdent' {
 
 declare module 'virtual:icons/lucide/paintbrush-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMCAydjJtNC0ydjRtMy00YTEgMSAwIDAgMSAxIDF2OUg2VjNhMSAxIDAgMCAxIDEtMXpNNiAxMmExIDEgMCAwIDAtMSAxdjFhMiAyIDAgMCAwIDIgMmgyYTEgMSAwIDAgMSAxIDF2Mi45YTIgMiAwIDEgMCA0IDBWMTdhMSAxIDAgMCAxIDEtMWgyYTIgMiAwIDAgMCAyLTJ2LTFhMSAxIDAgMCAwLTEtMSIvPjwvc3ZnPg==)
+   * 
    * `paintbrush-2` from Lucide pack.
    * Alias of `paintbrush-vertical`.
    *
@@ -50835,6 +51329,8 @@ declare module 'virtual:icons/lucide/paintbrush-2' {
 
 declare module '~icons/lucide/paintbrush-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMCAydjJtNC0ydjRtMy00YTEgMSAwIDAgMSAxIDF2OUg2VjNhMSAxIDAgMCAxIDEtMXpNNiAxMmExIDEgMCAwIDAtMSAxdjFhMiAyIDAgMCAwIDIgMmgyYTEgMSAwIDAgMSAxIDF2Mi45YTIgMiAwIDEgMCA0IDBWMTdhMSAxIDAgMCAxIDEtMWgyYTIgMiAwIDAgMCAyLTJ2LTFhMSAxIDAgMCAwLTEtMSIvPjwvc3ZnPg==)
+   * 
    * `paintbrush-2` from Lucide pack.
    * Alias of `paintbrush-vertical`.
    *
@@ -50846,6 +51342,8 @@ declare module '~icons/lucide/paintbrush-2' {
 
 declare module 'virtual:icons/lucide/palmtree' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMyA4YzAtMi43Ni0yLjQ2LTUtNS41LTVTMiA1LjI0IDIgOGgybDEtMWwxIDFoNG0zLS44NkE1LjgyIDUuODIgMCAwIDEgMTYuNSA2YzMuMDQgMCA1LjUgMi4yNCA1LjUgNWgtM2wtMS0xbC0xIDFoLTMiLz48cGF0aCBkPSJNNS44OSA5LjcxYy0yLjE1IDIuMTUtMi4zIDUuNDctLjM1IDcuNDNsNC4yNC00LjI1bC43LS43bC43MS0uNzFsMi4xMi0yLjEyYy0xLjk1LTEuOTYtNS4yNy0xLjgtNy40Mi4zNSIvPjxwYXRoIGQ9Ik0xMSAxNS41Yy41IDIuNS0uMTcgNC41LTEgNi41aDRjMi01LjUtLjUtMTItMS0xNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `palmtree` from Lucide pack.
    * Alias of `tree-palm`.
    *
@@ -50858,6 +51356,8 @@ declare module 'virtual:icons/lucide/palmtree' {
 
 declare module '~icons/lucide/palmtree' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMyA4YzAtMi43Ni0yLjQ2LTUtNS41LTVTMiA1LjI0IDIgOGgybDEtMWwxIDFoNG0zLS44NkE1LjgyIDUuODIgMCAwIDEgMTYuNSA2YzMuMDQgMCA1LjUgMi4yNCA1LjUgNWgtM2wtMS0xbC0xIDFoLTMiLz48cGF0aCBkPSJNNS44OSA5LjcxYy0yLjE1IDIuMTUtMi4zIDUuNDctLjM1IDcuNDNsNC4yNC00LjI1bC43LS43bC43MS0uNzFsMi4xMi0yLjEyYy0xLjk1LTEuOTYtNS4yNy0xLjgtNy40Mi4zNSIvPjxwYXRoIGQ9Ik0xMSAxNS41Yy41IDIuNS0uMTcgNC41LTEgNi41aDRjMi01LjUtLjUtMTItMS0xNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `palmtree` from Lucide pack.
    * Alias of `tree-palm`.
    *
@@ -50869,6 +51369,8 @@ declare module '~icons/lucide/palmtree' {
 
 declare module 'virtual:icons/lucide/panel-bottom-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTQgMTVoMW00IDBoMk0zIDE1aDJtNCAwaDEiLz48L2c+PC9zdmc+)
+   * 
    * `panel-bottom-inactive` from Lucide pack.
    * Alias of `panel-bottom-dashed`.
    *
@@ -50881,6 +51383,8 @@ declare module 'virtual:icons/lucide/panel-bottom-inactive' {
 
 declare module '~icons/lucide/panel-bottom-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTQgMTVoMW00IDBoMk0zIDE1aDJtNCAwaDEiLz48L2c+PC9zdmc+)
+   * 
    * `panel-bottom-inactive` from Lucide pack.
    * Alias of `panel-bottom-dashed`.
    *
@@ -50892,6 +51396,8 @@ declare module '~icons/lucide/panel-bottom-inactive' {
 
 declare module 'virtual:icons/lucide/panel-left-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAxNHYxbTAgNHYyTTkgM3YybTAgNHYxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `panel-left-inactive` from Lucide pack.
    * Alias of `panel-left-dashed`.
    *
@@ -50904,6 +51410,8 @@ declare module 'virtual:icons/lucide/panel-left-inactive' {
 
 declare module '~icons/lucide/panel-left-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAxNHYxbTAgNHYyTTkgM3YybTAgNHYxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `panel-left-inactive` from Lucide pack.
    * Alias of `panel-left-dashed`.
    *
@@ -50915,6 +51423,8 @@ declare module '~icons/lucide/panel-left-inactive' {
 
 declare module 'virtual:icons/lucide/panel-right-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTUgMTR2MW0wIDR2Mm0wLTE4djJtMCA0djEiLz48L2c+PC9zdmc+)
+   * 
    * `panel-right-inactive` from Lucide pack.
    * Alias of `panel-right-dashed`.
    *
@@ -50927,6 +51437,8 @@ declare module 'virtual:icons/lucide/panel-right-inactive' {
 
 declare module '~icons/lucide/panel-right-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTUgMTR2MW0wIDR2Mm0wLTE4djJtMCA0djEiLz48L2c+PC9zdmc+)
+   * 
    * `panel-right-inactive` from Lucide pack.
    * Alias of `panel-right-dashed`.
    *
@@ -50938,6 +51450,8 @@ declare module '~icons/lucide/panel-right-inactive' {
 
 declare module 'virtual:icons/lucide/panel-top-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTQgOWgxbTQgMGgyTTMgOWgybTQgMGgxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `panel-top-inactive` from Lucide pack.
    * Alias of `panel-top-dashed`.
    *
@@ -50950,6 +51464,8 @@ declare module 'virtual:icons/lucide/panel-top-inactive' {
 
 declare module '~icons/lucide/panel-top-inactive' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTQgOWgxbTQgMGgyTTMgOWgybTQgMGgxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `panel-top-inactive` from Lucide pack.
    * Alias of `panel-top-dashed`.
    *
@@ -50961,6 +51477,8 @@ declare module '~icons/lucide/panel-top-inactive' {
 
 declare module 'virtual:icons/lucide/panels-left-right' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `panels-left-right` from Lucide pack.
    * Alias of `columns-3`.
    *
@@ -50973,6 +51491,8 @@ declare module 'virtual:icons/lucide/panels-left-right' {
 
 declare module '~icons/lucide/panels-left-right' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTYtMTh2MTgiLz48L2c+PC9zdmc+)
+   * 
    * `panels-left-right` from Lucide pack.
    * Alias of `columns-3`.
    *
@@ -50984,6 +51504,8 @@ declare module '~icons/lucide/panels-left-right' {
 
 declare module 'virtual:icons/lucide/panels-top-bottom' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMjEgOUgzbTE4IDZIMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `panels-top-bottom` from Lucide pack.
    * Alias of `rows-3`.
    *
@@ -50996,6 +51518,8 @@ declare module 'virtual:icons/lucide/panels-top-bottom' {
 
 declare module '~icons/lucide/panels-top-bottom' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMjEgOUgzbTE4IDZIMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `panels-top-bottom` from Lucide pack.
    * Alias of `rows-3`.
    *
@@ -51007,6 +51531,8 @@ declare module '~icons/lucide/panels-top-bottom' {
 
 declare module 'virtual:icons/lucide/parking-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTkgMTdWN2g0YTMgMyAwIDAgMSAwIDZIOSIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-circle` from Lucide pack.
    * Alias of `circle-parking`.
    *
@@ -51019,6 +51545,8 @@ declare module 'virtual:icons/lucide/parking-circle' {
 
 declare module '~icons/lucide/parking-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTkgMTdWN2g0YTMgMyAwIDAgMSAwIDZIOSIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-circle` from Lucide pack.
    * Alias of `circle-parking`.
    *
@@ -51030,6 +51558,8 @@ declare module '~icons/lucide/parking-circle' {
 
 declare module 'virtual:icons/lucide/parking-circle-off' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTUgNWwxNCAxNG0tNi02YTMgMyAwIDEgMCAwLTZIOXYybTAgOHYtMi4zNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-circle-off` from Lucide pack.
    * Alias of `circle-parking-off`.
    *
@@ -51042,6 +51572,8 @@ declare module 'virtual:icons/lucide/parking-circle-off' {
 
 declare module '~icons/lucide/parking-circle-off' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTUgNWwxNCAxNG0tNi02YTMgMyAwIDEgMCAwLTZIOXYybTAgOHYtMi4zNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-circle-off` from Lucide pack.
    * Alias of `circle-parking-off`.
    *
@@ -51053,6 +51585,8 @@ declare module '~icons/lucide/parking-circle-off' {
 
 declare module 'virtual:icons/lucide/parking-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAxN1Y3aDRhMyAzIDAgMCAxIDAgNkg5Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `parking-square` from Lucide pack.
    * Alias of `square-parking`.
    *
@@ -51065,6 +51599,8 @@ declare module 'virtual:icons/lucide/parking-square' {
 
 declare module '~icons/lucide/parking-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAxN1Y3aDRhMyAzIDAgMCAxIDAgNkg5Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `parking-square` from Lucide pack.
    * Alias of `square-parking`.
    *
@@ -51076,6 +51612,8 @@ declare module '~icons/lucide/parking-square' {
 
 declare module 'virtual:icons/lucide/parking-square-off' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zLjYgMy42QTIgMiAwIDAgMSA1IDNoMTRhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtLjU5IDEuNDFNMyA4LjdWMTlhMiAyIDAgMCAwIDIgMmgxMC4zTTIgMmwyMCAyMCIvPjxwYXRoIGQ9Ik0xMyAxM2EzIDMgMCAxIDAgMC02SDl2Mm0wIDh2LTIuMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-square-off` from Lucide pack.
    * Alias of `square-parking-off`.
    *
@@ -51088,6 +51626,8 @@ declare module 'virtual:icons/lucide/parking-square-off' {
 
 declare module '~icons/lucide/parking-square-off' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zLjYgMy42QTIgMiAwIDAgMSA1IDNoMTRhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtLjU5IDEuNDFNMyA4LjdWMTlhMiAyIDAgMCAwIDIgMmgxMC4zTTIgMmwyMCAyMCIvPjxwYXRoIGQ9Ik0xMyAxM2EzIDMgMCAxIDAgMC02SDl2Mm0wIDh2LTIuMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `parking-square-off` from Lucide pack.
    * Alias of `square-parking-off`.
    *
@@ -51099,6 +51639,8 @@ declare module '~icons/lucide/parking-square-off' {
 
 declare module 'virtual:icons/lucide/pause-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEwIDE1VjltNCA2VjkiLz48L2c+PC9zdmc+)
+   * 
    * `pause-circle` from Lucide pack.
    * Alias of `circle-pause`.
    *
@@ -51111,6 +51653,8 @@ declare module 'virtual:icons/lucide/pause-circle' {
 
 declare module '~icons/lucide/pause-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTEwIDE1VjltNCA2VjkiLz48L2c+PC9zdmc+)
+   * 
    * `pause-circle` from Lucide pack.
    * Alias of `circle-pause`.
    *
@@ -51122,6 +51666,8 @@ declare module '~icons/lucide/pause-circle' {
 
 declare module 'virtual:icons/lucide/pause-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMCAxNVY5bTQgNlY5TTIuNTg2IDE2LjcyNkEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJoNi42MjRhMiAyIDAgMCAxIDEuNDE0LjU4Nmw0LjY4OCA0LjY4OEEyIDIgMCAwIDEgMjIgOC42ODh2Ni42MjRhMiAyIDAgMCAxLS41ODYgMS40MTRsLTQuNjg4IDQuNjg4YTIgMiAwIDAgMS0xLjQxNC41ODZIOC42ODhhMiAyIDAgMCAxLTEuNDE0LS41ODZ6Ii8+PC9zdmc+)
+   * 
    * `pause-octagon` from Lucide pack.
    * Alias of `octagon-pause`.
    *
@@ -51134,6 +51680,8 @@ declare module 'virtual:icons/lucide/pause-octagon' {
 
 declare module '~icons/lucide/pause-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xMCAxNVY5bTQgNlY5TTIuNTg2IDE2LjcyNkEyIDIgMCAwIDEgMiAxNS4zMTJWOC42ODhhMiAyIDAgMCAxIC41ODYtMS40MTRsNC42ODgtNC42ODhBMiAyIDAgMCAxIDguNjg4IDJoNi42MjRhMiAyIDAgMCAxIDEuNDE0LjU4Nmw0LjY4OCA0LjY4OEEyIDIgMCAwIDEgMjIgOC42ODh2Ni42MjRhMiAyIDAgMCAxLS41ODYgMS40MTRsLTQuNjg4IDQuNjg4YTIgMiAwIDAgMS0xLjQxNC41ODZIOC42ODhhMiAyIDAgMCAxLTEuNDE0LS41ODZ6Ii8+PC9zdmc+)
+   * 
    * `pause-octagon` from Lucide pack.
    * Alias of `octagon-pause`.
    *
@@ -51145,6 +51693,8 @@ declare module '~icons/lucide/pause-octagon' {
 
 declare module 'virtual:icons/lucide/pen-box' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `pen-box` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -51157,6 +51707,8 @@ declare module 'virtual:icons/lucide/pen-box' {
 
 declare module '~icons/lucide/pen-box' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `pen-box` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -51168,6 +51720,8 @@ declare module '~icons/lucide/pen-box' {
 
 declare module 'virtual:icons/lucide/pen-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `pen-square` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -51180,6 +51734,8 @@ declare module 'virtual:icons/lucide/pen-square' {
 
 declare module '~icons/lucide/pen-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAzSDVhMiAyIDAgMCAwLTIgMnYxNGEyIDIgMCAwIDAgMiAyaDE0YTIgMiAwIDAgMCAyLTJ2LTciLz48cGF0aCBkPSJNMTguMzc1IDIuNjI1YTEgMSAwIDAgMSAzIDNsLTkuMDEzIDkuMDE0YTIgMiAwIDAgMS0uODUzLjUwNWwtMi44NzMuODRhLjUuNSAwIDAgMS0uNjItLjYybC44NC0yLjg3M2EyIDIgMCAwIDEgLjUwNi0uODUyeiIvPjwvZz48L3N2Zz4=)
+   * 
    * `pen-square` from Lucide pack.
    * Alias of `square-pen`.
    *
@@ -51191,6 +51747,8 @@ declare module '~icons/lucide/pen-square' {
 
 declare module 'virtual:icons/lucide/percent-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZoLjAxTTE1IDE1aC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `percent-circle` from Lucide pack.
    * Alias of `circle-percent`.
    *
@@ -51203,6 +51761,8 @@ declare module 'virtual:icons/lucide/percent-circle' {
 
 declare module '~icons/lucide/percent-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZoLjAxTTE1IDE1aC4wMSIvPjwvZz48L3N2Zz4=)
+   * 
    * `percent-circle` from Lucide pack.
    * Alias of `circle-percent`.
    *
@@ -51214,6 +51774,8 @@ declare module '~icons/lucide/percent-circle' {
 
 declare module 'virtual:icons/lucide/percent-diamond' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yLjcgMTAuM2EyLjQxIDIuNDEgMCAwIDAgMCAzLjQxbDcuNTkgNy41OWEyLjQxIDIuNDEgMCAwIDAgMy40MSAwbDcuNTktNy41OWEyLjQxIDIuNDEgMCAwIDAgMC0zLjQxTDEzLjcgMi43MWEyLjQxIDIuNDEgMCAwIDAtMy40MSAwWm02LjUtMS4xaC4wMW01LjI5LjNsLTUgNW01LjIuM2guMDEiLz48L3N2Zz4=)
+   * 
    * `percent-diamond` from Lucide pack.
    * Alias of `diamond-percent`.
    *
@@ -51226,6 +51788,8 @@ declare module 'virtual:icons/lucide/percent-diamond' {
 
 declare module '~icons/lucide/percent-diamond' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yLjcgMTAuM2EyLjQxIDIuNDEgMCAwIDAgMCAzLjQxbDcuNTkgNy41OWEyLjQxIDIuNDEgMCAwIDAgMy40MSAwbDcuNTktNy41OWEyLjQxIDIuNDEgMCAwIDAgMC0zLjQxTDEzLjcgMi43MWEyLjQxIDIuNDEgMCAwIDAtMy40MSAwWm02LjUtMS4xaC4wMW01LjI5LjNsLTUgNW01LjIuM2guMDEiLz48L3N2Zz4=)
+   * 
    * `percent-diamond` from Lucide pack.
    * Alias of `diamond-percent`.
    *
@@ -51237,6 +51801,8 @@ declare module '~icons/lucide/percent-diamond' {
 
 declare module 'virtual:icons/lucide/percent-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTUgOWwtNiA2bTAtNmguMDFNMTUgMTVoLjAxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `percent-square` from Lucide pack.
    * Alias of `square-percent`.
    *
@@ -51249,6 +51815,8 @@ declare module 'virtual:icons/lucide/percent-square' {
 
 declare module '~icons/lucide/percent-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtMTUgOWwtNiA2bTAtNmguMDFNMTUgMTVoLjAxIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `percent-square` from Lucide pack.
    * Alias of `square-percent`.
    *
@@ -51260,6 +51828,8 @@ declare module '~icons/lucide/percent-square' {
 
 declare module 'virtual:icons/lucide/pi-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA3aDEwbS03IDB2MTBtNiAwYTIgMiAwIDAgMS0yLTJWNyIvPjwvZz48L3N2Zz4=)
+   * 
    * `pi-square` from Lucide pack.
    * Alias of `square-pi`.
    *
@@ -51272,6 +51842,8 @@ declare module 'virtual:icons/lucide/pi-square' {
 
 declare module '~icons/lucide/pi-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNyA3aDEwbS03IDB2MTBtNiAwYTIgMiAwIDAgMS0yLTJWNyIvPjwvZz48L3N2Zz4=)
+   * 
    * `pi-square` from Lucide pack.
    * Alias of `square-pi`.
    *
@@ -51283,6 +51855,8 @@ declare module '~icons/lucide/pi-square' {
 
 declare module 'virtual:icons/lucide/pilcrow-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgMTJIOS41YTIuNSAyLjUgMCAwIDEgMC01SDE3bS01IDB2MTBtNC0xMHYxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `pilcrow-square` from Lucide pack.
    * Alias of `square-pilcrow`.
    *
@@ -51295,6 +51869,8 @@ declare module 'virtual:icons/lucide/pilcrow-square' {
 
 declare module '~icons/lucide/pilcrow-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTIgMTJIOS41YTIuNSAyLjUgMCAwIDEgMC01SDE3bS01IDB2MTBtNC0xMHYxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `pilcrow-square` from Lucide pack.
    * Alias of `square-pilcrow`.
    *
@@ -51306,6 +51882,8 @@ declare module '~icons/lucide/pilcrow-square' {
 
 declare module 'virtual:icons/lucide/play-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTEwIDhsNiA0bC02IDR6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `play-circle` from Lucide pack.
    * Alias of `circle-play`.
    *
@@ -51318,6 +51896,8 @@ declare module 'virtual:icons/lucide/play-circle' {
 
 declare module '~icons/lucide/play-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTEwIDhsNiA0bC02IDR6Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `play-circle` from Lucide pack.
    * Alias of `circle-play`.
    *
@@ -51329,6 +51909,8 @@ declare module '~icons/lucide/play-circle' {
 
 declare module 'virtual:icons/lucide/play-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSA4bDYgNGwtNiA0WiIvPjwvZz48L3N2Zz4=)
+   * 
    * `play-square` from Lucide pack.
    * Alias of `square-play`.
    *
@@ -51341,6 +51923,8 @@ declare module 'virtual:icons/lucide/play-square' {
 
 declare module '~icons/lucide/play-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSA4bDYgNGwtNiA0WiIvPjwvZz48L3N2Zz4=)
+   * 
    * `play-square` from Lucide pack.
    * Alias of `square-play`.
    *
@@ -51352,6 +51936,8 @@ declare module '~icons/lucide/play-square' {
 
 declare module 'virtual:icons/lucide/plug-zap-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik02LjMgMjAuM2EyLjQgMi40IDAgMCAwIDMuNCAwTDEyIDE4bC02LTZsLTIuMyAyLjNhMi40IDIuNCAwIDAgMCAwIDMuNFpNMiAyMmwzLTNtMi41LTUuNUwxMCAxMW0uNSA1LjVMMTMgMTRtNS0xMWwtNCA0aDZsLTQgNCIvPjwvc3ZnPg==)
+   * 
    * `plug-zap-2` from Lucide pack.
    * Alias of `plug-zap`.
    *
@@ -51364,6 +51950,8 @@ declare module 'virtual:icons/lucide/plug-zap-2' {
 
 declare module '~icons/lucide/plug-zap-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik02LjMgMjAuM2EyLjQgMi40IDAgMCAwIDMuNCAwTDEyIDE4bC02LTZsLTIuMyAyLjNhMi40IDIuNCAwIDAgMCAwIDMuNFpNMiAyMmwzLTNtMi41LTUuNUwxMCAxMW0uNSA1LjVMMTMgMTRtNS0xMWwtNCA0aDZsLTQgNCIvPjwvc3ZnPg==)
+   * 
    * `plug-zap-2` from Lucide pack.
    * Alias of `plug-zap`.
    *
@@ -51375,6 +51963,8 @@ declare module '~icons/lucide/plug-zap-2' {
 
 declare module 'virtual:icons/lucide/plus-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOG0tNC00djgiLz48L2c+PC9zdmc+)
+   * 
    * `plus-circle` from Lucide pack.
    * Alias of `circle-plus`.
    *
@@ -51387,6 +51977,8 @@ declare module 'virtual:icons/lucide/plus-circle' {
 
 declare module '~icons/lucide/plus-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0iTTggMTJoOG0tNC00djgiLz48L2c+PC9zdmc+)
+   * 
    * `plus-circle` from Lucide pack.
    * Alias of `circle-plus`.
    *
@@ -51398,6 +51990,8 @@ declare module '~icons/lucide/plus-circle' {
 
 declare module 'virtual:icons/lucide/plus-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4bS00LTR2OCIvPjwvZz48L3N2Zz4=)
+   * 
    * `plus-square` from Lucide pack.
    * Alias of `square-plus`.
    *
@@ -51410,6 +52004,8 @@ declare module 'virtual:icons/lucide/plus-square' {
 
 declare module '~icons/lucide/plus-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOCAxMmg4bS00LTR2OCIvPjwvZz48L3N2Zz4=)
+   * 
    * `plus-square` from Lucide pack.
    * Alias of `square-plus`.
    *
@@ -51421,6 +52017,8 @@ declare module '~icons/lucide/plus-square' {
 
 declare module 'virtual:icons/lucide/power-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiA3djRNNy45OTggOS4wMDNhNSA1IDAgMSAwIDgtLjAwNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `power-circle` from Lucide pack.
    * Alias of `circle-power`.
    *
@@ -51433,6 +52031,8 @@ declare module 'virtual:icons/lucide/power-circle' {
 
 declare module '~icons/lucide/power-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiA3djRNNy45OTggOS4wMDNhNSA1IDAgMSAwIDgtLjAwNSIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `power-circle` from Lucide pack.
    * Alias of `circle-power`.
    *
@@ -51444,6 +52044,8 @@ declare module '~icons/lucide/power-circle' {
 
 declare module 'virtual:icons/lucide/power-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiA3djRNNy45OTggOS4wMDNhNSA1IDAgMSAwIDgtLjAwNSIvPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `power-square` from Lucide pack.
    * Alias of `square-power`.
    *
@@ -51456,6 +52058,8 @@ declare module 'virtual:icons/lucide/power-square' {
 
 declare module '~icons/lucide/power-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiA3djRNNy45OTggOS4wMDNhNSA1IDAgMSAwIDgtLjAwNSIvPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `power-square` from Lucide pack.
    * Alias of `square-power`.
    *
@@ -51467,6 +52071,8 @@ declare module '~icons/lucide/power-square' {
 
 declare module 'virtual:icons/lucide/rotate-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNi40NjYgNy41QzE1LjY0MyA0LjIzNyAxMy45NTIgMiAxMiAyQzkuMjM5IDIgNyA2LjQ3NyA3IDEyczIuMjM5IDEwIDUgMTBxLjUxNC0uMDAyIDEtLjJtMi4xOTQtOC4wOTNsMy44MTQgMS44NmwtMS44NiAzLjgxNCIvPjxwYXRoIGQ9Ik0xOSAxNS41N2MtMS44MDQuODg1LTQuMjc0IDEuNDMtNyAxLjQzYy01LjUyMyAwLTEwLTIuMjM5LTEwLTVzNC40NzctNSAxMC01YzQuODM4IDAgOC44NzMgMS43MTggOS44IDQiLz48L2c+PC9zdmc+)
+   * 
    * `rotate-3-d` from Lucide pack.
    * Alias of `rotate-3d`.
    *
@@ -51479,6 +52085,8 @@ declare module 'virtual:icons/lucide/rotate-3-d' {
 
 declare module '~icons/lucide/rotate-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xNi40NjYgNy41QzE1LjY0MyA0LjIzNyAxMy45NTIgMiAxMiAyQzkuMjM5IDIgNyA2LjQ3NyA3IDEyczIuMjM5IDEwIDUgMTBxLjUxNC0uMDAyIDEtLjJtMi4xOTQtOC4wOTNsMy44MTQgMS44NmwtMS44NiAzLjgxNCIvPjxwYXRoIGQ9Ik0xOSAxNS41N2MtMS44MDQuODg1LTQuMjc0IDEuNDMtNyAxLjQzYy01LjUyMyAwLTEwLTIuMjM5LTEwLTVzNC40NzctNSAxMC01YzQuODM4IDAgOC44NzMgMS43MTggOS44IDQiLz48L2c+PC9zdmc+)
+   * 
    * `rotate-3-d` from Lucide pack.
    * Alias of `rotate-3d`.
    *
@@ -51490,6 +52098,8 @@ declare module '~icons/lucide/rotate-3-d' {
 
 declare module 'virtual:icons/lucide/rows' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyAxMmgxOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `rows` from Lucide pack.
    * Alias of `rows-2`.
    *
@@ -51502,6 +52112,8 @@ declare module 'virtual:icons/lucide/rows' {
 
 declare module '~icons/lucide/rows' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMyAxMmgxOCIvPjwvZz48L3N2Zz4=)
+   * 
    * `rows` from Lucide pack.
    * Alias of `rows-2`.
    *
@@ -51513,6 +52125,8 @@ declare module '~icons/lucide/rows' {
 
 declare module 'virtual:icons/lucide/scale-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik01IDd2MTFhMSAxIDAgMCAwIDEgMWgxMW0tMTEuNzA3LS4yOTNMMTEgMTMiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjE5IiByPSIyIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `scale-3-d` from Lucide pack.
    * Alias of `scale-3d`.
    *
@@ -51525,6 +52139,8 @@ declare module 'virtual:icons/lucide/scale-3-d' {
 
 declare module '~icons/lucide/scale-3-d' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik01IDd2MTFhMSAxIDAgMCAwIDEgMWgxMW0tMTEuNzA3LS4yOTNMMTEgMTMiLz48Y2lyY2xlIGN4PSIxOSIgY3k9IjE5IiByPSIyIi8+PGNpcmNsZSBjeD0iNSIgY3k9IjUiIHI9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `scale-3-d` from Lucide pack.
    * Alias of `scale-3d`.
    *
@@ -51536,6 +52152,8 @@ declare module '~icons/lucide/scale-3-d' {
 
 declare module 'virtual:icons/lucide/school-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjEiLz48cGF0aCBkPSJNMjIgMjBWOGgtNGwtNi00bC02IDRIMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJNNiAxN3YuMDFNNiAxM3YuMDFNMTggMTd2LjAxTTE4IDEzdi4wMSIvPjxwYXRoIGQ9Ik0xNCAyMnYtNWEyIDIgMCAwIDAtMi0yYTIgMiAwIDAgMC0yIDJ2NSIvPjwvZz48L3N2Zz4=)
+   * 
    * `school-2` from Lucide pack.
    * Alias of `university`.
    *
@@ -51548,6 +52166,8 @@ declare module 'virtual:icons/lucide/school-2' {
 
 declare module '~icons/lucide/school-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjEiLz48cGF0aCBkPSJNMjIgMjBWOGgtNGwtNi00bC02IDRIMnYxMmEyIDIgMCAwIDAgMiAyaDE2YTIgMiAwIDAgMCAyLTJNNiAxN3YuMDFNNiAxM3YuMDFNMTggMTd2LjAxTTE4IDEzdi4wMSIvPjxwYXRoIGQ9Ik0xNCAyMnYtNWEyIDIgMCAwIDAtMi0yYTIgMiAwIDAgMC0yIDJ2NSIvPjwvZz48L3N2Zz4=)
+   * 
    * `school-2` from Lucide pack.
    * Alias of `university`.
    *
@@ -51559,6 +52179,8 @@ declare module '~icons/lucide/school-2' {
 
 declare module 'virtual:icons/lucide/scissors-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgeD0iMiIgeT0iMiIgcng9IjIiLz48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iMiIvPjxwYXRoIGQ9Ik05LjQxNCA5LjQxNEwxMiAxMm0yLjggMi44TDE4IDE4Ii8+PGNpcmNsZSBjeD0iOCIgY3k9IjE2IiByPSIyIi8+PHBhdGggZD0ibTE4IDZsLTguNTg2IDguNTg2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `scissors-square` from Lucide pack.
    * Alias of `square-scissors`.
    *
@@ -51571,6 +52193,8 @@ declare module 'virtual:icons/lucide/scissors-square' {
 
 declare module '~icons/lucide/scissors-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgeD0iMiIgeT0iMiIgcng9IjIiLz48Y2lyY2xlIGN4PSI4IiBjeT0iOCIgcj0iMiIvPjxwYXRoIGQ9Ik05LjQxNCA5LjQxNEwxMiAxMm0yLjggMi44TDE4IDE4Ii8+PGNpcmNsZSBjeD0iOCIgY3k9IjE2IiByPSIyIi8+PHBhdGggZD0ibTE4IDZsLTguNTg2IDguNTg2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `scissors-square` from Lucide pack.
    * Alias of `square-scissors`.
    *
@@ -51582,6 +52206,8 @@ declare module '~icons/lucide/scissors-square' {
 
 declare module 'virtual:icons/lucide/scissors-square-dashed-bottom' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik00IDIyYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ2MTZhMiAyIDAgMCAxLTIgMm0tMTAgMEg4bTggMGgtMiIvPjxjaXJjbGUgY3g9IjgiIGN5PSI4IiByPSIyIi8+PHBhdGggZD0iTTkuNDE0IDkuNDE0TDEyIDEybTIuOCAyLjhMMTggMTgiLz48Y2lyY2xlIGN4PSI4IiBjeT0iMTYiIHI9IjIiLz48cGF0aCBkPSJtMTggNmwtOC41ODYgOC41ODYiLz48L2c+PC9zdmc+)
+   * 
    * `scissors-square-dashed-bottom` from Lucide pack.
    * Alias of `square-bottom-dashed-scissors`.
    *
@@ -51594,6 +52220,8 @@ declare module 'virtual:icons/lucide/scissors-square-dashed-bottom' {
 
 declare module '~icons/lucide/scissors-square-dashed-bottom' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik00IDIyYTIgMiAwIDAgMS0yLTJWNGEyIDIgMCAwIDEgMi0yaDE2YTIgMiAwIDAgMSAyIDJ2MTZhMiAyIDAgMCAxLTIgMm0tMTAgMEg4bTggMGgtMiIvPjxjaXJjbGUgY3g9IjgiIGN5PSI4IiByPSIyIi8+PHBhdGggZD0iTTkuNDE0IDkuNDE0TDEyIDEybTIuOCAyLjhMMTggMTgiLz48Y2lyY2xlIGN4PSI4IiBjeT0iMTYiIHI9IjIiLz48cGF0aCBkPSJtMTggNmwtOC41ODYgOC41ODYiLz48L2c+PC9zdmc+)
+   * 
    * `scissors-square-dashed-bottom` from Lucide pack.
    * Alias of `square-bottom-dashed-scissors`.
    *
@@ -51605,6 +52233,8 @@ declare module '~icons/lucide/scissors-square-dashed-bottom' {
 
 declare module 'virtual:icons/lucide/send-horizonal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0zLjcxNCAzLjA0OGEuNDk4LjQ5OCAwIDAgMC0uNjgzLjYyN2wyLjg0MyA3LjYyN2EyIDIgMCAwIDEgMCAxLjM5NmwtMi44NDIgNy42MjdhLjQ5OC40OTggMCAwIDAgLjY4Mi42MjdsMTgtOC41YS41LjUgMCAwIDAgMC0uOTA0ek02IDEyaDE2Ii8+PC9zdmc+)
+   * 
    * `send-horizonal` from Lucide pack.
    * Alias of `send-horizontal`.
    *
@@ -51617,6 +52247,8 @@ declare module 'virtual:icons/lucide/send-horizonal' {
 
 declare module '~icons/lucide/send-horizonal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0zLjcxNCAzLjA0OGEuNDk4LjQ5OCAwIDAgMC0uNjgzLjYyN2wyLjg0MyA3LjYyN2EyIDIgMCAwIDEgMCAxLjM5NmwtMi44NDIgNy42MjdhLjQ5OC40OTggMCAwIDAgLjY4Mi42MjdsMTgtOC41YS41LjUgMCAwIDAgMC0uOTA0ek02IDEyaDE2Ii8+PC9zdmc+)
+   * 
    * `send-horizonal` from Lucide pack.
    * Alias of `send-horizontal`.
    *
@@ -51628,6 +52260,8 @@ declare module '~icons/lucide/send-horizonal' {
 
 declare module 'virtual:icons/lucide/shield-close' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMCAxM2MwIDUtMy41IDcuNS03LjY2IDguOTVhMSAxIDAgMCAxLS42Ny0uMDFDNy41IDIwLjUgNCAxOCA0IDEzVjZhMSAxIDAgMCAxIDEtMWMyIDAgNC41LTEuMiA2LjI0LTIuNzJhMS4xNyAxLjE3IDAgMCAxIDEuNTIgMEMxNC41MSAzLjgxIDE3IDUgMTkgNWExIDEgMCAwIDEgMSAxem0tNS41LTMuNWwtNSA1bTAtNWw1IDUiLz48L3N2Zz4=)
+   * 
    * `shield-close` from Lucide pack.
    * Alias of `shield-x`.
    *
@@ -51640,6 +52274,8 @@ declare module 'virtual:icons/lucide/shield-close' {
 
 declare module '~icons/lucide/shield-close' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMCAxM2MwIDUtMy41IDcuNS03LjY2IDguOTVhMSAxIDAgMCAxLS42Ny0uMDFDNy41IDIwLjUgNCAxOCA0IDEzVjZhMSAxIDAgMCAxIDEtMWMyIDAgNC41LTEuMiA2LjI0LTIuNzJhMS4xNyAxLjE3IDAgMCAxIDEuNTIgMEMxNC41MSAzLjgxIDE3IDUgMTkgNWExIDEgMCAwIDEgMSAxem0tNS41LTMuNWwtNSA1bTAtNWw1IDUiLz48L3N2Zz4=)
+   * 
    * `shield-close` from Lucide pack.
    * Alias of `shield-x`.
    *
@@ -51651,6 +52287,8 @@ declare module '~icons/lucide/shield-close' {
 
 declare module 'virtual:icons/lucide/sidebar' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `sidebar` from Lucide pack.
    * Alias of `panel-left`.
    *
@@ -51663,6 +52301,8 @@ declare module 'virtual:icons/lucide/sidebar' {
 
 declare module '~icons/lucide/sidebar' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `sidebar` from Lucide pack.
    * Alias of `panel-left`.
    *
@@ -51674,6 +52314,8 @@ declare module '~icons/lucide/sidebar' {
 
 declare module 'virtual:icons/lucide/sidebar-close' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTctNmwtMy0zbDMtMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `sidebar-close` from Lucide pack.
    * Alias of `panel-left-close`.
    *
@@ -51686,6 +52328,8 @@ declare module 'virtual:icons/lucide/sidebar-close' {
 
 declare module '~icons/lucide/sidebar-close' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTctNmwtMy0zbDMtMyIvPjwvZz48L3N2Zz4=)
+   * 
    * `sidebar-close` from Lucide pack.
    * Alias of `panel-left-close`.
    *
@@ -51697,6 +52341,8 @@ declare module '~icons/lucide/sidebar-close' {
 
 declare module 'virtual:icons/lucide/sidebar-open' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTUtMTJsMyAzbC0zIDMiLz48L2c+PC9zdmc+)
+   * 
    * `sidebar-open` from Lucide pack.
    * Alias of `panel-left-open`.
    *
@@ -51709,6 +52355,8 @@ declare module 'virtual:icons/lucide/sidebar-open' {
 
 declare module '~icons/lucide/sidebar-open' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSAzdjE4bTUtMTJsMyAzbC0zIDMiLz48L2c+PC9zdmc+)
+   * 
    * `sidebar-open` from Lucide pack.
    * Alias of `panel-left-open`.
    *
@@ -51720,6 +52368,8 @@ declare module '~icons/lucide/sidebar-open' {
 
 declare module 'virtual:icons/lucide/sigma-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTYgOC45VjdIOGw0IDVsLTQgNWg4di0xLjkiLz48L2c+PC9zdmc+)
+   * 
    * `sigma-square` from Lucide pack.
    * Alias of `square-sigma`.
    *
@@ -51732,6 +52382,8 @@ declare module 'virtual:icons/lucide/sigma-square' {
 
 declare module '~icons/lucide/sigma-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNMTYgOC45VjdIOGw0IDVsLTQgNWg4di0xLjkiLz48L2c+PC9zdmc+)
+   * 
    * `sigma-square` from Lucide pack.
    * Alias of `square-sigma`.
    *
@@ -51743,6 +52395,8 @@ declare module '~icons/lucide/sigma-square' {
 
 declare module 'virtual:icons/lucide/slash-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSAxNWw2LTYiLz48L2c+PC9zdmc+)
+   * 
    * `slash-square` from Lucide pack.
    * Alias of `square-slash`.
    *
@@ -51755,6 +52409,8 @@ declare module 'virtual:icons/lucide/slash-square' {
 
 declare module '~icons/lucide/slash-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJtOSAxNWw2LTYiLz48L2c+PC9zdmc+)
+   * 
    * `slash-square` from Lucide pack.
    * Alias of `square-slash`.
    *
@@ -51766,6 +52422,8 @@ declare module '~icons/lucide/slash-square' {
 
 declare module 'virtual:icons/lucide/sliders' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik00IDIxdi03bTAtNFYzbTggMTh2LTltMC00VjNtOCAxOHYtNW0wLTRWM00yIDE0aDRtNC02aDRtNCA4aDQiLz48L3N2Zz4=)
+   * 
    * `sliders` from Lucide pack.
    * Alias of `sliders-vertical`.
    *
@@ -51778,6 +52436,8 @@ declare module 'virtual:icons/lucide/sliders' {
 
 declare module '~icons/lucide/sliders' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik00IDIxdi03bTAtNFYzbTggMTh2LTltMC00VjNtOCAxOHYtNW0wLTRWM00yIDE0aDRtNC02aDRtNCA4aDQiLz48L3N2Zz4=)
+   * 
    * `sliders` from Lucide pack.
    * Alias of `sliders-vertical`.
    *
@@ -51789,6 +52449,8 @@ declare module '~icons/lucide/sliders' {
 
 declare module 'virtual:icons/lucide/sort-asc' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtNC04aDRtLTQgNGg3bS03IDRoMTAiLz48L3N2Zz4=)
+   * 
    * `sort-asc` from Lucide pack.
    * Alias of `arrow-up-narrow-wide`.
    *
@@ -51801,6 +52463,8 @@ declare module 'virtual:icons/lucide/sort-asc' {
 
 declare module '~icons/lucide/sort-asc' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDhsNC00bDQgNE03IDR2MTZtNC04aDRtLTQgNGg3bS03IDRoMTAiLz48L3N2Zz4=)
+   * 
    * `sort-asc` from Lucide pack.
    * Alias of `arrow-up-narrow-wide`.
    *
@@ -51812,6 +52476,8 @@ declare module '~icons/lucide/sort-asc' {
 
 declare module 'virtual:icons/lucide/sort-desc' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTQgMGgxME0xMSA4aDdtLTcgNGg0Ii8+PC9zdmc+)
+   * 
    * `sort-desc` from Lucide pack.
    * Alias of `arrow-down-wide-narrow`.
    *
@@ -51824,6 +52490,8 @@ declare module 'virtual:icons/lucide/sort-desc' {
 
 declare module '~icons/lucide/sort-desc' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0zIDE2bDQgNGw0LTRtLTQgNFY0bTQgMGgxME0xMSA4aDdtLTcgNGg0Ii8+PC9zdmc+)
+   * 
    * `sort-desc` from Lucide pack.
    * Alias of `arrow-down-wide-narrow`.
    *
@@ -51835,6 +52503,8 @@ declare module '~icons/lucide/sort-desc' {
 
 declare module 'virtual:icons/lucide/split-square-horizontal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE5SDVjLTEgMC0yLTEtMi0yVjdjMC0xIDEtMiAyLTJoM204IDBoM2MxIDAgMiAxIDIgMnYxMGMwIDEtMSAyLTIgMmgtM00xMiA0djE2Ii8+PC9zdmc+)
+   * 
    * `split-square-horizontal` from Lucide pack.
    * Alias of `square-split-horizontal`.
    *
@@ -51847,6 +52517,8 @@ declare module 'virtual:icons/lucide/split-square-horizontal' {
 
 declare module '~icons/lucide/split-square-horizontal' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDE5SDVjLTEgMC0yLTEtMi0yVjdjMC0xIDEtMiAyLTJoM204IDBoM2MxIDAgMiAxIDIgMnYxMGMwIDEtMSAyLTIgMmgtM00xMiA0djE2Ii8+PC9zdmc+)
+   * 
    * `split-square-horizontal` from Lucide pack.
    * Alias of `square-split-horizontal`.
    *
@@ -51858,6 +52530,8 @@ declare module '~icons/lucide/split-square-horizontal' {
 
 declare module 'virtual:icons/lucide/split-square-vertical' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDhWNWMwLTEgMS0yIDItMmgxMGMxIDAgMiAxIDIgMnYzbTAgOHYzYzAgMS0xIDItMiAySDdjLTEgMC0yLTEtMi0ydi0zbS0xLTRoMTYiLz48L3N2Zz4=)
+   * 
    * `split-square-vertical` from Lucide pack.
    * Alias of `square-split-vertical`.
    *
@@ -51870,6 +52544,8 @@ declare module 'virtual:icons/lucide/split-square-vertical' {
 
 declare module '~icons/lucide/split-square-vertical' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDhWNWMwLTEgMS0yIDItMmgxMGMxIDAgMiAxIDIgMnYzbTAgOHYzYzAgMS0xIDItMiAySDdjLTEgMC0yLTEtMi0ydi0zbS0xLTRoMTYiLz48L3N2Zz4=)
+   * 
    * `split-square-vertical` from Lucide pack.
    * Alias of `square-split-vertical`.
    *
@@ -51881,6 +52557,8 @@ declare module '~icons/lucide/split-square-vertical' {
 
 declare module 'virtual:icons/lucide/square-gantt' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `square-gantt` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -51893,6 +52571,8 @@ declare module 'virtual:icons/lucide/square-gantt' {
 
 declare module '~icons/lucide/square-gantt' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `square-gantt` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -51904,6 +52584,8 @@ declare module '~icons/lucide/square-gantt' {
 
 declare module 'virtual:icons/lucide/square-gantt-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `square-gantt-chart` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -51916,6 +52598,8 @@ declare module 'virtual:icons/lucide/square-gantt-chart' {
 
 declare module '~icons/lucide/square-gantt-chart' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNOSA4aDdtLTggNGg2bS0zIDRoNSIvPjwvZz48L3N2Zz4=)
+   * 
    * `square-gantt-chart` from Lucide pack.
    * Alias of `square-chart-gantt`.
    *
@@ -51927,6 +52611,8 @@ declare module '~icons/lucide/square-gantt-chart' {
 
 declare module 'virtual:icons/lucide/square-kanban-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDd2N200LTd2NG00LTR2OU01IDNhMiAyIDAgMCAwLTIgMm02LTJoMW00IDBoMW00IDBhMiAyIDAgMCAxIDIgMm0wIDR2MW0wIDR2MW0wIDRhMiAyIDAgMCAxLTIgMm0tNSAwaDFtLTYgMGgxbS01IDBhMiAyIDAgMCAxLTItMm0wLTV2MW0wLTZ2MSIvPjwvc3ZnPg==)
+   * 
    * `square-kanban-dashed` from Lucide pack.
    * Alias of `square-dashed-kanban`.
    *
@@ -51939,6 +52625,8 @@ declare module 'virtual:icons/lucide/square-kanban-dashed' {
 
 declare module '~icons/lucide/square-kanban-dashed' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik04IDd2N200LTd2NG00LTR2OU01IDNhMiAyIDAgMCAwLTIgMm02LTJoMW00IDBoMW00IDBhMiAyIDAgMCAxIDIgMm0wIDR2MW0wIDR2MW0wIDRhMiAyIDAgMCAxLTIgMm0tNSAwaDFtLTYgMGgxbS01IDBhMiAyIDAgMCAxLTItMm0wLTV2MW0wLTZ2MSIvPjwvc3ZnPg==)
+   * 
    * `square-kanban-dashed` from Lucide pack.
    * Alias of `square-dashed-kanban`.
    *
@@ -51950,6 +52638,8 @@ declare module '~icons/lucide/square-kanban-dashed' {
 
 declare module 'virtual:icons/lucide/stars' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik05LjkzNyAxNS41QTIgMiAwIDAgMCA4LjUgMTQuMDYzbC02LjEzNS0xLjU4MmEuNS41IDAgMCAxIDAtLjk2Mkw4LjUgOS45MzZBMiAyIDAgMCAwIDkuOTM3IDguNWwxLjU4Mi02LjEzNWEuNS41IDAgMCAxIC45NjMgMEwxNC4wNjMgOC41QTIgMiAwIDAgMCAxNS41IDkuOTM3bDYuMTM1IDEuNTgxYS41LjUgMCAwIDEgMCAuOTY0TDE1LjUgMTQuMDYzYTIgMiAwIDAgMC0xLjQzNyAxLjQzN2wtMS41ODIgNi4xMzVhLjUuNSAwIDAgMS0uOTYzIDB6TTIwIDN2NG0yLTJoLTRNNCAxN3YybTEtMUgzIi8+PC9zdmc+)
+   * 
    * `stars` from Lucide pack.
    * Alias of `sparkles`.
    *
@@ -51962,6 +52652,8 @@ declare module 'virtual:icons/lucide/stars' {
 
 declare module '~icons/lucide/stars' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik05LjkzNyAxNS41QTIgMiAwIDAgMCA4LjUgMTQuMDYzbC02LjEzNS0xLjU4MmEuNS41IDAgMCAxIDAtLjk2Mkw4LjUgOS45MzZBMiAyIDAgMCAwIDkuOTM3IDguNWwxLjU4Mi02LjEzNWEuNS41IDAgMCAxIC45NjMgMEwxNC4wNjMgOC41QTIgMiAwIDAgMCAxNS41IDkuOTM3bDYuMTM1IDEuNTgxYS41LjUgMCAwIDEgMCAuOTY0TDE1LjUgMTQuMDYzYTIgMiAwIDAgMC0xLjQzNyAxLjQzN2wtMS41ODIgNi4xMzVhLjUuNSAwIDAgMS0uOTYzIDB6TTIwIDN2NG0yLTJoLTRNNCAxN3YybTEtMUgzIi8+PC9zdmc+)
+   * 
    * `stars` from Lucide pack.
    * Alias of `sparkles`.
    *
@@ -51973,6 +52665,8 @@ declare module '~icons/lucide/stars' {
 
 declare module 'virtual:icons/lucide/stop-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHJlY3Qgd2lkdGg9IjYiIGhlaWdodD0iNiIgeD0iOSIgeT0iOSIgcng9IjEiLz48L2c+PC9zdmc+)
+   * 
    * `stop-circle` from Lucide pack.
    * Alias of `circle-stop`.
    *
@@ -51985,6 +52679,8 @@ declare module 'virtual:icons/lucide/stop-circle' {
 
 declare module '~icons/lucide/stop-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHJlY3Qgd2lkdGg9IjYiIGhlaWdodD0iNiIgeD0iOSIgeT0iOSIgcng9IjEiLz48L2c+PC9zdmc+)
+   * 
    * `stop-circle` from Lucide pack.
    * Alias of `circle-stop`.
    *
@@ -51996,6 +52692,8 @@ declare module '~icons/lucide/stop-circle' {
 
 declare module 'virtual:icons/lucide/subtitles' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgeD0iMyIgeT0iNSIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTcgMTVoNG00IDBoMk03IDExaDJtNCAwaDQiLz48L2c+PC9zdmc+)
+   * 
    * `subtitles` from Lucide pack.
    * Alias of `captions`.
    *
@@ -52008,6 +52706,8 @@ declare module 'virtual:icons/lucide/subtitles' {
 
 declare module '~icons/lucide/subtitles' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxNCIgeD0iMyIgeT0iNSIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0iTTcgMTVoNG00IDBoMk03IDExaDJtNCAwaDQiLz48L2c+PC9zdmc+)
+   * 
    * `subtitles` from Lucide pack.
    * Alias of `captions`.
    *
@@ -52019,6 +52719,8 @@ declare module '~icons/lucide/subtitles' {
 
 declare module 'virtual:icons/lucide/terminal-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im03IDExbDItMmwtMi0ybTQgNmg0Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iMiIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `terminal-square` from Lucide pack.
    * Alias of `square-terminal`.
    *
@@ -52031,6 +52733,8 @@ declare module 'virtual:icons/lucide/terminal-square' {
 
 declare module '~icons/lucide/terminal-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Im03IDExbDItMmwtMi0ybTQgNmg0Ii8+PHJlY3Qgd2lkdGg9IjE4IiBoZWlnaHQ9IjE4IiB4PSIzIiB5PSIzIiByeD0iMiIgcnk9IjIiLz48L2c+PC9zdmc+)
+   * 
    * `terminal-square` from Lucide pack.
    * Alias of `square-terminal`.
    *
@@ -52042,6 +52746,8 @@ declare module '~icons/lucide/terminal-square' {
 
 declare module 'virtual:icons/lucide/test-tube-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSA3TDYuODIgMjEuMThhMi44MyAyLjgzIDAgMCAxLTMuOTktLjAxYTIuODMgMi44MyAwIDAgMSAwLTRMMTcgM20tMS0xbDYgNm0tMTAgOEg0Ii8+PC9zdmc+)
+   * 
    * `test-tube-2` from Lucide pack.
    * Alias of `test-tube-diagonal`.
    *
@@ -52054,6 +52760,8 @@ declare module 'virtual:icons/lucide/test-tube-2' {
 
 declare module '~icons/lucide/test-tube-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0yMSA3TDYuODIgMjEuMThhMi44MyAyLjgzIDAgMCAxLTMuOTktLjAxYTIuODMgMi44MyAwIDAgMSAwLTRMMTcgM20tMS0xbDYgNm0tMTAgOEg0Ii8+PC9zdmc+)
+   * 
    * `test-tube-2` from Lucide pack.
    * Alias of `test-tube-diagonal`.
    *
@@ -52065,6 +52773,8 @@ declare module '~icons/lucide/test-tube-2' {
 
 declare module 'virtual:icons/lucide/text-selection' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJtMCAxNGEyIDIgMCAwIDEtMiAyTTUgMjFhMiAyIDAgMCAxLTItMk05IDNoMU05IDIxaDFtNC0xOGgxbS0xIDE4aDFNMyA5djFtMTgtMXYxTTMgMTR2MW0xOC0xdjFNNyA4aDhtLTggNGgxME03IDE2aDYiLz48L3N2Zz4=)
+   * 
    * `text-selection` from Lucide pack.
    * Alias of `text-select`.
    *
@@ -52077,6 +52787,8 @@ declare module 'virtual:icons/lucide/text-selection' {
 
 declare module '~icons/lucide/text-selection' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik01IDNhMiAyIDAgMCAwLTIgMm0xNi0yYTIgMiAwIDAgMSAyIDJtMCAxNGEyIDIgMCAwIDEtMiAyTTUgMjFhMiAyIDAgMCAxLTItMk05IDNoMU05IDIxaDFtNC0xOGgxbS0xIDE4aDFNMyA5djFtMTgtMXYxTTMgMTR2MW0xOC0xdjFNNyA4aDhtLTggNGgxME03IDE2aDYiLz48L3N2Zz4=)
+   * 
    * `text-selection` from Lucide pack.
    * Alias of `text-select`.
    *
@@ -52088,6 +52800,8 @@ declare module '~icons/lucide/text-selection' {
 
 declare module 'virtual:icons/lucide/train' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgeD0iNCIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNCAxMWgxNm0tOC04djhtLTQgOGwtMiAzbTEyIDBsLTItM20tOC00aC4wMU0xNiAxNWguMDEiLz48L2c+PC9zdmc+)
+   * 
    * `train` from Lucide pack.
    * Alias of `tram-front`.
    *
@@ -52100,6 +52814,8 @@ declare module 'virtual:icons/lucide/train' {
 
 declare module '~icons/lucide/train' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxNiIgaGVpZ2h0PSIxNiIgeD0iNCIgeT0iMyIgcng9IjIiLz48cGF0aCBkPSJNNCAxMWgxNm0tOC04djhtLTQgOGwtMiAzbTEyIDBsLTItM20tOC00aC4wMU0xNiAxNWguMDEiLz48L2c+PC9zdmc+)
+   * 
    * `train` from Lucide pack.
    * Alias of `tram-front`.
    *
@@ -52111,6 +52827,8 @@ declare module '~icons/lucide/train' {
 
 declare module 'virtual:icons/lucide/tv-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik03IDIxaDEwIi8+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiB4PSIyIiB5PSIzIiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `tv-2` from Lucide pack.
    * Alias of `tv-minimal`.
    *
@@ -52123,6 +52841,8 @@ declare module 'virtual:icons/lucide/tv-2' {
 
 declare module '~icons/lucide/tv-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik03IDIxaDEwIi8+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE0IiB4PSIyIiB5PSIzIiByeD0iMiIvPjwvZz48L3N2Zz4=)
+   * 
    * `tv-2` from Lucide pack.
    * Alias of `tv-minimal`.
    *
@@ -52134,6 +52854,8 @@ declare module '~icons/lucide/tv-2' {
 
 declare module 'virtual:icons/lucide/unlock' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIvPjxwYXRoIGQ9Ik03IDExVjdhNSA1IDAgMCAxIDkuOS0xIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `unlock` from Lucide pack.
    * Alias of `lock-open`.
    *
@@ -52146,6 +52868,8 @@ declare module 'virtual:icons/lucide/unlock' {
 
 declare module '~icons/lucide/unlock' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxMSIgeD0iMyIgeT0iMTEiIHJ4PSIyIiByeT0iMiIvPjxwYXRoIGQ9Ik03IDExVjdhNSA1IDAgMCAxIDkuOS0xIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `unlock` from Lucide pack.
    * Alias of `lock-open`.
    *
@@ -52157,6 +52881,8 @@ declare module '~icons/lucide/unlock' {
 
 declare module 'virtual:icons/lucide/unlock-keyhole' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTYiIHI9IjEiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTIiIHg9IjMiIHk9IjEwIiByeD0iMiIvPjxwYXRoIGQ9Ik03IDEwVjdhNSA1IDAgMCAxIDkuMzMtMi41Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `unlock-keyhole` from Lucide pack.
    * Alias of `lock-keyhole-open`.
    *
@@ -52169,6 +52895,8 @@ declare module 'virtual:icons/lucide/unlock-keyhole' {
 
 declare module '~icons/lucide/unlock-keyhole' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTYiIHI9IjEiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTIiIHg9IjMiIHk9IjEwIiByeD0iMiIvPjxwYXRoIGQ9Ik03IDEwVjdhNSA1IDAgMCAxIDkuMzMtMi41Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `unlock-keyhole` from Lucide pack.
    * Alias of `lock-keyhole-open`.
    *
@@ -52180,6 +52908,8 @@ declare module '~icons/lucide/unlock-keyhole' {
 
 declare module 'virtual:icons/lucide/upload-cloud' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxM3Y4bS04LTYuMTAxQTcgNyAwIDEgMSAxNS43MSA4aDEuNzlhNC41IDQuNSAwIDAgMSAyLjUgOC4yNDIiLz48cGF0aCBkPSJtOCAxN2w0LTRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `upload-cloud` from Lucide pack.
    * Alias of `cloud-upload`.
    *
@@ -52192,6 +52922,8 @@ declare module 'virtual:icons/lucide/upload-cloud' {
 
 declare module '~icons/lucide/upload-cloud' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xMiAxM3Y4bS04LTYuMTAxQTcgNyAwIDEgMSAxNS43MSA4aDEuNzlhNC41IDQuNSAwIDAgMSAyLjUgOC4yNDIiLz48cGF0aCBkPSJtOCAxN2w0LTRsNCA0Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `upload-cloud` from Lucide pack.
    * Alias of `cloud-upload`.
    *
@@ -52203,6 +52935,8 @@ declare module '~icons/lucide/upload-cloud' {
 
 declare module 'virtual:icons/lucide/user-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMCAyMWE4IDggMCAwIDAtMTYgMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-2` from Lucide pack.
    * Alias of `user-round`.
    *
@@ -52215,6 +52949,8 @@ declare module 'virtual:icons/lucide/user-2' {
 
 declare module '~icons/lucide/user-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMCAyMWE4IDggMCAwIDAtMTYgMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-2` from Lucide pack.
    * Alias of `user-round`.
    *
@@ -52226,6 +52962,8 @@ declare module '~icons/lucide/user-2' {
 
 declare module 'virtual:icons/lucide/user-check-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Im0xNiAxOWwyIDJsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `user-check-2` from Lucide pack.
    * Alias of `user-round-check`.
    *
@@ -52238,6 +52976,8 @@ declare module 'virtual:icons/lucide/user-check-2' {
 
 declare module '~icons/lucide/user-check-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Im0xNiAxOWwyIDJsNC00Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `user-check-2` from Lucide pack.
    * Alias of `user-round-check`.
    *
@@ -52249,6 +52989,8 @@ declare module '~icons/lucide/user-check-2' {
 
 declare module 'virtual:icons/lucide/user-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMCIgcj0iMyIvPjxwYXRoIGQ9Ik03IDIwLjY2MlYxOWEyIDIgMCAwIDEgMi0yaDZhMiAyIDAgMCAxIDIgMnYxLjY2MiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-circle` from Lucide pack.
    * Alias of `circle-user`.
    *
@@ -52261,6 +53003,8 @@ declare module 'virtual:icons/lucide/user-circle' {
 
 declare module '~icons/lucide/user-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PGNpcmNsZSBjeD0iMTIiIGN5PSIxMCIgcj0iMyIvPjxwYXRoIGQ9Ik03IDIwLjY2MlYxOWEyIDIgMCAwIDEgMi0yaDZhMiAyIDAgMCAxIDIgMnYxLjY2MiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-circle` from Lucide pack.
    * Alias of `circle-user`.
    *
@@ -52272,6 +53016,8 @@ declare module '~icons/lucide/user-circle' {
 
 declare module 'virtual:icons/lucide/user-circle-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMGE2IDYgMCAwIDAtMTIgMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjQiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-circle-2` from Lucide pack.
    * Alias of `circle-user-round`.
    *
@@ -52284,6 +53030,8 @@ declare module 'virtual:icons/lucide/user-circle-2' {
 
 declare module '~icons/lucide/user-circle-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMGE2IDYgMCAwIDAtMTIgMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTAiIHI9IjQiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEyIiByPSIxMCIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-circle-2` from Lucide pack.
    * Alias of `circle-user-round`.
    *
@@ -52295,6 +53043,8 @@ declare module '~icons/lucide/user-circle-2' {
 
 declare module 'virtual:icons/lucide/user-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMC40MzQtNy42MiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiLz48cGF0aCBkPSJtMTkuNSAxNC4zbC0uNC45bS0yLjIgNS42bC0uNC45bTUuMi0yLjJsLS45LS40bS01LjYtMi4ybC0uOS0uNG03LjQgMGwtLjkuNG0tNS42IDIuMmwtLjkuNG01LjIgMi4ybC0uNC0uOW0tMi4yLTUuNmwtLjQtLjkiLz48L2c+PC9zdmc+)
+   * 
    * `user-cog-2` from Lucide pack.
    * Alias of `user-round-cog`.
    *
@@ -52307,6 +53057,8 @@ declare module 'virtual:icons/lucide/user-cog-2' {
 
 declare module '~icons/lucide/user-cog-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMC40MzQtNy42MiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxjaXJjbGUgY3g9IjE4IiBjeT0iMTgiIHI9IjMiLz48cGF0aCBkPSJtMTkuNSAxNC4zbC0uNC45bS0yLjIgNS42bC0uNC45bTUuMi0yLjJsLS45LS40bS01LjYtMi4ybC0uOS0uNG03LjQgMGwtLjkuNG0tNS42IDIuMmwtLjkuNG01LjIgMi4ybC0uNC0uOW0tMi4yLTUuNmwtLjQtLjkiLz48L2c+PC9zdmc+)
+   * 
    * `user-cog-2` from Lucide pack.
    * Alias of `user-round-cog`.
    *
@@ -52318,6 +53070,8 @@ declare module '~icons/lucide/user-cog-2' {
 
 declare module 'virtual:icons/lucide/user-minus-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMiAxOWgtNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-minus-2` from Lucide pack.
    * Alias of `user-round-minus`.
    *
@@ -52330,6 +53084,8 @@ declare module 'virtual:icons/lucide/user-minus-2' {
 
 declare module '~icons/lucide/user-minus-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMiAxOWgtNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-minus-2` from Lucide pack.
    * Alias of `user-round-minus`.
    *
@@ -52341,6 +53097,8 @@ declare module '~icons/lucide/user-minus-2' {
 
 declare module 'virtual:icons/lucide/user-plus-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0xOSAxNnY2bTMtM2gtNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-plus-2` from Lucide pack.
    * Alias of `user-round-plus`.
    *
@@ -52353,6 +53111,8 @@ declare module 'virtual:icons/lucide/user-plus-2' {
 
 declare module '~icons/lucide/user-plus-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMy4yOTItNiIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0xOSAxNnY2bTMtM2gtNiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-plus-2` from Lucide pack.
    * Alias of `user-round-plus`.
    *
@@ -52364,6 +53124,8 @@ declare module '~icons/lucide/user-plus-2' {
 
 declare module 'virtual:icons/lucide/user-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIzIi8+PHBhdGggZD0iTTcgMjF2LTJhMiAyIDAgMCAxIDItMmg2YTIgMiAwIDAgMSAyIDJ2MiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-square` from Lucide pack.
    * Alias of `square-user`.
    *
@@ -52376,6 +53138,8 @@ declare module 'virtual:icons/lucide/user-square' {
 
 declare module '~icons/lucide/user-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiLz48Y2lyY2xlIGN4PSIxMiIgY3k9IjEwIiByPSIzIi8+PHBhdGggZD0iTTcgMjF2LTJhMiAyIDAgMCAxIDItMmg2YTIgMiAwIDAgMSAyIDJ2MiIvPjwvZz48L3N2Zz4=)
+   * 
    * `user-square` from Lucide pack.
    * Alias of `square-user`.
    *
@@ -52387,6 +53151,8 @@ declare module '~icons/lucide/user-square' {
 
 declare module 'virtual:icons/lucide/user-square-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMWE2IDYgMCAwIDAtMTIgMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTEiIHI9IjQiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `user-square-2` from Lucide pack.
    * Alias of `square-user-round`.
    *
@@ -52399,6 +53165,8 @@ declare module 'virtual:icons/lucide/user-square-2' {
 
 declare module '~icons/lucide/user-square-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMWE2IDYgMCAwIDAtMTIgMCIvPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTEiIHI9IjQiLz48cmVjdCB3aWR0aD0iMTgiIGhlaWdodD0iMTgiIHg9IjMiIHk9IjMiIHJ4PSIyIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `user-square-2` from Lucide pack.
    * Alias of `square-user-round`.
    *
@@ -52410,6 +53178,8 @@ declare module '~icons/lucide/user-square-2' {
 
 declare module 'virtual:icons/lucide/user-x-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMS44NzMtNyIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Im0xNyAxN2w1IDVtMC01bC01IDUiLz48L2c+PC9zdmc+)
+   * 
    * `user-x-2` from Lucide pack.
    * Alias of `user-round-x`.
    *
@@ -52422,6 +53192,8 @@ declare module 'virtual:icons/lucide/user-x-2' {
 
 declare module '~icons/lucide/user-x-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0yIDIxYTggOCAwIDAgMSAxMS44NzMtNyIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Im0xNyAxN2w1IDVtMC01bC01IDUiLz48L2c+PC9zdmc+)
+   * 
    * `user-x-2` from Lucide pack.
    * Alias of `user-round-x`.
    *
@@ -52433,6 +53205,8 @@ declare module '~icons/lucide/user-x-2' {
 
 declare module 'virtual:icons/lucide/users-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMWE4IDggMCAwIDAtMTYgMCIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMiAyMGMwLTMuMzctMi02LjUtNC04YTUgNSAwIDAgMC0uNDUtOC4zIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `users-2` from Lucide pack.
    * Alias of `users-round`.
    *
@@ -52445,6 +53219,8 @@ declare module 'virtual:icons/lucide/users-2' {
 
 declare module '~icons/lucide/users-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0xOCAyMWE4IDggMCAwIDAtMTYgMCIvPjxjaXJjbGUgY3g9IjEwIiBjeT0iOCIgcj0iNSIvPjxwYXRoIGQ9Ik0yMiAyMGMwLTMuMzctMi02LjUtNC04YTUgNSAwIDAgMC0uNDUtOC4zIi8+PC9nPjwvc3ZnPg==)
+   * 
    * `users-2` from Lucide pack.
    * Alias of `users-round`.
    *
@@ -52456,6 +53232,8 @@ declare module '~icons/lucide/users-2' {
 
 declare module 'virtual:icons/lucide/verified' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zLjg1IDguNjJhNCA0IDAgMCAxIDQuNzgtNC43N2E0IDQgMCAwIDEgNi43NCAwYTQgNCAwIDAgMSA0Ljc4IDQuNzhhNCA0IDAgMCAxIDAgNi43NGE0IDQgMCAwIDEtNC43NyA0Ljc4YTQgNCAwIDAgMS02Ljc1IDBhNCA0IDAgMCAxLTQuNzgtNC43N2E0IDQgMCAwIDEgMC02Ljc2Ii8+PHBhdGggZD0ibTkgMTJsMiAybDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `verified` from Lucide pack.
    * Alias of `badge-check`.
    *
@@ -52468,6 +53246,8 @@ declare module 'virtual:icons/lucide/verified' {
 
 declare module '~icons/lucide/verified' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxwYXRoIGQ9Ik0zLjg1IDguNjJhNCA0IDAgMCAxIDQuNzgtNC43N2E0IDQgMCAwIDEgNi43NCAwYTQgNCAwIDAgMSA0Ljc4IDQuNzhhNCA0IDAgMCAxIDAgNi43NGE0IDQgMCAwIDEtNC43NyA0Ljc4YTQgNCAwIDAgMS02Ljc1IDBhNCA0IDAgMCAxLTQuNzgtNC43N2E0IDQgMCAwIDEgMC02Ljc2Ii8+PHBhdGggZD0ibTkgMTJsMiAybDQtNCIvPjwvZz48L3N2Zz4=)
+   * 
    * `verified` from Lucide pack.
    * Alias of `badge-check`.
    *
@@ -52479,6 +53259,8 @@ declare module '~icons/lucide/verified' {
 
 declare module 'virtual:icons/lucide/wallet-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xNyAxNGguMDFNNyA3aDEyYTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0Ii8+PC9zdmc+)
+   * 
    * `wallet-2` from Lucide pack.
    * Alias of `wallet-minimal`.
    *
@@ -52491,6 +53273,8 @@ declare module 'virtual:icons/lucide/wallet-2' {
 
 declare module '~icons/lucide/wallet-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Ik0xNyAxNGguMDFNNyA3aDEyYTIgMiAwIDAgMSAyIDJ2MTBhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNWEyIDIgMCAwIDEgMi0yaDE0Ii8+PC9zdmc+)
+   * 
    * `wallet-2` from Lucide pack.
    * Alias of `wallet-minimal`.
    *
@@ -52502,6 +53286,8 @@ declare module '~icons/lucide/wallet-2' {
 
 declare module 'virtual:icons/lucide/wand-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0yMS42NCAzLjY0bC0xLjI4LTEuMjhhMS4yMSAxLjIxIDAgMCAwLTEuNzIgMEwyLjM2IDE4LjY0YTEuMjEgMS4yMSAwIDAgMCAwIDEuNzJsMS4yOCAxLjI4YTEuMiAxLjIgMCAwIDAgMS43MiAwTDIxLjY0IDUuMzZhMS4yIDEuMiAwIDAgMCAwLTEuNzJNMTQgN2wzIDNNNSA2djRtMTQgNHY0TTEwIDJ2Mk03IDhIM20xOCA4aC00TTExIDNIOSIvPjwvc3ZnPg==)
+   * 
    * `wand-2` from Lucide pack.
    * Alias of `wand-sparkles`.
    *
@@ -52514,6 +53300,8 @@ declare module 'virtual:icons/lucide/wand-2' {
 
 declare module '~icons/lucide/wand-2' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0yMS42NCAzLjY0bC0xLjI4LTEuMjhhMS4yMSAxLjIxIDAgMCAwLTEuNzIgMEwyLjM2IDE4LjY0YTEuMjEgMS4yMSAwIDAgMCAwIDEuNzJsMS4yOCAxLjI4YTEuMiAxLjIgMCAwIDAgMS43MiAwTDIxLjY0IDUuMzZhMS4yIDEuMiAwIDAgMCAwLTEuNzJNMTQgN2wzIDNNNSA2djRtMTQgNHY0TTEwIDJ2Mk03IDhIM20xOCA4aC00TTExIDNIOSIvPjwvc3ZnPg==)
+   * 
    * `wand-2` from Lucide pack.
    * Alias of `wand-sparkles`.
    *
@@ -52525,6 +53313,8 @@ declare module '~icons/lucide/wand-2' {
 
 declare module 'virtual:icons/lucide/x-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZsNiA2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `x-circle` from Lucide pack.
    * Alias of `circle-x`.
    *
@@ -52537,6 +53327,8 @@ declare module 'virtual:icons/lucide/x-circle' {
 
 declare module '~icons/lucide/x-circle' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxjaXJjbGUgY3g9IjEyIiBjeT0iMTIiIHI9IjEwIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZsNiA2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `x-circle` from Lucide pack.
    * Alias of `circle-x`.
    *
@@ -52548,6 +53340,8 @@ declare module '~icons/lucide/x-circle' {
 
 declare module 'virtual:icons/lucide/x-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xNSA5bC02IDZtLTYuNDE0IDEuNzI2QTIgMiAwIDAgMSAyIDE1LjMxMlY4LjY4OGEyIDIgMCAwIDEgLjU4Ni0xLjQxNGw0LjY4OC00LjY4OEEyIDIgMCAwIDEgOC42ODggMmg2LjYyNGEyIDIgMCAwIDEgMS40MTQuNTg2bDQuNjg4IDQuNjg4QTIgMiAwIDAgMSAyMiA4LjY4OHY2LjYyNGEyIDIgMCAwIDEtLjU4NiAxLjQxNGwtNC42ODggNC42ODhhMiAyIDAgMCAxLTEuNDE0LjU4Nkg4LjY4OGEyIDIgMCAwIDEtMS40MTQtLjU4NnpNOSA5bDYgNiIvPjwvc3ZnPg==)
+   * 
    * `x-octagon` from Lucide pack.
    * Alias of `octagon-x`.
    *
@@ -52560,6 +53354,8 @@ declare module 'virtual:icons/lucide/x-octagon' {
 
 declare module '~icons/lucide/x-octagon' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48cGF0aCBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiIGQ9Im0xNSA5bC02IDZtLTYuNDE0IDEuNzI2QTIgMiAwIDAgMSAyIDE1LjMxMlY4LjY4OGEyIDIgMCAwIDEgLjU4Ni0xLjQxNGw0LjY4OC00LjY4OEEyIDIgMCAwIDEgOC42ODggMmg2LjYyNGEyIDIgMCAwIDEgMS40MTQuNTg2bDQuNjg4IDQuNjg4QTIgMiAwIDAgMSAyMiA4LjY4OHY2LjYyNGEyIDIgMCAwIDEtLjU4NiAxLjQxNGwtNC42ODggNC42ODhhMiAyIDAgMCAxLTEuNDE0LjU4Nkg4LjY4OGEyIDIgMCAwIDEtMS40MTQtLjU4NnpNOSA5bDYgNiIvPjwvc3ZnPg==)
+   * 
    * `x-octagon` from Lucide pack.
    * Alias of `octagon-x`.
    *
@@ -52571,6 +53367,8 @@ declare module '~icons/lucide/x-octagon' {
 
 declare module 'virtual:icons/lucide/x-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZsNiA2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `x-square` from Lucide pack.
    * Alias of `square-x`.
    *
@@ -52583,6 +53381,8 @@ declare module 'virtual:icons/lucide/x-square' {
 
 declare module '~icons/lucide/x-square' {
   /**
+   * ![preview](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cmVjdCB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIiBmaWxsPSJ3aGl0ZSIgLz48ZyBmaWxsPSJub25lIiBzdHJva2U9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBzdHJva2Utd2lkdGg9IjIiPjxyZWN0IHdpZHRoPSIxOCIgaGVpZ2h0PSIxOCIgeD0iMyIgeT0iMyIgcng9IjIiIHJ5PSIyIi8+PHBhdGggZD0ibTE1IDlsLTYgNm0wLTZsNiA2Ii8+PC9nPjwvc3ZnPg==)
+   * 
    * `x-square` from Lucide pack.
    * Alias of `square-x`.
    *

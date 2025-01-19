@@ -1,1 +1,1 @@
-import Activity from '~icons/feather/activity';
+import AlarmMinus from '~icons/lucide/alarm-minus'

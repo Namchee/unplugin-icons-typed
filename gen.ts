@@ -86,9 +86,11 @@ declare module '~icons/${info.prefix}/${icon}' {
 };
 `;
 
-const generateAliasTypeDeclaration = (icon: string, alias: string, info: IconifyInfo) => `
+const generateAliasTypeDeclaration = (icon: string, alias: string, info: IconifyInfo, preview?: string) => `
 declare module 'virtual:icons/${info.prefix}/${icon}' {
   /**
+   * ![preview](data:image/svg+xml;base64,${preview})
+   * 
    * \`${icon}\` from ${info.name} pack.
    * Alias of \`${alias}\`.
    *
@@ -101,10 +103,13 @@ declare module 'virtual:icons/${info.prefix}/${icon}' {
 
 declare module '~icons/${info.prefix}/${icon}' {
   /**
+   * ![preview](data:image/svg+xml;base64,${preview})
+   * 
    * \`${icon}\` from ${info.name} pack.
    * Alias of \`${alias}\`.
    *
    * @author ${info.author.name}
+   * @see ${info.author.url}
    */
   const component: string;
   export default component;
@@ -115,19 +120,23 @@ function generateDeclarationFile(iconPacks: IconPack[]) {
   let declaration = '';
 
   for (const pack of iconPacks) {
-    let packDeclaration = `/* ${pack.info.name} icon pack */\n`;
+    let packDeclaration = `/* ${pack.info.name} pack */\n`;
 
     packDeclaration += generateSubmodule(pack.info.prefix);
 
+    const cache: Record<string, string> = {};
+
     for (const [key, data] of Object.entries(pack.data.icons)) {
       const preview = Buffer.from(generatePreview(data.body, [pack.info.height, pack.info.height])).toString("base64");
+
+      cache[key] = preview;
 
       packDeclaration += generateIconTypeDeclaration(key, preview, pack.info);
     }
 
     if (pack.data.aliases) {
       for (const [key, data] of Object.entries(pack.data.aliases)) {
-        packDeclaration += generateAliasTypeDeclaration(key, data.parent, pack.info);
+        packDeclaration += generateAliasTypeDeclaration(key, data.parent, pack.info, cache[data.parent]);
       }
     }
 
