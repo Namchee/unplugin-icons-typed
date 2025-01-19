@@ -1,4 +1,11 @@
 {
   "$schema": "https://biomejs.dev/schemas/1.9.4/schema.json",
-  "extends": ["./node_modules/@namchee/biome-config/biome.json"]
+  "extends": [
+    "./node_modules/@namchee/biome-config/biome.json"
+  ],
+  "files": {
+    "ignore": [
+      "./.unplugin/**/*"
+    ]
+  }
 }

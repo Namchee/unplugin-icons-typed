@@ -11,6 +11,7 @@ type IconifyJSON = {
 type IconifyInfo = {
   prefix: string;
   name: string;
+  height: number;
   author: {
     name: string;
     url: string;
@@ -42,6 +43,8 @@ const iconDef: IconPack[] = await Promise.all(
     }
   })
 );
+
+const generatePreview = (icon: string, dimension: [number, number]) => `<svg xmlns="http://www.w3.org/2000/svg" width="${dimension[0]}" height="${dimension[1]}" viewBox="0 0 ${dimension[0]} ${dimension[1]}"><rect width="100%" height="100%" fill="white" />${icon}</svg>`;
 
 const generateIconTypeDeclaration = (icon: string, preview: string, info: IconifyInfo) => `
 declare module 'virtual:icons/${info.prefix}/${icon}' {
@@ -100,7 +103,7 @@ function generateDeclarationFile(iconPacks: IconPack[]) {
     let packDeclaration = `/* ${pack.info.name} icon pack - ${pack.info.author.url} */\n`;
 
     for (const [key, data] of Object.entries(pack.data.icons)) {
-      const preview = Buffer.from(`<svg xmlns="http://www.w3.org/2000/svg" width="20" height"20">${data.body}</svg>`).toString("base64");
+      const preview = Buffer.from(generatePreview(data.body, [pack.info.height, pack.info.height])).toString("base64");
 
       packDeclaration += generateIconTypeDeclaration(key, preview, pack.info);
     }
