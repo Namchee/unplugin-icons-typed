@@ -65,6 +65,7 @@ declare module 'virtual:icons/${pack}/${icon}' {
    * \`${icon}\` from ${info.name} pack 
    * 
    * @author ${info.author.name}
+   * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
   const component: string;
@@ -78,6 +79,7 @@ declare module '~icons/${pack}/${icon}' {
    * \`${icon}\` from ${info.name} pack
    * 
    * @author ${info.author.name}
+   * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
   const component: string;
@@ -94,6 +96,7 @@ declare module 'virtual:icons/${pack}/${icon}' {
    * Alias of \`${alias}\`.
    *
    * @author ${info.author.name}
+   * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
   const component: string;
@@ -108,6 +111,7 @@ declare module '~icons/${pack}/${icon}' {
    * Alias of \`${alias}\`.
    *
    * @author ${info.author.name}
+   * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
   const component: string;
