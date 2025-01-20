@@ -3,7 +3,7 @@ import { resolve } from "node:path";
 import { readdirSync, writeFileSync } from "node:fs";
 import { readFile } from "node:fs/promises";
 
-import type { ExtendedIconifyIcon, IconifyInfo, IconifyJSONIconsData } from '@iconify/types';
+import type { IconifyInfo, IconifyJSONIconsData } from '@iconify/types';
 
 type IconPack = {
   data: IconifyJSONIconsData;
@@ -31,11 +31,19 @@ const iconDef: IconPack[] = await Promise.all(
   })
 );
 
-const getDimension = (info: IconifyInfo): [number, number] => {
-  const viewBoxWidth = 
+const getDisplayDimension = (viewBox: [number, number], info: IconifyInfo): [number, number] => {
+  let [a, b] = viewBox;
+  if (a > b) {
+    [a, b] = [b, a];
+  }
+
+  const height = info.displayHeight || (Array.isArray(info.height) ? info.height[0] : info.height) || 24;
+  const width = Math.round(a * height / b);
+
+  return [width, height];
 }
 
-const generatePreview = (icon: string, dimension: [number, number]) => `<svg xmlns="http://www.w3.org/2000/svg" width="${dimension[0]}" height="${dimension[1]}" viewBox="0 0 384 384" fill="black"><rect width="100%" height="100%" fill="white" />${icon}</svg>`;
+const generatePreview = (icon: string, viewBox: [number, number], dimension: [number, number]) => `<svg xmlns="http://www.w3.org/2000/svg" width="${dimension[0]}" height="${dimension[1]}" viewBox="0 0 ${viewBox[0]} ${viewBox[1]}" fill="black" stroke="black"><rect width="100%" height="100%" fill="white" />${icon}</svg>`;
 
 const generateSubmodule = (pack: string) => `
 declare module '~icons/${pack}' {
@@ -116,10 +124,15 @@ function generateDeclarationFile(iconPacks: IconPack[]) {
     packDeclaration += generateSubmodule(pack.data.prefix);
 
     const cache: Record<string, string> = {};
-    const previewDimension = getDimension(pack.info);
 
     for (const [key, data] of Object.entries(pack.data.icons)) {
-      const preview = Buffer.from(generatePreview(data.body, previewDimension)).toString("base64");
+      const viewBox: [number, number] = [
+        data.width || pack.data.width || 24,
+        data.height || pack.data.height || 24,
+      ];
+      const dimension = getDisplayDimension(viewBox, pack.info);
+
+      const preview = Buffer.from(generatePreview(data.body, viewBox, dimension)).toString("base64");
 
       cache[key] = preview;
 
