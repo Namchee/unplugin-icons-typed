@@ -3,23 +3,10 @@ import { resolve } from "node:path";
 import { readdirSync, writeFileSync } from "node:fs";
 import { readFile } from "node:fs/promises";
 
-type IconifyJSON = {
-  icons: Record<string, { body: string }>;
-  aliases?: Record<string, { parent: string }>;
-}
-
-type IconifyInfo = {
-  prefix: string;
-  name: string;
-  height: number;
-  author: {
-    name: string;
-    url: string;
-  }
-}
+import type { ExtendedIconifyIcon, IconifyInfo, IconifyJSONIconsData } from '@iconify/types';
 
 type IconPack = {
-  data: IconifyJSON;
+  data: IconifyJSONIconsData;
   info: IconifyInfo;
 }
 
@@ -44,7 +31,11 @@ const iconDef: IconPack[] = await Promise.all(
   })
 );
 
-const generatePreview = (icon: string, dimension: [number, number]) => `<svg xmlns="http://www.w3.org/2000/svg" width="${dimension[0]}" height="${dimension[1]}" viewBox="0 0 ${dimension[0]} ${dimension[1]}"><rect width="100%" height="100%" fill="white" />${icon}</svg>`;
+const getDimension = (info: IconifyInfo): [number, number] => {
+  const viewBoxWidth = 
+}
+
+const generatePreview = (icon: string, dimension: [number, number]) => `<svg xmlns="http://www.w3.org/2000/svg" width="${dimension[0]}" height="${dimension[1]}" viewBox="0 0 384 384" fill="black"><rect width="100%" height="100%" fill="white" />${icon}</svg>`;
 
 const generateSubmodule = (pack: string) => `
 declare module '~icons/${pack}' {
@@ -58,8 +49,8 @@ declare module 'virtual:icons/${pack}' {
 }
 `;
 
-const generateIconTypeDeclaration = (icon: string, preview: string, info: IconifyInfo) => `
-declare module 'virtual:icons/${info.prefix}/${icon}' {
+const generateIconTypeDeclaration = (icon: string, preview: string, pack: string, info: IconifyInfo) => `
+declare module 'virtual:icons/${pack}/${icon}' {
   /**
    * ![preview](data:image/svg+xml;base64,${preview})
    * 
@@ -72,7 +63,7 @@ declare module 'virtual:icons/${info.prefix}/${icon}' {
   export default component;
 };
 
-declare module '~icons/${info.prefix}/${icon}' {
+declare module '~icons/${pack}/${icon}' {
   /**
    * ![preview](data:image/svg+xml;base64,${preview})
    * 
@@ -86,8 +77,8 @@ declare module '~icons/${info.prefix}/${icon}' {
 };
 `;
 
-const generateAliasTypeDeclaration = (icon: string, alias: string, info: IconifyInfo, preview?: string) => `
-declare module 'virtual:icons/${info.prefix}/${icon}' {
+const generateAliasTypeDeclaration = (icon: string, alias: string, pack: string, info: IconifyInfo, preview?: string) => `
+declare module 'virtual:icons/${pack}/${icon}' {
   /**
    * ![preview](data:image/svg+xml;base64,${preview})
    * 
@@ -101,7 +92,7 @@ declare module 'virtual:icons/${info.prefix}/${icon}' {
   export default component;
 };
 
-declare module '~icons/${info.prefix}/${icon}' {
+declare module '~icons/${pack}/${icon}' {
   /**
    * ![preview](data:image/svg+xml;base64,${preview})
    * 
@@ -122,21 +113,22 @@ function generateDeclarationFile(iconPacks: IconPack[]) {
   for (const pack of iconPacks) {
     let packDeclaration = `/* ${pack.info.name} pack */\n`;
 
-    packDeclaration += generateSubmodule(pack.info.prefix);
+    packDeclaration += generateSubmodule(pack.data.prefix);
 
     const cache: Record<string, string> = {};
+    const previewDimension = getDimension(pack.info);
 
     for (const [key, data] of Object.entries(pack.data.icons)) {
-      const preview = Buffer.from(generatePreview(data.body, [pack.info.height, pack.info.height])).toString("base64");
+      const preview = Buffer.from(generatePreview(data.body, previewDimension)).toString("base64");
 
       cache[key] = preview;
 
-      packDeclaration += generateIconTypeDeclaration(key, preview, pack.info);
+      packDeclaration += generateIconTypeDeclaration(key, preview, pack.data.prefix, pack.info);
     }
 
     if (pack.data.aliases) {
       for (const [key, data] of Object.entries(pack.data.aliases)) {
-        packDeclaration += generateAliasTypeDeclaration(key, data.parent, pack.info, cache[data.parent]);
+        packDeclaration += generateAliasTypeDeclaration(key, data.parent, pack.data.prefix, pack.info, cache[data.parent]);
       }
     }
 
