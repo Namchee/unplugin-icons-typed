@@ -14,8 +14,8 @@ declare module 'virtual:icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>;
-  export default component;
+  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>
+  export default component
 };
 
 declare module '~icons/${pack}/${icon}' {
@@ -30,9 +30,9 @@ declare module '~icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>;
-  export default component;
-};
+  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>
+  export default component
+}
 `;
 
 const generateAliasTypeDeclaration = (icon: string, alias: string, pack: string, info: IconifyInfo, preview?: string) => `
@@ -49,9 +49,9 @@ declare module 'virtual:icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>;
-  export default component;
-};
+  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>
+  export default component
+}
 
 declare module '~icons/${pack}/${icon}' {
   import type { ForwardRefExoticComponent, SVGProps } from 'react'
@@ -66,9 +66,9 @@ declare module '~icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>;
-  export default component;
-};
+  const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>
+  export default component
+}
 `;
 
 export const ReactTypeGenerator: TypeGenerator = {

@@ -43,9 +43,9 @@ declare module 'virtual:icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/${pack}/${icon}' {
   /**
@@ -58,9 +58,9 @@ declare module '~icons/${pack}/${icon}' {
    * @license ${info.license.spdx || info.license.title}
    * @see ${info.author.url}
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 `;
 
 export const VanillaTypeGenerator: TypeGenerator = {

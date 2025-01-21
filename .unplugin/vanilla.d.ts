@@ -51693,9 +51693,9 @@ declare module 'virtual:icons/lucide/activity-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/activity-square' {
   /**
@@ -51708,9 +51708,9 @@ declare module '~icons/lucide/activity-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alarm-check' {
   /**
@@ -51723,9 +51723,9 @@ declare module 'virtual:icons/lucide/alarm-check' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alarm-check' {
   /**
@@ -51738,9 +51738,9 @@ declare module '~icons/lucide/alarm-check' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alarm-minus' {
   /**
@@ -51753,9 +51753,9 @@ declare module 'virtual:icons/lucide/alarm-minus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alarm-minus' {
   /**
@@ -51768,9 +51768,9 @@ declare module '~icons/lucide/alarm-minus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alarm-plus' {
   /**
@@ -51783,9 +51783,9 @@ declare module 'virtual:icons/lucide/alarm-plus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alarm-plus' {
   /**
@@ -51798,9 +51798,9 @@ declare module '~icons/lucide/alarm-plus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alert-circle' {
   /**
@@ -51813,9 +51813,9 @@ declare module 'virtual:icons/lucide/alert-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alert-circle' {
   /**
@@ -51828,9 +51828,9 @@ declare module '~icons/lucide/alert-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alert-octagon' {
   /**
@@ -51843,9 +51843,9 @@ declare module 'virtual:icons/lucide/alert-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alert-octagon' {
   /**
@@ -51858,9 +51858,9 @@ declare module '~icons/lucide/alert-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/alert-triangle' {
   /**
@@ -51873,9 +51873,9 @@ declare module 'virtual:icons/lucide/alert-triangle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/alert-triangle' {
   /**
@@ -51888,9 +51888,9 @@ declare module '~icons/lucide/alert-triangle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-center' {
   /**
@@ -51903,9 +51903,9 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-center' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/align-horizonal-distribute-center' {
   /**
@@ -51918,9 +51918,9 @@ declare module '~icons/lucide/align-horizonal-distribute-center' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-end' {
   /**
@@ -51933,9 +51933,9 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-end' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/align-horizonal-distribute-end' {
   /**
@@ -51948,9 +51948,9 @@ declare module '~icons/lucide/align-horizonal-distribute-end' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/align-horizonal-distribute-start' {
   /**
@@ -51963,9 +51963,9 @@ declare module 'virtual:icons/lucide/align-horizonal-distribute-start' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/align-horizonal-distribute-start' {
   /**
@@ -51978,9 +51978,9 @@ declare module '~icons/lucide/align-horizonal-distribute-start' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-01' {
   /**
@@ -51993,9 +51993,9 @@ declare module 'virtual:icons/lucide/arrow-down-01' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-01' {
   /**
@@ -52008,9 +52008,9 @@ declare module '~icons/lucide/arrow-down-01' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-10' {
   /**
@@ -52023,9 +52023,9 @@ declare module 'virtual:icons/lucide/arrow-down-10' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-10' {
   /**
@@ -52038,9 +52038,9 @@ declare module '~icons/lucide/arrow-down-10' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-az' {
   /**
@@ -52053,9 +52053,9 @@ declare module 'virtual:icons/lucide/arrow-down-az' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-az' {
   /**
@@ -52068,9 +52068,9 @@ declare module '~icons/lucide/arrow-down-az' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-circle' {
   /**
@@ -52083,9 +52083,9 @@ declare module 'virtual:icons/lucide/arrow-down-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-circle' {
   /**
@@ -52098,9 +52098,9 @@ declare module '~icons/lucide/arrow-down-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-left-from-circle' {
   /**
@@ -52113,9 +52113,9 @@ declare module 'virtual:icons/lucide/arrow-down-left-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-left-from-circle' {
   /**
@@ -52128,9 +52128,9 @@ declare module '~icons/lucide/arrow-down-left-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-left-from-square' {
   /**
@@ -52143,9 +52143,9 @@ declare module 'virtual:icons/lucide/arrow-down-left-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-left-from-square' {
   /**
@@ -52158,9 +52158,9 @@ declare module '~icons/lucide/arrow-down-left-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-left-square' {
   /**
@@ -52173,9 +52173,9 @@ declare module 'virtual:icons/lucide/arrow-down-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-left-square' {
   /**
@@ -52188,9 +52188,9 @@ declare module '~icons/lucide/arrow-down-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-right-from-circle' {
   /**
@@ -52203,9 +52203,9 @@ declare module 'virtual:icons/lucide/arrow-down-right-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-right-from-circle' {
   /**
@@ -52218,9 +52218,9 @@ declare module '~icons/lucide/arrow-down-right-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-right-from-square' {
   /**
@@ -52233,9 +52233,9 @@ declare module 'virtual:icons/lucide/arrow-down-right-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-right-from-square' {
   /**
@@ -52248,9 +52248,9 @@ declare module '~icons/lucide/arrow-down-right-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-right-square' {
   /**
@@ -52263,9 +52263,9 @@ declare module 'virtual:icons/lucide/arrow-down-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-right-square' {
   /**
@@ -52278,9 +52278,9 @@ declare module '~icons/lucide/arrow-down-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-square' {
   /**
@@ -52293,9 +52293,9 @@ declare module 'virtual:icons/lucide/arrow-down-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-square' {
   /**
@@ -52308,9 +52308,9 @@ declare module '~icons/lucide/arrow-down-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-down-za' {
   /**
@@ -52323,9 +52323,9 @@ declare module 'virtual:icons/lucide/arrow-down-za' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-down-za' {
   /**
@@ -52338,9 +52338,9 @@ declare module '~icons/lucide/arrow-down-za' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-left-circle' {
   /**
@@ -52353,9 +52353,9 @@ declare module 'virtual:icons/lucide/arrow-left-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-left-circle' {
   /**
@@ -52368,9 +52368,9 @@ declare module '~icons/lucide/arrow-left-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-left-square' {
   /**
@@ -52383,9 +52383,9 @@ declare module 'virtual:icons/lucide/arrow-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-left-square' {
   /**
@@ -52398,9 +52398,9 @@ declare module '~icons/lucide/arrow-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-right-circle' {
   /**
@@ -52413,9 +52413,9 @@ declare module 'virtual:icons/lucide/arrow-right-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-right-circle' {
   /**
@@ -52428,9 +52428,9 @@ declare module '~icons/lucide/arrow-right-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-right-square' {
   /**
@@ -52443,9 +52443,9 @@ declare module 'virtual:icons/lucide/arrow-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-right-square' {
   /**
@@ -52458,9 +52458,9 @@ declare module '~icons/lucide/arrow-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-01' {
   /**
@@ -52473,9 +52473,9 @@ declare module 'virtual:icons/lucide/arrow-up-01' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-01' {
   /**
@@ -52488,9 +52488,9 @@ declare module '~icons/lucide/arrow-up-01' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-10' {
   /**
@@ -52503,9 +52503,9 @@ declare module 'virtual:icons/lucide/arrow-up-10' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-10' {
   /**
@@ -52518,9 +52518,9 @@ declare module '~icons/lucide/arrow-up-10' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-az' {
   /**
@@ -52533,9 +52533,9 @@ declare module 'virtual:icons/lucide/arrow-up-az' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-az' {
   /**
@@ -52548,9 +52548,9 @@ declare module '~icons/lucide/arrow-up-az' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-circle' {
   /**
@@ -52563,9 +52563,9 @@ declare module 'virtual:icons/lucide/arrow-up-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-circle' {
   /**
@@ -52578,9 +52578,9 @@ declare module '~icons/lucide/arrow-up-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-left-from-circle' {
   /**
@@ -52593,9 +52593,9 @@ declare module 'virtual:icons/lucide/arrow-up-left-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-left-from-circle' {
   /**
@@ -52608,9 +52608,9 @@ declare module '~icons/lucide/arrow-up-left-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-left-from-square' {
   /**
@@ -52623,9 +52623,9 @@ declare module 'virtual:icons/lucide/arrow-up-left-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-left-from-square' {
   /**
@@ -52638,9 +52638,9 @@ declare module '~icons/lucide/arrow-up-left-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-left-square' {
   /**
@@ -52653,9 +52653,9 @@ declare module 'virtual:icons/lucide/arrow-up-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-left-square' {
   /**
@@ -52668,9 +52668,9 @@ declare module '~icons/lucide/arrow-up-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-right-from-circle' {
   /**
@@ -52683,9 +52683,9 @@ declare module 'virtual:icons/lucide/arrow-up-right-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-right-from-circle' {
   /**
@@ -52698,9 +52698,9 @@ declare module '~icons/lucide/arrow-up-right-from-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-right-from-square' {
   /**
@@ -52713,9 +52713,9 @@ declare module 'virtual:icons/lucide/arrow-up-right-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-right-from-square' {
   /**
@@ -52728,9 +52728,9 @@ declare module '~icons/lucide/arrow-up-right-from-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-right-square' {
   /**
@@ -52743,9 +52743,9 @@ declare module 'virtual:icons/lucide/arrow-up-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-right-square' {
   /**
@@ -52758,9 +52758,9 @@ declare module '~icons/lucide/arrow-up-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-square' {
   /**
@@ -52773,9 +52773,9 @@ declare module 'virtual:icons/lucide/arrow-up-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-square' {
   /**
@@ -52788,9 +52788,9 @@ declare module '~icons/lucide/arrow-up-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/arrow-up-za' {
   /**
@@ -52803,9 +52803,9 @@ declare module 'virtual:icons/lucide/arrow-up-za' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/arrow-up-za' {
   /**
@@ -52818,9 +52818,9 @@ declare module '~icons/lucide/arrow-up-za' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/asterisk-square' {
   /**
@@ -52833,9 +52833,9 @@ declare module 'virtual:icons/lucide/asterisk-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/asterisk-square' {
   /**
@@ -52848,9 +52848,9 @@ declare module '~icons/lucide/asterisk-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/axis-3-d' {
   /**
@@ -52863,9 +52863,9 @@ declare module 'virtual:icons/lucide/axis-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/axis-3-d' {
   /**
@@ -52878,9 +52878,9 @@ declare module '~icons/lucide/axis-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/bar-chart' {
   /**
@@ -52893,9 +52893,9 @@ declare module 'virtual:icons/lucide/bar-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/bar-chart' {
   /**
@@ -52908,9 +52908,9 @@ declare module '~icons/lucide/bar-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/bar-chart-2' {
   /**
@@ -52923,9 +52923,9 @@ declare module 'virtual:icons/lucide/bar-chart-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/bar-chart-2' {
   /**
@@ -52938,9 +52938,9 @@ declare module '~icons/lucide/bar-chart-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/between-horizonal-end' {
   /**
@@ -52953,9 +52953,9 @@ declare module 'virtual:icons/lucide/between-horizonal-end' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/between-horizonal-end' {
   /**
@@ -52968,9 +52968,9 @@ declare module '~icons/lucide/between-horizonal-end' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/between-horizonal-start' {
   /**
@@ -52983,9 +52983,9 @@ declare module 'virtual:icons/lucide/between-horizonal-start' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/between-horizonal-start' {
   /**
@@ -52998,9 +52998,9 @@ declare module '~icons/lucide/between-horizonal-start' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/book-template' {
   /**
@@ -53013,9 +53013,9 @@ declare module 'virtual:icons/lucide/book-template' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/book-template' {
   /**
@@ -53028,9 +53028,9 @@ declare module '~icons/lucide/book-template' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/box-select' {
   /**
@@ -53043,9 +53043,9 @@ declare module 'virtual:icons/lucide/box-select' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/box-select' {
   /**
@@ -53058,9 +53058,9 @@ declare module '~icons/lucide/box-select' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/check-circle' {
   /**
@@ -53073,9 +53073,9 @@ declare module 'virtual:icons/lucide/check-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/check-circle' {
   /**
@@ -53088,9 +53088,9 @@ declare module '~icons/lucide/check-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/check-circle-2' {
   /**
@@ -53103,9 +53103,9 @@ declare module 'virtual:icons/lucide/check-circle-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/check-circle-2' {
   /**
@@ -53118,9 +53118,9 @@ declare module '~icons/lucide/check-circle-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/check-square' {
   /**
@@ -53133,9 +53133,9 @@ declare module 'virtual:icons/lucide/check-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/check-square' {
   /**
@@ -53148,9 +53148,9 @@ declare module '~icons/lucide/check-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/check-square-2' {
   /**
@@ -53163,9 +53163,9 @@ declare module 'virtual:icons/lucide/check-square-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/check-square-2' {
   /**
@@ -53178,9 +53178,9 @@ declare module '~icons/lucide/check-square-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-down-circle' {
   /**
@@ -53193,9 +53193,9 @@ declare module 'virtual:icons/lucide/chevron-down-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-down-circle' {
   /**
@@ -53208,9 +53208,9 @@ declare module '~icons/lucide/chevron-down-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-down-square' {
   /**
@@ -53223,9 +53223,9 @@ declare module 'virtual:icons/lucide/chevron-down-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-down-square' {
   /**
@@ -53238,9 +53238,9 @@ declare module '~icons/lucide/chevron-down-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-left-circle' {
   /**
@@ -53253,9 +53253,9 @@ declare module 'virtual:icons/lucide/chevron-left-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-left-circle' {
   /**
@@ -53268,9 +53268,9 @@ declare module '~icons/lucide/chevron-left-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-left-square' {
   /**
@@ -53283,9 +53283,9 @@ declare module 'virtual:icons/lucide/chevron-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-left-square' {
   /**
@@ -53298,9 +53298,9 @@ declare module '~icons/lucide/chevron-left-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-right-circle' {
   /**
@@ -53313,9 +53313,9 @@ declare module 'virtual:icons/lucide/chevron-right-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-right-circle' {
   /**
@@ -53328,9 +53328,9 @@ declare module '~icons/lucide/chevron-right-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-right-square' {
   /**
@@ -53343,9 +53343,9 @@ declare module 'virtual:icons/lucide/chevron-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-right-square' {
   /**
@@ -53358,9 +53358,9 @@ declare module '~icons/lucide/chevron-right-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-up-circle' {
   /**
@@ -53373,9 +53373,9 @@ declare module 'virtual:icons/lucide/chevron-up-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-up-circle' {
   /**
@@ -53388,9 +53388,9 @@ declare module '~icons/lucide/chevron-up-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/chevron-up-square' {
   /**
@@ -53403,9 +53403,9 @@ declare module 'virtual:icons/lucide/chevron-up-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/chevron-up-square' {
   /**
@@ -53418,9 +53418,9 @@ declare module '~icons/lucide/chevron-up-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/circle-slashed' {
   /**
@@ -53433,9 +53433,9 @@ declare module 'virtual:icons/lucide/circle-slashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/circle-slashed' {
   /**
@@ -53448,9 +53448,9 @@ declare module '~icons/lucide/circle-slashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/clipboard-edit' {
   /**
@@ -53463,9 +53463,9 @@ declare module 'virtual:icons/lucide/clipboard-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/clipboard-edit' {
   /**
@@ -53478,9 +53478,9 @@ declare module '~icons/lucide/clipboard-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/clipboard-signature' {
   /**
@@ -53493,9 +53493,9 @@ declare module 'virtual:icons/lucide/clipboard-signature' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/clipboard-signature' {
   /**
@@ -53508,9 +53508,9 @@ declare module '~icons/lucide/clipboard-signature' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/code-2' {
   /**
@@ -53523,9 +53523,9 @@ declare module 'virtual:icons/lucide/code-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/code-2' {
   /**
@@ -53538,9 +53538,9 @@ declare module '~icons/lucide/code-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/code-square' {
   /**
@@ -53553,9 +53553,9 @@ declare module 'virtual:icons/lucide/code-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/code-square' {
   /**
@@ -53568,9 +53568,9 @@ declare module '~icons/lucide/code-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/columns' {
   /**
@@ -53583,9 +53583,9 @@ declare module 'virtual:icons/lucide/columns' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/columns' {
   /**
@@ -53598,9 +53598,9 @@ declare module '~icons/lucide/columns' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/contact-2' {
   /**
@@ -53613,9 +53613,9 @@ declare module 'virtual:icons/lucide/contact-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/contact-2' {
   /**
@@ -53628,9 +53628,9 @@ declare module '~icons/lucide/contact-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/curly-braces' {
   /**
@@ -53643,9 +53643,9 @@ declare module 'virtual:icons/lucide/curly-braces' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/curly-braces' {
   /**
@@ -53658,9 +53658,9 @@ declare module '~icons/lucide/curly-braces' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/divide-circle' {
   /**
@@ -53673,9 +53673,9 @@ declare module 'virtual:icons/lucide/divide-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/divide-circle' {
   /**
@@ -53688,9 +53688,9 @@ declare module '~icons/lucide/divide-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/divide-square' {
   /**
@@ -53703,9 +53703,9 @@ declare module 'virtual:icons/lucide/divide-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/divide-square' {
   /**
@@ -53718,9 +53718,9 @@ declare module '~icons/lucide/divide-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/dot-square' {
   /**
@@ -53733,9 +53733,9 @@ declare module 'virtual:icons/lucide/dot-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/dot-square' {
   /**
@@ -53748,9 +53748,9 @@ declare module '~icons/lucide/dot-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/download-cloud' {
   /**
@@ -53763,9 +53763,9 @@ declare module 'virtual:icons/lucide/download-cloud' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/download-cloud' {
   /**
@@ -53778,9 +53778,9 @@ declare module '~icons/lucide/download-cloud' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/edit' {
   /**
@@ -53793,9 +53793,9 @@ declare module 'virtual:icons/lucide/edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/edit' {
   /**
@@ -53808,9 +53808,9 @@ declare module '~icons/lucide/edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/edit-2' {
   /**
@@ -53823,9 +53823,9 @@ declare module 'virtual:icons/lucide/edit-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/edit-2' {
   /**
@@ -53838,9 +53838,9 @@ declare module '~icons/lucide/edit-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/edit-3' {
   /**
@@ -53853,9 +53853,9 @@ declare module 'virtual:icons/lucide/edit-3' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/edit-3' {
   /**
@@ -53868,9 +53868,9 @@ declare module '~icons/lucide/edit-3' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/equal-square' {
   /**
@@ -53883,9 +53883,9 @@ declare module 'virtual:icons/lucide/equal-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/equal-square' {
   /**
@@ -53898,9 +53898,9 @@ declare module '~icons/lucide/equal-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-axis-3-d' {
   /**
@@ -53913,9 +53913,9 @@ declare module 'virtual:icons/lucide/file-axis-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-axis-3-d' {
   /**
@@ -53928,9 +53928,9 @@ declare module '~icons/lucide/file-axis-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-bar-chart' {
   /**
@@ -53943,9 +53943,9 @@ declare module 'virtual:icons/lucide/file-bar-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-bar-chart' {
   /**
@@ -53958,9 +53958,9 @@ declare module '~icons/lucide/file-bar-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-bar-chart-2' {
   /**
@@ -53973,9 +53973,9 @@ declare module 'virtual:icons/lucide/file-bar-chart-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-bar-chart-2' {
   /**
@@ -53988,9 +53988,9 @@ declare module '~icons/lucide/file-bar-chart-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-cog-2' {
   /**
@@ -54003,9 +54003,9 @@ declare module 'virtual:icons/lucide/file-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-cog-2' {
   /**
@@ -54018,9 +54018,9 @@ declare module '~icons/lucide/file-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-edit' {
   /**
@@ -54033,9 +54033,9 @@ declare module 'virtual:icons/lucide/file-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-edit' {
   /**
@@ -54048,9 +54048,9 @@ declare module '~icons/lucide/file-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-line-chart' {
   /**
@@ -54063,9 +54063,9 @@ declare module 'virtual:icons/lucide/file-line-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-line-chart' {
   /**
@@ -54078,9 +54078,9 @@ declare module '~icons/lucide/file-line-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/file-signature' {
   /**
@@ -54093,9 +54093,9 @@ declare module 'virtual:icons/lucide/file-signature' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/file-signature' {
   /**
@@ -54108,9 +54108,9 @@ declare module '~icons/lucide/file-signature' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/folder-cog-2' {
   /**
@@ -54123,9 +54123,9 @@ declare module 'virtual:icons/lucide/folder-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/folder-cog-2' {
   /**
@@ -54138,9 +54138,9 @@ declare module '~icons/lucide/folder-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/folder-edit' {
   /**
@@ -54153,9 +54153,9 @@ declare module 'virtual:icons/lucide/folder-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/folder-edit' {
   /**
@@ -54168,9 +54168,9 @@ declare module '~icons/lucide/folder-edit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/fork-knife' {
   /**
@@ -54183,9 +54183,9 @@ declare module 'virtual:icons/lucide/fork-knife' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/fork-knife' {
   /**
@@ -54198,9 +54198,9 @@ declare module '~icons/lucide/fork-knife' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/fork-knife-crossed' {
   /**
@@ -54213,9 +54213,9 @@ declare module 'virtual:icons/lucide/fork-knife-crossed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/fork-knife-crossed' {
   /**
@@ -54228,9 +54228,9 @@ declare module '~icons/lucide/fork-knife-crossed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/form-input' {
   /**
@@ -54243,9 +54243,9 @@ declare module 'virtual:icons/lucide/form-input' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/form-input' {
   /**
@@ -54258,9 +54258,9 @@ declare module '~icons/lucide/form-input' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/function-square' {
   /**
@@ -54273,9 +54273,9 @@ declare module 'virtual:icons/lucide/function-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/function-square' {
   /**
@@ -54288,9 +54288,9 @@ declare module '~icons/lucide/function-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/gantt-chart' {
   /**
@@ -54303,9 +54303,9 @@ declare module 'virtual:icons/lucide/gantt-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/gantt-chart' {
   /**
@@ -54318,9 +54318,9 @@ declare module '~icons/lucide/gantt-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/gantt-chart-square' {
   /**
@@ -54333,9 +54333,9 @@ declare module 'virtual:icons/lucide/gantt-chart-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/gantt-chart-square' {
   /**
@@ -54348,9 +54348,9 @@ declare module '~icons/lucide/gantt-chart-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/gauge-circle' {
   /**
@@ -54363,9 +54363,9 @@ declare module 'virtual:icons/lucide/gauge-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/gauge-circle' {
   /**
@@ -54378,9 +54378,9 @@ declare module '~icons/lucide/gauge-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/git-commit' {
   /**
@@ -54393,9 +54393,9 @@ declare module 'virtual:icons/lucide/git-commit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/git-commit' {
   /**
@@ -54408,9 +54408,9 @@ declare module '~icons/lucide/git-commit' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/globe-2' {
   /**
@@ -54423,9 +54423,9 @@ declare module 'virtual:icons/lucide/globe-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/globe-2' {
   /**
@@ -54438,9 +54438,9 @@ declare module '~icons/lucide/globe-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid' {
   /**
@@ -54453,9 +54453,9 @@ declare module 'virtual:icons/lucide/grid' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid' {
   /**
@@ -54468,9 +54468,9 @@ declare module '~icons/lucide/grid' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid-2-x-2' {
   /**
@@ -54483,9 +54483,9 @@ declare module 'virtual:icons/lucide/grid-2-x-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid-2-x-2' {
   /**
@@ -54498,9 +54498,9 @@ declare module '~icons/lucide/grid-2-x-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid-2-x-2-check' {
   /**
@@ -54513,9 +54513,9 @@ declare module 'virtual:icons/lucide/grid-2-x-2-check' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid-2-x-2-check' {
   /**
@@ -54528,9 +54528,9 @@ declare module '~icons/lucide/grid-2-x-2-check' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid-2-x-2-plus' {
   /**
@@ -54543,9 +54543,9 @@ declare module 'virtual:icons/lucide/grid-2-x-2-plus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid-2-x-2-plus' {
   /**
@@ -54558,9 +54558,9 @@ declare module '~icons/lucide/grid-2-x-2-plus' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid-2-x-2-x' {
   /**
@@ -54573,9 +54573,9 @@ declare module 'virtual:icons/lucide/grid-2-x-2-x' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid-2-x-2-x' {
   /**
@@ -54588,9 +54588,9 @@ declare module '~icons/lucide/grid-2-x-2-x' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/grid-3-x-3' {
   /**
@@ -54603,9 +54603,9 @@ declare module 'virtual:icons/lucide/grid-3-x-3' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/grid-3-x-3' {
   /**
@@ -54618,9 +54618,9 @@ declare module '~icons/lucide/grid-3-x-3' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/help-circle' {
   /**
@@ -54633,9 +54633,9 @@ declare module 'virtual:icons/lucide/help-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/help-circle' {
   /**
@@ -54648,9 +54648,9 @@ declare module '~icons/lucide/help-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/helping-hand' {
   /**
@@ -54663,9 +54663,9 @@ declare module 'virtual:icons/lucide/helping-hand' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/helping-hand' {
   /**
@@ -54678,9 +54678,9 @@ declare module '~icons/lucide/helping-hand' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/home' {
   /**
@@ -54693,9 +54693,9 @@ declare module 'virtual:icons/lucide/home' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/home' {
   /**
@@ -54708,9 +54708,9 @@ declare module '~icons/lucide/home' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/ice-cream' {
   /**
@@ -54723,9 +54723,9 @@ declare module 'virtual:icons/lucide/ice-cream' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/ice-cream' {
   /**
@@ -54738,9 +54738,9 @@ declare module '~icons/lucide/ice-cream' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/ice-cream-2' {
   /**
@@ -54753,9 +54753,9 @@ declare module 'virtual:icons/lucide/ice-cream-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/ice-cream-2' {
   /**
@@ -54768,9 +54768,9 @@ declare module '~icons/lucide/ice-cream-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/indent' {
   /**
@@ -54783,9 +54783,9 @@ declare module 'virtual:icons/lucide/indent' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/indent' {
   /**
@@ -54798,9 +54798,9 @@ declare module '~icons/lucide/indent' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/inspect' {
   /**
@@ -54813,9 +54813,9 @@ declare module 'virtual:icons/lucide/inspect' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/inspect' {
   /**
@@ -54828,9 +54828,9 @@ declare module '~icons/lucide/inspect' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/jersey-pound' {
   /**
@@ -54843,9 +54843,9 @@ declare module 'virtual:icons/lucide/jersey-pound' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/jersey-pound' {
   /**
@@ -54858,9 +54858,9 @@ declare module '~icons/lucide/jersey-pound' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/kanban-square' {
   /**
@@ -54873,9 +54873,9 @@ declare module 'virtual:icons/lucide/kanban-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/kanban-square' {
   /**
@@ -54888,9 +54888,9 @@ declare module '~icons/lucide/kanban-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/kanban-square-dashed' {
   /**
@@ -54903,9 +54903,9 @@ declare module 'virtual:icons/lucide/kanban-square-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/kanban-square-dashed' {
   /**
@@ -54918,9 +54918,9 @@ declare module '~icons/lucide/kanban-square-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/laptop-2' {
   /**
@@ -54933,9 +54933,9 @@ declare module 'virtual:icons/lucide/laptop-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/laptop-2' {
   /**
@@ -54948,9 +54948,9 @@ declare module '~icons/lucide/laptop-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/layout' {
   /**
@@ -54963,9 +54963,9 @@ declare module 'virtual:icons/lucide/layout' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/layout' {
   /**
@@ -54978,9 +54978,9 @@ declare module '~icons/lucide/layout' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/library-square' {
   /**
@@ -54993,9 +54993,9 @@ declare module 'virtual:icons/lucide/library-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/library-square' {
   /**
@@ -55008,9 +55008,9 @@ declare module '~icons/lucide/library-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/loader-2' {
   /**
@@ -55023,9 +55023,9 @@ declare module 'virtual:icons/lucide/loader-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/loader-2' {
   /**
@@ -55038,9 +55038,9 @@ declare module '~icons/lucide/loader-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/m-square' {
   /**
@@ -55053,9 +55053,9 @@ declare module 'virtual:icons/lucide/m-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/m-square' {
   /**
@@ -55068,9 +55068,9 @@ declare module '~icons/lucide/m-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/menu-square' {
   /**
@@ -55083,9 +55083,9 @@ declare module 'virtual:icons/lucide/menu-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/menu-square' {
   /**
@@ -55098,9 +55098,9 @@ declare module '~icons/lucide/menu-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/mic-2' {
   /**
@@ -55113,9 +55113,9 @@ declare module 'virtual:icons/lucide/mic-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/mic-2' {
   /**
@@ -55128,9 +55128,9 @@ declare module '~icons/lucide/mic-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/minus-circle' {
   /**
@@ -55143,9 +55143,9 @@ declare module 'virtual:icons/lucide/minus-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/minus-circle' {
   /**
@@ -55158,9 +55158,9 @@ declare module '~icons/lucide/minus-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/minus-square' {
   /**
@@ -55173,9 +55173,9 @@ declare module 'virtual:icons/lucide/minus-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/minus-square' {
   /**
@@ -55188,9 +55188,9 @@ declare module '~icons/lucide/minus-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/more-horizontal' {
   /**
@@ -55203,9 +55203,9 @@ declare module 'virtual:icons/lucide/more-horizontal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/more-horizontal' {
   /**
@@ -55218,9 +55218,9 @@ declare module '~icons/lucide/more-horizontal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/more-vertical' {
   /**
@@ -55233,9 +55233,9 @@ declare module 'virtual:icons/lucide/more-vertical' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/more-vertical' {
   /**
@@ -55248,9 +55248,9 @@ declare module '~icons/lucide/more-vertical' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/mouse-pointer-square' {
   /**
@@ -55263,9 +55263,9 @@ declare module 'virtual:icons/lucide/mouse-pointer-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/mouse-pointer-square' {
   /**
@@ -55278,9 +55278,9 @@ declare module '~icons/lucide/mouse-pointer-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/mouse-pointer-square-dashed' {
   /**
@@ -55293,9 +55293,9 @@ declare module 'virtual:icons/lucide/mouse-pointer-square-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/mouse-pointer-square-dashed' {
   /**
@@ -55308,9 +55308,9 @@ declare module '~icons/lucide/mouse-pointer-square-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/move-3-d' {
   /**
@@ -55323,9 +55323,9 @@ declare module 'virtual:icons/lucide/move-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/move-3-d' {
   /**
@@ -55338,9 +55338,9 @@ declare module '~icons/lucide/move-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/outdent' {
   /**
@@ -55353,9 +55353,9 @@ declare module 'virtual:icons/lucide/outdent' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/outdent' {
   /**
@@ -55368,9 +55368,9 @@ declare module '~icons/lucide/outdent' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/paintbrush-2' {
   /**
@@ -55383,9 +55383,9 @@ declare module 'virtual:icons/lucide/paintbrush-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/paintbrush-2' {
   /**
@@ -55398,9 +55398,9 @@ declare module '~icons/lucide/paintbrush-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/palmtree' {
   /**
@@ -55413,9 +55413,9 @@ declare module 'virtual:icons/lucide/palmtree' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/palmtree' {
   /**
@@ -55428,9 +55428,9 @@ declare module '~icons/lucide/palmtree' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panel-bottom-inactive' {
   /**
@@ -55443,9 +55443,9 @@ declare module 'virtual:icons/lucide/panel-bottom-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panel-bottom-inactive' {
   /**
@@ -55458,9 +55458,9 @@ declare module '~icons/lucide/panel-bottom-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panel-left-inactive' {
   /**
@@ -55473,9 +55473,9 @@ declare module 'virtual:icons/lucide/panel-left-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panel-left-inactive' {
   /**
@@ -55488,9 +55488,9 @@ declare module '~icons/lucide/panel-left-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panel-right-inactive' {
   /**
@@ -55503,9 +55503,9 @@ declare module 'virtual:icons/lucide/panel-right-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panel-right-inactive' {
   /**
@@ -55518,9 +55518,9 @@ declare module '~icons/lucide/panel-right-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panel-top-inactive' {
   /**
@@ -55533,9 +55533,9 @@ declare module 'virtual:icons/lucide/panel-top-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panel-top-inactive' {
   /**
@@ -55548,9 +55548,9 @@ declare module '~icons/lucide/panel-top-inactive' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panels-left-right' {
   /**
@@ -55563,9 +55563,9 @@ declare module 'virtual:icons/lucide/panels-left-right' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panels-left-right' {
   /**
@@ -55578,9 +55578,9 @@ declare module '~icons/lucide/panels-left-right' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/panels-top-bottom' {
   /**
@@ -55593,9 +55593,9 @@ declare module 'virtual:icons/lucide/panels-top-bottom' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/panels-top-bottom' {
   /**
@@ -55608,9 +55608,9 @@ declare module '~icons/lucide/panels-top-bottom' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/parking-circle' {
   /**
@@ -55623,9 +55623,9 @@ declare module 'virtual:icons/lucide/parking-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/parking-circle' {
   /**
@@ -55638,9 +55638,9 @@ declare module '~icons/lucide/parking-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/parking-circle-off' {
   /**
@@ -55653,9 +55653,9 @@ declare module 'virtual:icons/lucide/parking-circle-off' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/parking-circle-off' {
   /**
@@ -55668,9 +55668,9 @@ declare module '~icons/lucide/parking-circle-off' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/parking-square' {
   /**
@@ -55683,9 +55683,9 @@ declare module 'virtual:icons/lucide/parking-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/parking-square' {
   /**
@@ -55698,9 +55698,9 @@ declare module '~icons/lucide/parking-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/parking-square-off' {
   /**
@@ -55713,9 +55713,9 @@ declare module 'virtual:icons/lucide/parking-square-off' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/parking-square-off' {
   /**
@@ -55728,9 +55728,9 @@ declare module '~icons/lucide/parking-square-off' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pause-circle' {
   /**
@@ -55743,9 +55743,9 @@ declare module 'virtual:icons/lucide/pause-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pause-circle' {
   /**
@@ -55758,9 +55758,9 @@ declare module '~icons/lucide/pause-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pause-octagon' {
   /**
@@ -55773,9 +55773,9 @@ declare module 'virtual:icons/lucide/pause-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pause-octagon' {
   /**
@@ -55788,9 +55788,9 @@ declare module '~icons/lucide/pause-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pen-box' {
   /**
@@ -55803,9 +55803,9 @@ declare module 'virtual:icons/lucide/pen-box' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pen-box' {
   /**
@@ -55818,9 +55818,9 @@ declare module '~icons/lucide/pen-box' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pen-square' {
   /**
@@ -55833,9 +55833,9 @@ declare module 'virtual:icons/lucide/pen-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pen-square' {
   /**
@@ -55848,9 +55848,9 @@ declare module '~icons/lucide/pen-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/percent-circle' {
   /**
@@ -55863,9 +55863,9 @@ declare module 'virtual:icons/lucide/percent-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/percent-circle' {
   /**
@@ -55878,9 +55878,9 @@ declare module '~icons/lucide/percent-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/percent-diamond' {
   /**
@@ -55893,9 +55893,9 @@ declare module 'virtual:icons/lucide/percent-diamond' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/percent-diamond' {
   /**
@@ -55908,9 +55908,9 @@ declare module '~icons/lucide/percent-diamond' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/percent-square' {
   /**
@@ -55923,9 +55923,9 @@ declare module 'virtual:icons/lucide/percent-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/percent-square' {
   /**
@@ -55938,9 +55938,9 @@ declare module '~icons/lucide/percent-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pi-square' {
   /**
@@ -55953,9 +55953,9 @@ declare module 'virtual:icons/lucide/pi-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pi-square' {
   /**
@@ -55968,9 +55968,9 @@ declare module '~icons/lucide/pi-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/pilcrow-square' {
   /**
@@ -55983,9 +55983,9 @@ declare module 'virtual:icons/lucide/pilcrow-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/pilcrow-square' {
   /**
@@ -55998,9 +55998,9 @@ declare module '~icons/lucide/pilcrow-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/play-circle' {
   /**
@@ -56013,9 +56013,9 @@ declare module 'virtual:icons/lucide/play-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/play-circle' {
   /**
@@ -56028,9 +56028,9 @@ declare module '~icons/lucide/play-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/play-square' {
   /**
@@ -56043,9 +56043,9 @@ declare module 'virtual:icons/lucide/play-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/play-square' {
   /**
@@ -56058,9 +56058,9 @@ declare module '~icons/lucide/play-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/plug-zap-2' {
   /**
@@ -56073,9 +56073,9 @@ declare module 'virtual:icons/lucide/plug-zap-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/plug-zap-2' {
   /**
@@ -56088,9 +56088,9 @@ declare module '~icons/lucide/plug-zap-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/plus-circle' {
   /**
@@ -56103,9 +56103,9 @@ declare module 'virtual:icons/lucide/plus-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/plus-circle' {
   /**
@@ -56118,9 +56118,9 @@ declare module '~icons/lucide/plus-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/plus-square' {
   /**
@@ -56133,9 +56133,9 @@ declare module 'virtual:icons/lucide/plus-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/plus-square' {
   /**
@@ -56148,9 +56148,9 @@ declare module '~icons/lucide/plus-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/power-circle' {
   /**
@@ -56163,9 +56163,9 @@ declare module 'virtual:icons/lucide/power-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/power-circle' {
   /**
@@ -56178,9 +56178,9 @@ declare module '~icons/lucide/power-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/power-square' {
   /**
@@ -56193,9 +56193,9 @@ declare module 'virtual:icons/lucide/power-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/power-square' {
   /**
@@ -56208,9 +56208,9 @@ declare module '~icons/lucide/power-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/rotate-3-d' {
   /**
@@ -56223,9 +56223,9 @@ declare module 'virtual:icons/lucide/rotate-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/rotate-3-d' {
   /**
@@ -56238,9 +56238,9 @@ declare module '~icons/lucide/rotate-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/rows' {
   /**
@@ -56253,9 +56253,9 @@ declare module 'virtual:icons/lucide/rows' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/rows' {
   /**
@@ -56268,9 +56268,9 @@ declare module '~icons/lucide/rows' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/scale-3-d' {
   /**
@@ -56283,9 +56283,9 @@ declare module 'virtual:icons/lucide/scale-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/scale-3-d' {
   /**
@@ -56298,9 +56298,9 @@ declare module '~icons/lucide/scale-3-d' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/school-2' {
   /**
@@ -56313,9 +56313,9 @@ declare module 'virtual:icons/lucide/school-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/school-2' {
   /**
@@ -56328,9 +56328,9 @@ declare module '~icons/lucide/school-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/scissors-square' {
   /**
@@ -56343,9 +56343,9 @@ declare module 'virtual:icons/lucide/scissors-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/scissors-square' {
   /**
@@ -56358,9 +56358,9 @@ declare module '~icons/lucide/scissors-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/scissors-square-dashed-bottom' {
   /**
@@ -56373,9 +56373,9 @@ declare module 'virtual:icons/lucide/scissors-square-dashed-bottom' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/scissors-square-dashed-bottom' {
   /**
@@ -56388,9 +56388,9 @@ declare module '~icons/lucide/scissors-square-dashed-bottom' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/send-horizonal' {
   /**
@@ -56403,9 +56403,9 @@ declare module 'virtual:icons/lucide/send-horizonal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/send-horizonal' {
   /**
@@ -56418,9 +56418,9 @@ declare module '~icons/lucide/send-horizonal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/shield-close' {
   /**
@@ -56433,9 +56433,9 @@ declare module 'virtual:icons/lucide/shield-close' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/shield-close' {
   /**
@@ -56448,9 +56448,9 @@ declare module '~icons/lucide/shield-close' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sidebar' {
   /**
@@ -56463,9 +56463,9 @@ declare module 'virtual:icons/lucide/sidebar' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sidebar' {
   /**
@@ -56478,9 +56478,9 @@ declare module '~icons/lucide/sidebar' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sidebar-close' {
   /**
@@ -56493,9 +56493,9 @@ declare module 'virtual:icons/lucide/sidebar-close' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sidebar-close' {
   /**
@@ -56508,9 +56508,9 @@ declare module '~icons/lucide/sidebar-close' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sidebar-open' {
   /**
@@ -56523,9 +56523,9 @@ declare module 'virtual:icons/lucide/sidebar-open' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sidebar-open' {
   /**
@@ -56538,9 +56538,9 @@ declare module '~icons/lucide/sidebar-open' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sigma-square' {
   /**
@@ -56553,9 +56553,9 @@ declare module 'virtual:icons/lucide/sigma-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sigma-square' {
   /**
@@ -56568,9 +56568,9 @@ declare module '~icons/lucide/sigma-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/slash-square' {
   /**
@@ -56583,9 +56583,9 @@ declare module 'virtual:icons/lucide/slash-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/slash-square' {
   /**
@@ -56598,9 +56598,9 @@ declare module '~icons/lucide/slash-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sliders' {
   /**
@@ -56613,9 +56613,9 @@ declare module 'virtual:icons/lucide/sliders' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sliders' {
   /**
@@ -56628,9 +56628,9 @@ declare module '~icons/lucide/sliders' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sort-asc' {
   /**
@@ -56643,9 +56643,9 @@ declare module 'virtual:icons/lucide/sort-asc' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sort-asc' {
   /**
@@ -56658,9 +56658,9 @@ declare module '~icons/lucide/sort-asc' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/sort-desc' {
   /**
@@ -56673,9 +56673,9 @@ declare module 'virtual:icons/lucide/sort-desc' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/sort-desc' {
   /**
@@ -56688,9 +56688,9 @@ declare module '~icons/lucide/sort-desc' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/split-square-horizontal' {
   /**
@@ -56703,9 +56703,9 @@ declare module 'virtual:icons/lucide/split-square-horizontal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/split-square-horizontal' {
   /**
@@ -56718,9 +56718,9 @@ declare module '~icons/lucide/split-square-horizontal' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/split-square-vertical' {
   /**
@@ -56733,9 +56733,9 @@ declare module 'virtual:icons/lucide/split-square-vertical' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/split-square-vertical' {
   /**
@@ -56748,9 +56748,9 @@ declare module '~icons/lucide/split-square-vertical' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/square-gantt' {
   /**
@@ -56763,9 +56763,9 @@ declare module 'virtual:icons/lucide/square-gantt' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/square-gantt' {
   /**
@@ -56778,9 +56778,9 @@ declare module '~icons/lucide/square-gantt' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/square-gantt-chart' {
   /**
@@ -56793,9 +56793,9 @@ declare module 'virtual:icons/lucide/square-gantt-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/square-gantt-chart' {
   /**
@@ -56808,9 +56808,9 @@ declare module '~icons/lucide/square-gantt-chart' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/square-kanban-dashed' {
   /**
@@ -56823,9 +56823,9 @@ declare module 'virtual:icons/lucide/square-kanban-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/square-kanban-dashed' {
   /**
@@ -56838,9 +56838,9 @@ declare module '~icons/lucide/square-kanban-dashed' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/stars' {
   /**
@@ -56853,9 +56853,9 @@ declare module 'virtual:icons/lucide/stars' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/stars' {
   /**
@@ -56868,9 +56868,9 @@ declare module '~icons/lucide/stars' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/stop-circle' {
   /**
@@ -56883,9 +56883,9 @@ declare module 'virtual:icons/lucide/stop-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/stop-circle' {
   /**
@@ -56898,9 +56898,9 @@ declare module '~icons/lucide/stop-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/subtitles' {
   /**
@@ -56913,9 +56913,9 @@ declare module 'virtual:icons/lucide/subtitles' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/subtitles' {
   /**
@@ -56928,9 +56928,9 @@ declare module '~icons/lucide/subtitles' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/terminal-square' {
   /**
@@ -56943,9 +56943,9 @@ declare module 'virtual:icons/lucide/terminal-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/terminal-square' {
   /**
@@ -56958,9 +56958,9 @@ declare module '~icons/lucide/terminal-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/test-tube-2' {
   /**
@@ -56973,9 +56973,9 @@ declare module 'virtual:icons/lucide/test-tube-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/test-tube-2' {
   /**
@@ -56988,9 +56988,9 @@ declare module '~icons/lucide/test-tube-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/text-selection' {
   /**
@@ -57003,9 +57003,9 @@ declare module 'virtual:icons/lucide/text-selection' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/text-selection' {
   /**
@@ -57018,9 +57018,9 @@ declare module '~icons/lucide/text-selection' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/train' {
   /**
@@ -57033,9 +57033,9 @@ declare module 'virtual:icons/lucide/train' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/train' {
   /**
@@ -57048,9 +57048,9 @@ declare module '~icons/lucide/train' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/tv-2' {
   /**
@@ -57063,9 +57063,9 @@ declare module 'virtual:icons/lucide/tv-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/tv-2' {
   /**
@@ -57078,9 +57078,9 @@ declare module '~icons/lucide/tv-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/unlock' {
   /**
@@ -57093,9 +57093,9 @@ declare module 'virtual:icons/lucide/unlock' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/unlock' {
   /**
@@ -57108,9 +57108,9 @@ declare module '~icons/lucide/unlock' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/unlock-keyhole' {
   /**
@@ -57123,9 +57123,9 @@ declare module 'virtual:icons/lucide/unlock-keyhole' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/unlock-keyhole' {
   /**
@@ -57138,9 +57138,9 @@ declare module '~icons/lucide/unlock-keyhole' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/upload-cloud' {
   /**
@@ -57153,9 +57153,9 @@ declare module 'virtual:icons/lucide/upload-cloud' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/upload-cloud' {
   /**
@@ -57168,9 +57168,9 @@ declare module '~icons/lucide/upload-cloud' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-2' {
   /**
@@ -57183,9 +57183,9 @@ declare module 'virtual:icons/lucide/user-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-2' {
   /**
@@ -57198,9 +57198,9 @@ declare module '~icons/lucide/user-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-check-2' {
   /**
@@ -57213,9 +57213,9 @@ declare module 'virtual:icons/lucide/user-check-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-check-2' {
   /**
@@ -57228,9 +57228,9 @@ declare module '~icons/lucide/user-check-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-circle' {
   /**
@@ -57243,9 +57243,9 @@ declare module 'virtual:icons/lucide/user-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-circle' {
   /**
@@ -57258,9 +57258,9 @@ declare module '~icons/lucide/user-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-circle-2' {
   /**
@@ -57273,9 +57273,9 @@ declare module 'virtual:icons/lucide/user-circle-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-circle-2' {
   /**
@@ -57288,9 +57288,9 @@ declare module '~icons/lucide/user-circle-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-cog-2' {
   /**
@@ -57303,9 +57303,9 @@ declare module 'virtual:icons/lucide/user-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-cog-2' {
   /**
@@ -57318,9 +57318,9 @@ declare module '~icons/lucide/user-cog-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-minus-2' {
   /**
@@ -57333,9 +57333,9 @@ declare module 'virtual:icons/lucide/user-minus-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-minus-2' {
   /**
@@ -57348,9 +57348,9 @@ declare module '~icons/lucide/user-minus-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-plus-2' {
   /**
@@ -57363,9 +57363,9 @@ declare module 'virtual:icons/lucide/user-plus-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-plus-2' {
   /**
@@ -57378,9 +57378,9 @@ declare module '~icons/lucide/user-plus-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-square' {
   /**
@@ -57393,9 +57393,9 @@ declare module 'virtual:icons/lucide/user-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-square' {
   /**
@@ -57408,9 +57408,9 @@ declare module '~icons/lucide/user-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-square-2' {
   /**
@@ -57423,9 +57423,9 @@ declare module 'virtual:icons/lucide/user-square-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-square-2' {
   /**
@@ -57438,9 +57438,9 @@ declare module '~icons/lucide/user-square-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/user-x-2' {
   /**
@@ -57453,9 +57453,9 @@ declare module 'virtual:icons/lucide/user-x-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/user-x-2' {
   /**
@@ -57468,9 +57468,9 @@ declare module '~icons/lucide/user-x-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/users-2' {
   /**
@@ -57483,9 +57483,9 @@ declare module 'virtual:icons/lucide/users-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/users-2' {
   /**
@@ -57498,9 +57498,9 @@ declare module '~icons/lucide/users-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/verified' {
   /**
@@ -57513,9 +57513,9 @@ declare module 'virtual:icons/lucide/verified' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/verified' {
   /**
@@ -57528,9 +57528,9 @@ declare module '~icons/lucide/verified' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/wallet-2' {
   /**
@@ -57543,9 +57543,9 @@ declare module 'virtual:icons/lucide/wallet-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/wallet-2' {
   /**
@@ -57558,9 +57558,9 @@ declare module '~icons/lucide/wallet-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/wand-2' {
   /**
@@ -57573,9 +57573,9 @@ declare module 'virtual:icons/lucide/wand-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/wand-2' {
   /**
@@ -57588,9 +57588,9 @@ declare module '~icons/lucide/wand-2' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/x-circle' {
   /**
@@ -57603,9 +57603,9 @@ declare module 'virtual:icons/lucide/x-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/x-circle' {
   /**
@@ -57618,9 +57618,9 @@ declare module '~icons/lucide/x-circle' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/x-octagon' {
   /**
@@ -57633,9 +57633,9 @@ declare module 'virtual:icons/lucide/x-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/x-octagon' {
   /**
@@ -57648,9 +57648,9 @@ declare module '~icons/lucide/x-octagon' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module 'virtual:icons/lucide/x-square' {
   /**
@@ -57663,9 +57663,9 @@ declare module 'virtual:icons/lucide/x-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 
 declare module '~icons/lucide/x-square' {
   /**
@@ -57678,9 +57678,9 @@ declare module '~icons/lucide/x-square' {
    * @license ISC
    * @see https://github.com/lucide-icons/lucide
    */
-  const component: string;
-  export default component;
-};
+  const component: string
+  export default component
+}
 /* End of Lucide */
 /* Academicons pack */
 

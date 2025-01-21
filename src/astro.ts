@@ -14,7 +14,7 @@ declare module 'virtual:icons/${pack}/${icon}' {
    */
   const component: (props: astroHTML.JSX.SVGAttributes) => astroHTML.JSX.Element
   export default component
-};
+}
 
 declare module '~icons/${pack}/${icon}' {
   /**
@@ -28,7 +28,7 @@ declare module '~icons/${pack}/${icon}' {
    */
   const component: (props: astroHTML.JSX.SVGAttributes) => astroHTML.JSX.Element
   export default component
-};
+}
 `;
 
 const generateAliasTypeDeclaration = (icon: string, alias: string, pack: string, info: IconifyInfo, preview?: string) => `
@@ -45,7 +45,7 @@ declare module 'virtual:icons/${pack}/${icon}' {
    */
   const component: (props: astroHTML.JSX.SVGAttributes) => astroHTML.JSX.Element
   export default component
-};
+}
 
 declare module '~icons/${pack}/${icon}' {
   /**
@@ -60,7 +60,7 @@ declare module '~icons/${pack}/${icon}' {
    */
   const component: (props: astroHTML.JSX.SVGAttributes) => astroHTML.JSX.Element
   export default component
-};
+}
 `;
 
 export const AstroTypeGenerator: TypeGenerator = {
