@@ -8017,7 +8017,9 @@ declare module '~icons/feather/zoom-out' {
   const component: string;
   export default component;
 };
+
 /* End of Feather Icons */
+
 /* Lucide pack */
 
 declare module '~icons/lucide' {
@@ -57681,7 +57683,9 @@ declare module '~icons/lucide/x-square' {
   const component: string
   export default component
 }
+
 /* End of Lucide */
+
 /* Academicons pack */
 
 declare module '~icons/academicons' {
@@ -62117,4 +62121,6 @@ declare module '~icons/academicons/zotero-square' {
   const component: string;
   export default component;
 };
+
 /* End of Academicons */
+

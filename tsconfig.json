@@ -17,7 +17,7 @@
     "noEmit": true,
     "types": [
       "node",
-      "./.unplugin/type.d.ts"
+      "./.unplugin/vanilla.d.ts"
     ],
     /* Linting */
     "strict": true,
@@ -28,5 +28,7 @@
   },
   "include": [
     "src/**/*.ts",
+    "tester.ts",
+    "main.ts"
   ]
 }

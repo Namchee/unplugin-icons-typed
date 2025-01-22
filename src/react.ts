@@ -16,7 +16,7 @@ declare module 'virtual:icons/${pack}/${icon}' {
    */
   const component: ForwardRefExoticComponent<SVGProps<SVGSVGElement>>
   export default component
-};
+}
 
 declare module '~icons/${pack}/${icon}' {
   import type { ForwardRefExoticComponent, SVGProps } from 'react'

@@ -67,7 +67,7 @@ export function generateDeclarationFile(iconPacks: IconPack[], generator: TypeGe
       }
     }
 
-    packDeclaration += `/* End of ${pack.info.name} */\n`;
+    packDeclaration += `\n/* End of ${pack.info.name} */\n\n`;
 
     declaration += packDeclaration;
   }
