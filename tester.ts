@@ -1,4 +1,4 @@
-import Acclaim from '~icons/academicons/academia'
+import Circle from '~icons/lucide/circle';
 
-import CircleLucide from '~icons/lucide/circle';
-import CircleFeather from '~icons/feather/circle';
+import Play from '~icons/feather/play';
+
