@@ -11,9 +11,13 @@ import { PreactTypeGenerator } from "./src/preact";
 import { QwikTypeGenerator } from "./src/qwik";
 import { SolidTypeGenerator } from "./src/solid";
 import { SvelteTypeGenerator } from "./src/svelte";
+import { Svelte3TypeGenerator } from "./src/svelte3";
+import { Svelte4TypeGenerator } from "./src/svelte4";
 import { WebComponentTypeGenerator } from "./src/web-components";
 
 import { generatePreviewCache, generateDeclarationFile } from "./src/gen";
+
+import mri from "mri";
 
 import type { IconPack } from "./src/types";
 
@@ -28,6 +32,11 @@ const baseIconifyDir = resolve(
 const hasAllIconPack = existsSync(baseIconifyDir);
 
 let iconDef: IconPack[] = [];
+
+const argv = process.argv.slice(2);
+
+const args = mri(argv);
+
 
 if (hasAllIconPack) {
   const defPath = readdirSync(basePackDir);
@@ -72,6 +81,8 @@ const generatorMap = {
   "preact.d.ts": PreactTypeGenerator,
   "qwik.d.ts": QwikTypeGenerator,
   "solid.d.ts": SolidTypeGenerator,
+  "svelte3.d.ts": Svelte3TypeGenerator,
+  "svelte4.d.ts": Svelte4TypeGenerator,
   "svelte5.d.ts": SvelteTypeGenerator,
   "web-components.d.ts": WebComponentTypeGenerator,
 };
