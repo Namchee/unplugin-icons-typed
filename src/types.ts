@@ -8,7 +8,8 @@ export type IconPack = {
 }
 
 export type TypeGenerator = {
-  header: string;
+  preProcessing?: (content: string) => string;
+  postProcessing?: (content: string) => string;
   generateIconTypeDeclaration: (icon: string, preview: string, pack: string, info: IconifyInfo) => string;
   generateAliasTypeDeclaration: (icon: string, alias: string, pack: string, info: IconifyInfo, preview?: string) => string;
 }

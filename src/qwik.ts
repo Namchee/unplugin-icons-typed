@@ -72,7 +72,6 @@ declare module '~icons/${pack}/${icon}' {
 `;
 
 export const QwikTypeGenerator: TypeGenerator = {
-  header: '',
   generateIconTypeDeclaration,
   generateAliasTypeDeclaration,
 }

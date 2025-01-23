@@ -64,7 +64,7 @@ declare module '~icons/${pack}/${icon}' {
 `;
 
 export const AstroTypeGenerator: TypeGenerator = {
-  header: '/// <reference types="astro/astro-jsx" />',
+  preProcessing: (content: string) => content + '/// <reference types="astro/astro-jsx" />\n',
   generateIconTypeDeclaration,
   generateAliasTypeDeclaration,
 }

@@ -72,7 +72,6 @@ declare module '~icons/${pack}/${icon}' {
 `;
 
 export const SolidTypeGenerator: TypeGenerator = {
-  header: '',
   generateIconTypeDeclaration,
   generateAliasTypeDeclaration,
 }

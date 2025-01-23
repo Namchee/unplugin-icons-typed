@@ -50,7 +50,10 @@ export function generatePreviewCache(iconPacks: IconPack[]): PreviewCache {
 }
 
 export function generateDeclarationFile(iconPacks: IconPack[], generator: TypeGenerator, cache: PreviewCache) {
-  let declaration = `${generator.header ? generator.header + "\n" : ""}`;
+  let declaration = "";
+  if (generator.preProcessing) {
+    declaration = generator.preProcessing(declaration);
+  }
 
   for (const pack of iconPacks) {
     let packDeclaration = `/* ${pack.info.name} pack */\n`;
@@ -70,6 +73,10 @@ export function generateDeclarationFile(iconPacks: IconPack[], generator: TypeGe
     packDeclaration += `\n/* End of ${pack.info.name} */\n\n`;
 
     declaration += packDeclaration;
+  }
+
+  if (generator.postProcessing) {
+    declaration = generator.postProcessing(declaration);
   }
 
   return declaration;

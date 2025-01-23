@@ -80,7 +80,6 @@ declare module '~icons/${pack}/${icon}' {
 `;
 
 export const SvelteTypeGenerator: TypeGenerator = {
-  header: '',
   generateIconTypeDeclaration,
   generateAliasTypeDeclaration,
 }
