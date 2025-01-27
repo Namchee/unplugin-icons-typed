@@ -14,6 +14,7 @@
     "@iconify-json/feather": "^1.2.1",
     "@iconify-json/lucide": "^1.2.23",
     "@iconify/json": "^2.2.296",
+    "@iconify/types": "^2.0.0",
     "@types/node": "^22.10.7",
     "lucide-react": "^0.472.0",
     "tinyglobby": "^0.2.10",
@@ -22,6 +23,6 @@
     "vite": "^6.0.5"
   },
   "dependencies": {
-    "mri": "^1.2.0"
+    "citty": "^0.1.6"
   }
 }

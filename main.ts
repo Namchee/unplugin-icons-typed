@@ -17,7 +17,7 @@ import { WebComponentTypeGenerator } from "./src/web-components";
 
 import { generatePreviewCache, generateDeclarationFile } from "./src/gen";
 
-import mri from "mri";
+import { defineCommand } from "citty";
 
 import type { IconPack } from "./src/types";
 
@@ -35,7 +35,25 @@ let iconDef: IconPack[] = [];
 
 const argv = process.argv.slice(2);
 
-const args = mri(argv);
+const main = defineCommand({
+  meta: {
+    name: 'unplugin-icons-typegen',
+    version: '0.0.1',
+    description: 'Type generator for unplugin-icons',
+  },
+  args: {
+    includeVirtual: {
+      type: 'boolean',
+      description: 'Include virtual icons in generated types',
+      required: false,
+      default: false,
+    },
+    framework: {
+      type: 'string',
+
+    }
+  }
+})
 
 
 if (hasAllIconPack) {
